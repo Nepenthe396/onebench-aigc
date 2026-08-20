@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "feedUrl": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+  "sourceId": "bbc-zh",
+  "title": "BBC 中文",
+  "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#0",
+      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T06:43:47.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#0",
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T04:00:32.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#0",
+      "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:13:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#0",
+      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
+      "meta": "BBC 中文 · 2026/8/20",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T00:07:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad#1",
+      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:50:11.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#1",
+      "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T12:47:27.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#0",
+      "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T10:33:54.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad#1",
+      "title": "專門減肥藥能否提升運動員表現？",
+      "meta": "BBC 中文 · 2026/8/19",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T00:07:17.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#1",
+      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
+      "meta": "BBC 中文 · 2026/8/18",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T23:53:38.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#1",
+      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
+      "meta": "BBC 中文 · 2026/8/18",
+      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T18:00:44.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad#4",
+      "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
+      "meta": "BBC 中文 · 2026/8/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T00:15:00.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad#1",
+      "title": "日本企業應用人工智慧為何如此緩慢？",
+      "meta": "BBC 中文 · 2026/8/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T00:06:44.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#1",
+      "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
+      "meta": "BBC 中文 · 2026/8/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T00:01:37.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#5",
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T14:43:54.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#1",
+      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T12:16:16.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad#4",
+      "title": "泰國槍枝問題規模有多大？1000萬把槍",
+      "meta": "BBC 中文 · 2026/8/17",
+      "url": "https://www.bbc.com/zhongwen/articles/cpw994wrjl5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T09:43:58.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "meta": "BBC 中文 · 2026/8/16",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T10:44:03.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3044704219o/trad#4",
+      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
+      "meta": "BBC 中文 · 2026/8/16",
+      "url": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T03:50:04.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad#4",
+      "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
+      "meta": "BBC 中文 · 2026/8/15",
+      "url": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T03:19:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad#2",
+      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T09:36:38.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#3",
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T05:11:59.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad#2",
+      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T03:41:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cg4dp9g9v1ko/trad#2",
+      "title": "「白海豚」中國暴雨持續：為何颱風災情愈來愈深入內陸地區？",
+      "meta": "BBC 中文 · 2026/8/13",
+      "url": "https://www.bbc.com/zhongwen/articles/cg4dp9g9v1ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T12:32:18.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad#2",
+      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T15:24:03.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad#5",
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "meta": "BBC 中文 · 2026/8/12",
+      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T08:31:43.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad#2",
+      "title": "台灣首度演練「斷網半小時」：戰時通訊中斷，民眾準備好了嗎？",
+      "meta": "BBC 中文 · 2026/8/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2g51m6vlpo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T11:00:58.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "meta": "BBC 中文 · 2026/8/4",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T00:01:45.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "meta": "BBC 中文 · 2026/8/1",
+      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T09:56:01.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad#3",
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "meta": "BBC 中文 · 2026/7/29",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T11:14:21.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#3",
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "meta": "BBC 中文 · 2026/7/28",
+      "url": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T08:43:16.000Z"
+    }
+  ],
+  "updatedAt": "2026-08-20T07:06:07.196Z",
+  "provider": "OneBench 公共资讯快照"
+}
