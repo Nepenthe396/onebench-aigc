@@ -420,12 +420,22 @@ export function App() {
             const storedWs = JSON.parse(storedRaw)
             const seedTime = seed.workspace.updatedAt ? new Date(seed.workspace.updatedAt).getTime() : 0
             const storedTime = storedWs.updatedAt ? new Date(storedWs.updatedAt).getTime() : 0
-            if (seed.workspace.id !== storedWs.id || seedTime <= storedTime) return
-            // 种子配置更新（同 ID 且更新时间更晚）：仅刷新工作台结构，保留用户数据
+            if (seedTime <= storedTime) return
             const nextWorkspace = normalizeWorkspace(seed.workspace)
-            persistWorkspace(nextWorkspace)
-            setPrompt(nextWorkspace.intent)
-            setToast('工作台配置已更新到最新版本。')
+            if (seed.workspace.id !== storedWs.id) {
+              // 工作台标识变更：应用新结构并载入配套示例数据
+              const nextData = seed.data || defaultWorkspaceData(nextWorkspace)
+              persistWorkspace(nextWorkspace)
+              persistData(nextData, nextWorkspace)
+              setPrompt(nextWorkspace.intent)
+              setTimerSeconds((nextData.focus?.minutes || 25) * 60)
+              setToast('工作台已更新到最新版本。')
+            } else {
+              // 种子配置更新（同 ID 且更新时间更晚）：仅刷新工作台结构，保留用户数据
+              persistWorkspace(nextWorkspace)
+              setPrompt(nextWorkspace.intent)
+              setToast('工作台配置已更新到最新版本。')
+            }
             return
           } catch { /* fall through to fresh seed */ }
         }
