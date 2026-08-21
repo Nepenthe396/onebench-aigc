@@ -408,12 +408,27 @@ export function App() {
   }, [])
 
   useEffect(() => {
-    if (embeddedSeed || localStorage.getItem(WORKSPACE_STORAGE_KEY)) return undefined
+    if (embeddedSeed) return undefined
     let cancelled = false
     fetch(`${import.meta.env.BASE_URL}onebench-seed.json`, { cache: 'no-store' })
       .then((response) => response.ok ? response.json() : null)
       .then((seed) => {
         if (cancelled || !seed?.workspace) return
+        const storedRaw = localStorage.getItem(WORKSPACE_STORAGE_KEY)
+        if (storedRaw) {
+          try {
+            const storedWs = JSON.parse(storedRaw)
+            const seedTime = seed.workspace.updatedAt ? new Date(seed.workspace.updatedAt).getTime() : 0
+            const storedTime = storedWs.updatedAt ? new Date(storedWs.updatedAt).getTime() : 0
+            if (seed.workspace.id !== storedWs.id || seedTime <= storedTime) return
+            // 种子配置更新（同 ID 且更新时间更晚）：仅刷新工作台结构，保留用户数据
+            const nextWorkspace = normalizeWorkspace(seed.workspace)
+            persistWorkspace(nextWorkspace)
+            setPrompt(nextWorkspace.intent)
+            setToast('工作台配置已更新到最新版本。')
+            return
+          } catch { /* fall through to fresh seed */ }
+        }
         const nextWorkspace = normalizeWorkspace(seed.workspace)
         const nextData = seed.data || defaultWorkspaceData(nextWorkspace)
         persistWorkspace(nextWorkspace)
