@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
   "id": "4c914037-a4ef-42a1-80d2-8057445ca090",
-  "name": "AIGC 创作台",
+  "name": "AIGC 创作工作台",
   "sourcePack": "creator",
-  "intent": "我是AIGC设计师和AIGC视频创作者，想管理提示词资产库、角色与物体一致性管理、素材与成片版本管理、AI内容质量风控体系、生产效率与算力调度、版权与交付归档",
+  "intent": "AIGC设计师和AI视频创作者标准化工作台。4大核心模块：1.Prompt资产库（图像/视频模板分类管理，单条标准归档格式含正向/反向/参数/备注），2.视觉一致性资产包（人物角色参考图集+产品基准素材+特征固化记录，解决变脸/漂移/变形），3.项目文件版本管理（统一文件夹层级01参考→02草稿→03精修→04交付，命名规范_场景_版本号_日期，不覆盖旧版本），4.质量验收&版权风控（图像验收清单+视频验收清单+版权风控规则）。分级算力L1快速测试→L2样品定稿→L3商用交付。日常SOP闭环：需求拆解→资产调用→快速试错→方案定稿→高清出片→质量核验→精修输出→归档沉淀。",
   "profile": {
     "displayName": "朋友",
     "avatarId": "role"
   },
   "createdAt": "2026-08-20T09:18:27.545Z",
-  "updatedAt": "2026-08-20T09:18:27.546Z",
+  "updatedAt": "2026-08-21T02:33:00.000Z",
   "theme": {
     "id": "creator-coral",
     "name": "创作珊瑚",
@@ -18,136 +18,136 @@
   "layout": "focus-first",
   "modules": [
     {
-      "id": "calendar",
+      "id": "content-pipeline",
       "enabled": true,
       "placement": "home",
-      "size": "small",
+      "size": "wide",
       "order": 0
-    },
-    {
-      "id": "weather",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "small",
-      "order": 1
     },
     {
       "id": "tasks",
       "enabled": true,
       "placement": "home",
       "size": "medium",
-      "order": 2
-    },
-    {
-      "id": "quick-note",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 3
-    },
-    {
-      "id": "habits",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 4
-    },
-    {
-      "id": "news",
-      "enabled": true,
-      "placement": "home",
-      "size": "medium",
-      "order": 5
-    },
-    {
-      "id": "profile",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 6
-    },
-    {
-      "id": "appearance",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 7
-    },
-    {
-      "id": "sync",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 8
-    },
-    {
-      "id": "settings",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 9
-    },
-    {
-      "id": "inbox",
-      "enabled": true,
-      "placement": "home",
-      "size": "medium",
-      "order": 10
-    },
-    {
-      "id": "content-pipeline",
-      "enabled": true,
-      "placement": "home",
-      "size": "wide",
-      "order": 11
-    },
-    {
-      "id": "content-calendar",
-      "enabled": true,
-      "placement": "home",
-      "size": "medium",
-      "order": 12
-    },
-    {
-      "id": "analytics",
-      "enabled": true,
-      "placement": "home",
-      "size": "medium",
-      "order": 13
-    },
-    {
-      "id": "goals",
-      "enabled": true,
-      "placement": "sidebar",
-      "size": "medium",
-      "order": 14
+      "order": 1
     },
     {
       "id": "review",
       "enabled": true,
       "placement": "home",
       "size": "medium",
-      "order": 15
+      "order": 2
     },
     {
       "id": "files",
       "enabled": true,
-      "placement": "sidebar",
-      "size": "wide",
-      "order": 16
+      "placement": "home",
+      "size": "medium",
+      "order": 3
     },
     {
-      "id": "reading",
+      "id": "content-calendar",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 4
+    },
+    {
+      "id": "inbox",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 5
+    },
+    {
+      "id": "analytics",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 6
+    },
+    {
+      "id": "calendar",
+      "enabled": true,
+      "placement": "home",
+      "size": "small",
+      "order": 7
+    },
+    {
+      "id": "goals",
       "enabled": true,
       "placement": "sidebar",
       "size": "medium",
-      "order": 17
+      "order": 8
+    },
+    {
+      "id": "quick-note",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 9
+    },
+    {
+      "id": "habits",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 10
     },
     {
       "id": "diary",
       "enabled": true,
       "placement": "sidebar",
       "size": "medium",
+      "order": 11
+    },
+    {
+      "id": "reading",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 12
+    },
+    {
+      "id": "news",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 13
+    },
+    {
+      "id": "profile",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 14
+    },
+    {
+      "id": "appearance",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 15
+    },
+    {
+      "id": "sync",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 16
+    },
+    {
+      "id": "settings",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 17
+    },
+    {
+      "id": "weather",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "small",
       "order": 18
     }
   ],
