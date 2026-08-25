@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T19:49:31.141Z",
-  "expiresAt": "2026-08-26T01:49:31.141Z",
+  "generatedAt": "2026-08-25T21:47:47.493Z",
+  "expiresAt": "2026-08-26T03:47:47.493Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,60 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "title": "俄远东在建天然气化工项目火灾致死人数升至3人",
+      "category": "综合",
+      "summary": "中新社莫斯科8月25日电 位于俄罗斯远东阿穆尔州的阿穆尔天然气化工综合体项目25日通报称，该项目当天发生的火灾事故导致的死亡人数升至3人，146人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684216.shtml",
+      "publishedAt": "2026-08-25T21:44:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
+      "title": "美国8月消费者信心指数降至7个月来最低值",
+      "category": "综合",
+      "summary": "中新社华盛顿8月25日电 (记者 沙晗汀)世界大型企业联合会当地时间25日公布数据显示，美国8月消费者信心指数降至89.4，创7个月来最低值。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-26/10684215.shtml",
+      "publishedAt": "2026-08-25T20:07:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684214.shtml",
+      "title": "广西龙州多个村落成“孤岛” 救援人员水陆多轮接力紧急送物资",
+      "category": "综合",
+      "summary": "中新社广西龙州8月26日电 题：广西龙州多个村落成“孤岛” 救援人员水陆多轮接力紧急送物资",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684214.shtml",
+      "publishedAt": "2026-08-25T20:06:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-26/10684213.shtml",
       "title": "湄公河水位上涨致柬埔寨四省逾1.8万户家庭受灾",
@@ -525,60 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684182.shtml",
       "publishedAt": "2026-08-25T13:55:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "title": "“香港动能”主题巡展天津启幕 冀拓津港合作新空间",
-      "category": "综合",
-      "summary": "中新网天津8月25日电 (记者 周亚强)香港特别行政区政府驻北京办事处主任姚继卓25日在天津表示，天津与香港同属国家区域协调发展和高水平对外开放的关键节点，津港合作根基深厚，期待两地共同把握“十五五”新机遇。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-25/10684181.shtml",
-      "publishedAt": "2026-08-25T13:51:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
-      "title": "浙江制造业深度拥抱人工智能 加快推进体系化落地",
-      "category": "综合",
-      "summary": "中新网绍兴8月25日电(蓝伊旎)8月25日，浙江省“十链百场万企”系列对接活动之“AI+制造”专场在浙江杭州举办。人工智能服务商、制造业企业面对面对接，共同推动AI与制造业深度融合。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
-      "publishedAt": "2026-08-25T13:48:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-25/10684173.shtml",
-      "title": "张荣恭冀两岸青年在振兴中华过程中相向而行",
-      "category": "综合",
-      "summary": "中新社上海8月25日电 (记者 缪璐 陈建新)“同心同行——两岸青年交流季上海站”活动25日举行。中国国民党副主席张荣恭致辞时表示，两岸青年要加强交流合作，在振兴中华的过程中相向而行，创造辉煌共好的中华时代。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-25/10684173.shtml",
-      "publishedAt": "2026-08-25T13:43:30.000Z",
       "tags": [
         "国内",
         "社会",
