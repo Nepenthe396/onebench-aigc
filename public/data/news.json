@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T20:23:02.688Z",
-  "expiresAt": "2026-08-30T02:23:02.688Z",
+  "generatedAt": "2026-08-29T22:22:59.659Z",
+  "expiresAt": "2026-08-30T04:22:59.659Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
+      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+      "category": "综合",
+      "summary": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过伊朗的协调和许可。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
+      "publishedAt": "2026-08-29T22:16:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
+      "title": "斯诺克武汉公开赛：常冰玉斩获首个排名赛冠军",
+      "category": "综合",
+      "summary": "中新社武汉8月30日电 (记者 张芹)2026世界斯诺克武汉公开赛29日晚收官。决赛中，常冰玉以10：7击败赵心童，获得个人职业生涯首个斯诺克排名赛冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-30/10686610.shtml",
+      "publishedAt": "2026-08-29T22:09:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
+      "title": "强降雨致云南磨憨水库漫坝 紧急转移2200余人",
+      "category": "综合",
+      "summary": "中新社昆明8月29日电 (陆希成)昆明市防汛抗旱指挥部办公室29日通报，8月28日至29日，磨憨镇出现强降雨，辖区河道水位持续上涨，该镇磨龙村盐塘水库出现漫坝险情，有溃坝风险。截至8月29日16时，已转移2200余人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-30/10686609.shtml",
+      "publishedAt": "2026-08-29T22:09:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
+      "title": "王毅同尼泊尔外长通电话：面对灾情，两国要坚定站在一起",
+      "category": "综合",
+      "summary": "中新社北京8月29日电 中共中央政治局委员、外交部长王毅29日同尼泊尔外长希西尔通电话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-30/10686608.shtml",
+      "publishedAt": "2026-08-29T22:08:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/08-30/10686607.shtml",
       "title": "中超第25轮：国安战平英博 降级区内斗海牛惨败",
@@ -490,78 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686575.shtml",
       "publishedAt": "2026-08-29T13:28:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686574.shtml",
-      "title": "时政微观察丨“玛纳斯”见证中吉传统友谊",
-      "category": "综合",
-      "summary": "时维孟秋，天朗气清。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686574.shtml",
-      "publishedAt": "2026-08-29T13:26:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-29/10686572.shtml",
-      "title": "准确溯源冰岩崩位置 应急管理部部署卫星遥感加强吉隆泥石流灾害监测",
-      "category": "综合",
-      "summary": "中新网北京 8月29日电(记者 郭超凯 陈溯)卫星遥感具有全天候、全天时、高动态等观测优势。根据西藏日喀则市吉隆县泥石流灾害救援需要，应急管理部部署国家减灾中心启动卫星应急数据获取机制，综合利用应急减灾、资源、高分等系列卫星数据资源，对灾害过程开展监测。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-29/10686572.shtml",
-      "publishedAt": "2026-08-29T13:26:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-29/10686573.shtml",
-      "title": "吉尔吉斯斯坦各界期待习近平主席对吉进行国事访问",
-      "category": "综合",
-      "summary": "新华社北京/比什凯克8月29日电#8195;应吉尔吉斯斯坦总统扎帕罗夫邀请，国家主席习近平将对吉尔吉斯斯坦进行国事访问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686573.shtml",
-      "publishedAt": "2026-08-29T13:24:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/08-29/10686567.shtml",
-      "title": "侨界爱心人士积极参与广西灾后重建 助困难学子求学",
-      "category": "综合",
-      "summary": "中新网南宁8月29日电(林浩)“今年夏季，我的家乡遭遇严重洪涝灾害，家人一度陷入焦虑与无助，我对未来的求学之路充满迷茫。此次爱心人士提供的捐款，缓解了我的经济压力，让我能放下顾虑、安心求学。”8月28日，来自广西横州市的学生陆琳琳说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/08-29/10686567.shtml",
-      "publishedAt": "2026-08-29T13:22:54.000Z",
       "tags": [
         "国内",
         "社会",
