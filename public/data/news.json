@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T16:26:56.619Z",
-  "expiresAt": "2026-09-05T22:26:56.619Z",
+  "generatedAt": "2026-09-05T18:28:33.218Z",
+  "expiresAt": "2026-09-06T00:28:33.218Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+      "title": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+      "category": "综合",
+      "summary": "受台风“沙德尔”持续强降雨天气影响，9月5日，江西省遂川县高坪镇明坑村石下组突发泥石流地质灾害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+      "publishedAt": "2026-09-05T17:00:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-06/10691225.shtml",
       "title": "乒乓球德甲第四轮：樊振东独得两分帮助球队四轮全胜",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691190.shtml",
       "publishedAt": "2026-09-05T15:25:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-05/10691182.shtml",
-      "title": "重庆巴南启幕首届云端梯田丰收季 稻浪为幕庆丰年",
-      "category": "综合",
-      "summary": "中新网重庆9月5日电 (记者 钟旖)5日，重庆市巴南区首届云端梯田丰收季在石滩镇芦花坪梯田启幕。500余亩层层叠叠的梯田依山蜿蜒，稻穗低垂、满目金黄，在云雾缭绕间展开秋日画卷。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691182.shtml",
-      "publishedAt": "2026-09-05T15:24:54.000Z",
       "tags": [
         "国内",
         "社会",

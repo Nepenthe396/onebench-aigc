@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+      "title": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+      "meta": "中国新闻网 · 2026/9/5",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+      "publishedAt": "2026-09-05T17:00:14.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-06/10691225.shtml",
       "title": "乒乓球德甲第四轮：樊振东独得两分帮助球队四轮全胜",
       "meta": "中国新闻网 · 2026/9/5",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/9/5",
       "url": "https://www.chinanews.com.cn/gj/2026/09-05/10691190.shtml",
       "publishedAt": "2026-09-05T15:25:48.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-05/10691182.shtml",
-      "title": "重庆巴南启幕首届云端梯田丰收季 稻浪为幕庆丰年",
-      "meta": "中国新闻网 · 2026/9/5",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-05/10691182.shtml",
-      "publishedAt": "2026-09-05T15:24:54.000Z"
     }
   ],
-  "updatedAt": "2026-09-05T16:26:56.619Z",
+  "updatedAt": "2026-09-05T18:28:33.218Z",
   "provider": "OneBench 公共资讯快照"
 }
