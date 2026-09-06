@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T12:31:49.840Z",
-  "expiresAt": "2026-09-06T18:31:49.840Z",
+  "generatedAt": "2026-09-06T14:26:51.132Z",
+  "expiresAt": "2026-09-06T20:26:51.132Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,365 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691597.shtml",
+      "title": "青春华章丨“时代楷模”王戟：只要大脑还能思考，我就是科研战场上的战士",
+      "category": "综合",
+      "summary": "中新网合肥9月6日电(记者 任帅 张强 储玮玮) 9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。“时代楷模”、国防科技大学计算机学院研究员王戟感慨道：“如今，我坐着轮椅，继续追逐前沿科技，继续为科技强军努力工作。只要大脑还能思考，我就是科研战场上的战士，只要双手还能敲键盘，我就可以继续冲锋！”王戟感",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691597.shtml",
+      "publishedAt": "2026-09-06T14:01:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691594.shtml",
+      "title": "青春华章丨院士展示三件信物勉励莘莘学子",
+      "category": "综合",
+      "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学(简称“中国科大”)举行。中国科学院院士、中国科学技术大学校长常进在会上，用三件信物勉励莘莘学子：一枚重达515克、纯金打造的“两弹一星”功勋奖章；一块粗糙的红砖；一组珍贵照片。常进动情地说，愿学生们像“两弹一",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691594.shtml",
+      "publishedAt": "2026-09-06T13:32:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691593.shtml",
+      "title": "青春华章丨中国工程院院士陈立泉：国家需要什么，我们就做什么",
+      "category": "综合",
+      "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮) 9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。 2025年度国家最高科学技术奖获得者、中国工程院院士陈立泉说，科学家的一项重要使命，就是要为国家十年、二十年乃至五十年后，布局未来。国家需要什么，我们就做什么。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691593.shtml",
+      "publishedAt": "2026-09-06T13:25:13.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691591.shtml",
+      "title": "青春华章丨86岁院士有了新理想",
+      "category": "综合",
+      "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。 2025年度国家最高科学技术奖获得者、中国工程院院士陈立泉说，86岁的他如今又有了新的理想：不远的将来，天上的飞行器是电的，海里的船舶是电的，空间站里，宇航员呼出的二氧化碳也能发电……我把它叫做“电动中",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691591.shtml",
+      "publishedAt": "2026-09-06T13:22:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad#0",
+      "title": "印度洋蔥「政治敏感」得要坐上鐵路快車",
+      "category": "国际",
+      "summary": "印度洋蔥價格急劇飆升，這種家家戶戶必備食材正被運往主要城市。這個國家生產和消費大量洋蔥，而其價格波動歷來具有政治影響。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T13:17:31.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml",
+      "title": "哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印",
+      "category": "综合",
+      "summary": "中新网北京9月6日电 在哈尔滨医科大学迎来建校100周年之际，中国科学技术出版社近日对16年前出版的《发现伍连德——诺贝尔奖候选人华人第一人》一书首版进行了二次印刷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml",
+      "publishedAt": "2026-09-06T13:08:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-06/10691586.shtml",
+      "title": "香港新赛马季开锣日：观赛游客数量同比增74%",
+      "category": "综合",
+      "summary": "中新社香港9月6日电 (记者 刘玥晴)香港赛马会(简称“马会”)2026/2027年度赛马季6日在香港沙田马场揭幕，共吸引超过4.3万人次观众入场，其中包括逾1.22万人次内地及海外游客，游客数量同比增长74%。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691586.shtml",
+      "publishedAt": "2026-09-06T13:00:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691574.shtml",
+      "title": "2026中国羽毛球大师赛：韩国名将安洗莹夺得女单冠军",
+      "category": "综合",
+      "summary": "9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在女单决赛中，韩国名将安洗莹2:0战胜日本选手宫崎友花，夺得冠军。图为安洗莹在比赛中。中新社记者 陈骥旻 摄 9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在女单决赛中，韩国名将安洗莹2:0战胜日本选手宫崎友花，夺得冠军。图为安洗莹庆祝胜利。中新社记者 陈骥旻 摄 9月6日",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691574.shtml",
+      "publishedAt": "2026-09-06T12:52:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
+      "title": "2026年全国羽毛球单项锦标赛在合肥开赛",
+      "category": "综合",
+      "summary": "9月6日，2026年全国羽毛球单项锦标赛在合肥开赛。本次比赛共吸引来自全国23支代表队的588名运动员参赛。他们将在为期8天的赛程中，角逐男单、女单、男双、女双和混双五个项目的冠军。图为运动员在比赛中。中新社记者 韩苏原 摄 9月6日，2026年全国羽毛球单项锦标赛在合肥开赛。本次比赛共吸引来自全国23支代表队的588名运动员参赛。他们将在为期8天的赛程中，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
+      "publishedAt": "2026-09-06T12:51:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
+      "title": "西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜",
+      "category": "综合",
+      "summary": "中新社西藏吉隆9月6日电 (记者 赵朗)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，西藏将对吉隆口岸周边灾害风险深入评估，对口岸相关功能恢复等事宜进行深入研究论证。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
+      "publishedAt": "2026-09-06T12:49:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
+      "title": "近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情",
+      "category": "综合",
+      "summary": "中新网瑞丽9月6日电 (杨雪梅)6日，2026年瑞丽市首届“瑞丽江杯”系列体育赛事在位于云南省德宏傣族景颇族自治州的瑞丽国际文体中心开幕。来自中缅两国的近1500名运动员齐聚边城瑞丽，以体育赛事为媒，共叙“胞波”情谊。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
+      "publishedAt": "2026-09-06T12:48:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203362.shtml",
+      "title": "2026中国羽毛球大师赛：中国香港选手吴英伦夺得男单冠军",
+      "category": "综合",
+      "summary": "9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在男单决赛中，中国香港选手吴英伦2:0战胜队友李卓耀，夺得冠军。图为吴英伦在比赛中。中新社记者 陈骥旻 摄 9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在男单决赛中，中国香港选手吴英伦2:0战胜队友李卓耀，夺得冠军。图为吴英伦（左）与李卓耀在赛后互动。中新社记者 陈骥旻 ",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203362.shtml",
+      "publishedAt": "2026-09-06T12:47:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-06/10691578.shtml",
+      "title": "家国大义聚同心 内蒙古话剧《马走日》专场在呼和浩特上演",
+      "category": "综合",
+      "summary": "中新网呼和浩特9月6日电 (记者 刘文华)6日晚，由内蒙古自治区党委统战部主办的话剧《马走日》专场演出在内蒙古自治区文化馆群众剧场精彩上演。全剧传递出求同存异、包容多样、家国同心、聚力同行的核心立意与“两岸一家亲”的骨肉深情。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691578.shtml",
+      "publishedAt": "2026-09-06T12:45:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ll/2026/09-06/10691580.shtml",
+      "title": "好评中国|以专精特新“小切口”筑牢产业链安全大底盘",
+      "category": "综合",
+      "summary": "“中小企业能办大事。”专精特新中小企业聚焦主业、精耕细作，是稳固产业链供应链、夯实现代化产业体系的关键力量。这类企业体量虽小、专精度高，凭借细分领域技术突破补齐产业短板、积蓄发展动能。2026年作为“十五五”开局之年，中央网信办、安徽省委网信办主办的“开局之年看中国#12539;日新江淮”网络主题宣传活动，聚焦安徽科创赋能高质量发展的生动实践。采风调研走进阜",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ll/2026/09-06/10691580.shtml",
+      "publishedAt": "2026-09-06T12:45:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691575.shtml",
+      "title": "牢记总书记的嘱托丨以创新之为 筑强国之基",
+      "category": "综合",
+      "summary": "2018年4月，习近平总书记在湖北武汉新芯集成电路制造有限公司考察企业创新发展情况。 党的十八大以来，习近平总书记多次深入科技创新一线考察调研，反复强调“加快实现高水平科技自立自强”。从实验室的灯火到生产线的节拍，一个鲜明的导向贯穿始终——把创新主动权牢牢掌握在自己手中，让新质生产力在创新链上拔节生长。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691575.shtml",
+      "publishedAt": "2026-09-06T12:39:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691576.shtml",
+      "title": "众行致远丨上合组织怎样担当时代责任？习近平主席这样破题",
+      "category": "综合",
+      "summary": "时习之",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691576.shtml",
+      "publishedAt": "2026-09-06T12:39:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691570.shtml",
+      "title": "向新之翼｜心怀好奇 逐梦未来",
+      "category": "综合",
+      "summary": "党的十八大以来，以习近平同志为核心的党中央高度重视科普工作。习近平总书记指出，“科技创新、科学普及是实现创新发展的两翼，要把科学普及放在与科技创新同等重要的位置。”建成科技强国不仅需要科技创新的不断突破，更需要科学普及的持续发力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691570.shtml",
+      "publishedAt": "2026-09-06T12:38:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691569.shtml",
+      "title": "习近平主席中亚、中东之旅难忘瞬间",
+      "category": "综合",
+      "summary": "8月30日至9月3日，国家主席习近平应邀赴吉尔吉斯斯坦出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691569.shtml",
+      "publishedAt": "2026-09-06T12:37:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691573.shtml",
+      "title": "《江格尔》资源库平台及相关成果在内蒙古发布",
+      "category": "综合",
+      "summary": "中新网呼和浩特9月6日电 (记者 李爱平)《江格尔》资源库平台及相关成果发布会9月6日在内蒙古自治区呼和浩特市举办。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691573.shtml",
+      "publishedAt": "2026-09-06T12:36:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203357.shtml",
+      "title": "2026中国羽毛球大师赛：中国选手冯彦哲/黄东萍夺得混双冠军",
+      "category": "综合",
+      "summary": "9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在混双决赛中，中国选手冯彦哲/黄东萍以2:0击败马来西亚选手许邦荣/赖沛君，夺得冠军。图为冯彦哲、黄东萍（左）手捧冠军奖杯合影。中新社记者 陈骥旻 摄 9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在混双决赛中，中国选手冯彦哲/黄东萍以2:0击败马来西亚选手许邦荣/赖沛君，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203357.shtml",
+      "publishedAt": "2026-09-06T12:28:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-06/10691567.shtml",
       "title": "国科大迎来2.1万多新生 校长解读国之大爱、科技创新、大学精神",
@@ -230,348 +589,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-06/10691523.shtml",
-      "title": "“毛俊辉剧艺慈善基金会”在港成立 致力文化传承及两地交流",
-      "category": "综合",
-      "summary": "中新网香港9月6日电 毛俊辉剧艺慈善基金会日前在香港举行成立发布会。基金会以资深戏剧艺术家、教育家毛俊辉教授逾五十载的剧艺积淀为核心根基，秉持“剧艺无界、承传无限”的愿景，正式开展香港剧艺文化传承、人才培育、艺术创新及两地文化交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691523.shtml",
-      "publishedAt": "2026-09-06T11:43:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691546.shtml",
-      "title": "厦门大学智能制造学院成立",
-      "category": "综合",
-      "summary": "中新社厦门9月6日电 (吴冠标)今年是厦门大学建校105周年暨机械工程学科创立100周年，厦门大学智能制造学院6日在厦门成立。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691546.shtml",
-      "publishedAt": "2026-09-06T11:42:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-06/10691538.shtml",
-      "title": "广东省残运会在茂名闭幕 “好心”之名彰显城市温度",
-      "category": "综合",
-      "summary": "中新网茂名9月6日电(记者 梁盛)6日下午，广东省第十届残疾人运动会闭幕式在茂名奥体中心体育馆举行。这场以“同心同梦，自强不息”为主题的文体展演，书写“残健共融”的温暖答卷，传递“好心茂名”城市温度。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691538.shtml",
-      "publishedAt": "2026-09-06T11:41:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691530.shtml",
-      "title": "第二十六届投洽会开幕在即 将展现四大特点",
-      "category": "综合",
-      "summary": "中新网厦门9月6日电(吴冠标 陈悦)第二十六届中国国际投资贸易洽谈会将于8日至11日在厦门举办。据6日在厦门举行的发布会介绍，截至目前，共有来自129个国家和地区、30个国际组织的1200多个政府官方机构、工商企业团组报名参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691530.shtml",
-      "publishedAt": "2026-09-06T11:40:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691550.shtml",
-      "title": "向新之翼|追“光”逐“日”，探秘合肥未来大科学城",
-      "category": "综合",
-      "summary": "央广网合肥9月6日消息(记者徐秋韵)国家重大科技基础设施也被称为大科学装置，是为进行大规模科学研究而建造的大型设施，通常被认为是国家创新高地的重要要素。目前，安徽已建、在建和预研大科学装置数量位居全国前列。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691550.shtml",
-      "publishedAt": "2026-09-06T11:39:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-06/10691549.shtml",
-      "title": "直播：以棋为引 感悟话剧《马走日》里的赤子丹心",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-06/10691549.shtml",
-      "publishedAt": "2026-09-06T11:37:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-06/10691539.shtml",
-      "title": "600余名琼港澳台青年球员海口以足球会友",
-      "category": "综合",
-      "summary": "中新网海口9月6日电 (记者 符宇群)“隔着屏幕的交流终究有限，线下并肩奔跑的相逢才最动人。”二度带队来到海南参赛的台湾凤山足球学院球队队长周昀达6日在海口受访时深有感触。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691539.shtml",
-      "publishedAt": "2026-09-06T11:36:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691542.shtml",
-      "title": "韩国出口额刷新历史纪录",
-      "category": "综合",
-      "summary": "中新网首尔9月6日电 (记者 金旭)韩国关税厅最新统计显示，截至5日13时，韩国2026年累计出口额达7094亿美元(约合人民币4.76万亿元)，超过2025年全年7093亿美元历史最高纪录。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691542.shtml",
-      "publishedAt": "2026-09-06T11:35:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691544.shtml",
-      "title": "2026年“全民国防教育月”活动启动",
-      "category": "综合",
-      "summary": "新华社广州9月6日电#8195;中央宣传部、中央军委国防动员部联合主办的2026年“全民国防教育月”活动启动仪式9月6日在广东岭南国防教育基地举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691544.shtml",
-      "publishedAt": "2026-09-06T11:35:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691540.shtml",
-      "title": "中领馆提醒领区中国公民注意防范印尼喀拉喀托之子火山灾害",
-      "category": "综合",
-      "summary": "中新网雅加达9月6日电 中国驻棉兰总领馆6日发文，提醒领区中国公民注意防范喀拉喀托之子火山灾害。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691540.shtml",
-      "publishedAt": "2026-09-06T11:34:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691543.shtml",
-      "title": "新华社经济随笔：夏日“凉”方何以激发消费新热度",
-      "category": "综合",
-      "summary": "新华社西安9月6日电#8195;题：新华社经济随笔：夏日“凉”方何以激发消费新热度",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691543.shtml",
-      "publishedAt": "2026-09-06T11:34:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691515.shtml",
-      "title": "“日新文库”第六辑专家论证会在京举行 获投稿超百种创新高",
-      "category": "综合",
-      "summary": "中新网北京9月6日电(记者 应妮)商务印书馆“日新文库”第六辑专家论证会5日在京举行。据了解，第六辑投稿数量超过百种创下新高，最终17种书稿入围论证会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691515.shtml",
-      "publishedAt": "2026-09-06T11:34:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691541.shtml",
-      "title": "孕穗关键期 “空中卫士”为广西北海守护稻田希望",
-      "category": "综合",
-      "summary": "中新网北海9月6日电(李梦)9月初，正值晚稻拔节孕穗的关键期，广西北海市海城区赤西村连片的稻田里，稻株长势喜人，稻叶翠绿舒展。这一时段，不仅是决定穗粒数量、筑牢产量基础的核心节点，也是病虫害防控的紧要关口。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691541.shtml",
-      "publishedAt": "2026-09-06T11:33:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691518.shtml",
-      "title": "北京摄影周2026启幕 多元主题汇聚海内外创作精品",
-      "category": "综合",
-      "summary": "中新网北京9月6日电 (记者 应妮)以“影像：共感·智见”为主题的北京摄影周2026，5日在北京中华世纪坛启幕。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691518.shtml",
-      "publishedAt": "2026-09-06T11:30:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691512.shtml",
-      "title": "第四届闽台大圣文化交流研讨会在福建南平顺昌县举行",
-      "category": "综合",
-      "summary": "中新网福建顺昌9月6日电 (张丽君 朱城铖)台湾台中科技大学应用中文系教授林翠凤6日在福建南平市顺昌县受访时说，“一定要不忘本，一定要溯源，一定要让它核心的传统绵延长久，扎根在顺昌本土的大圣文化，才有面向世界长长久久的底气。”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691512.shtml",
-      "publishedAt": "2026-09-06T11:28:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691521.shtml",
-      "title": "薪火相传百年狮艺 广州乌溪少年舞动南粤",
-      "category": "综合",
-      "summary": "中新网广州9月6日电 题：薪火相传百年狮艺 广州乌溪少年舞动南粤",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691521.shtml",
-      "publishedAt": "2026-09-06T11:28:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691537.shtml",
-      "title": "财政部将发行特别国债支持8家中央金融企业补充资本",
-      "category": "综合",
-      "summary": "新华社北京9月6日电(记者申铖)记者9月6日获悉，财政部将于近期发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691537.shtml",
-      "publishedAt": "2026-09-06T11:24:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691511.shtml",
-      "title": "超10万款潜力爆品亮相第八届IEAE深圳电子展",
-      "category": "综合",
-      "summary": "中新网深圳9月6日电 (记者 程景伟)第八届IEAE深圳国际消费类电子及家用电器展3日至6日在深圳福田会展中心举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691511.shtml",
-      "publishedAt": "2026-09-06T11:23:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691517.shtml",
-      "title": "聚焦现实主义电影的类型化表达与突破 《数到三》专家研讨会举办",
-      "category": "综合",
-      "summary": "中新网北京9月6日电 (记者 高凯)由中国电影评论学会主办的电影《数到三》专家研讨会日前在北京举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691517.shtml",
-      "publishedAt": "2026-09-06T11:19:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#0",
       "title": "特朗普取態何以左右福克蘭群島爭議",
       "category": "国际",
@@ -641,7 +658,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad#2",
       "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
       "category": "国际",
       "summary": "自疫情以來，人們被索要小費的場合比以往任何時候都多，而且往往是由數字支付系統主動提示的。消費者抱怨這是一種「情感勒索」，而建議小費的百分比還在不斷攀升。儘管有些人嘲笑美國人「失控」的小費文化，但它正蔓延全球。",
@@ -1046,7 +1063,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad#5",
       "title": "聯合國警告可能出現「超大型」厄爾尼諾現象，各國須準備應對",
       "category": "国际",
       "summary": "聯合國世界氣象組織（WMO）警告，這種自然天氣現象可能為全球經濟帶來衝擊。",
@@ -1426,23 +1443,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T00:01:34.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad#5",
-      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？",
-      "category": "国际",
-      "summary": "「整套東西說穿了，就是共識旗幟下的中國工具箱。成員加入自己感興趣的部分，沒有人被要求成為盟友。北京不要求同盟式義務，它要的是背書、參與，以及不要阻擋（中國）。」",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c8d39n7m2g8o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T14:11:23.000Z",
       "tags": [
         "国际",
         "商业",
