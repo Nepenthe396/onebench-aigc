@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T10:27:18.577Z",
-  "expiresAt": "2026-09-06T16:27:18.577Z",
+  "generatedAt": "2026-09-06T12:31:49.840Z",
+  "expiresAt": "2026-09-06T18:31:49.840Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-06/10691509.shtml",
-      "title": "“桂BA”迎总决赛 篮球名宿朱芳雨助阵",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-06/10691567.shtml",
+      "title": "国科大迎来2.1万多新生 校长解读国之大爱、科技创新、大学精神",
       "category": "综合",
-      "summary": "中新网南宁9月6日电(黄令妍)9月5日晚，广西南宁市宾阳县体育馆座无虚席。在近4000名观众的呐喊声中，2026年广西城市篮球联赛(简称“桂BA”)总决赛首场比赛开赛。",
+      "summary": "中新网北京9月6日电 (记者 孙自法)中国科学院大学(国科大)2026级新生开学典礼，9月6日在其位于北京怀柔的雁栖湖校区举行，包括来自67个国家的519名留学生在内，国科大共迎来21577名新同学入学。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691509.shtml",
-      "publishedAt": "2026-09-06T10:19:11.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-06/10691567.shtml",
+      "publishedAt": "2026-09-06T12:18:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691507.shtml",
-      "title": "2000名跑者齐聚银川共赴全民健身之约",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691560.shtml",
+      "title": "贵州修文：民众在洞穴书屋度过周末时光",
       "category": "综合",
-      "summary": "图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄 图为参赛选手进行比赛。中新社记者 于晶 摄",
+      "summary": "9月6日，贵州省修文县，游客在该县大石布依族乡的洞穴书屋打卡。 中新社记者 瞿宏伦 摄 9月6日，贵州省修文县，游客在该县大石布依族乡的洞穴书屋打卡。 中新社记者 瞿宏伦 摄 9月6日，贵州省修文县，游客在该县大石布依族乡的洞穴书屋打卡。 中新社记者 瞿宏伦 摄 9月6日，贵州省修文县，民众在该县大石布依族乡的洞穴书屋度过周末时光。 中新社记者 瞿宏伦 摄 ",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691507.shtml",
-      "publishedAt": "2026-09-06T10:18:13.000Z",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691560.shtml",
+      "publishedAt": "2026-09-06T12:10:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691500.shtml",
-      "title": "北京第四十届卢沟桥醒狮越野跑活动举行 3000余名各界代表参与",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691562.shtml",
+      "title": "台风“科罗旺”逐渐远离东海 浙江结束海上防台风应急响应",
       "category": "综合",
-      "summary": "中新网北京9月6日电 为纪念中国人民抗日战争暨世界反法西斯战争胜利81周年，北京第四十届卢沟桥醒狮越野跑活动6日在北京园博园鸣枪开跑，3000余名各界代表齐聚现场参与活动。",
+      "summary": "中新网杭州9月6日电 (钱晨菲)6日，浙江省防指发布消息称，根据《浙江省防汛防台抗旱应急预案》，经会商研判，决定于当日15时结束海上防台风应急响应。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691500.shtml",
-      "publishedAt": "2026-09-06T10:17:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691562.shtml",
+      "publishedAt": "2026-09-06T12:01:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691506.shtml",
-      "title": "香港新马季开锣 赛驹“嘉应高升”夺“香港特区行政长官杯”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691561.shtml",
+      "title": "（乡村行·看振兴）浙江庆元“创客带乡亲”：“一条大鲵”游出共富新路",
       "category": "综合",
-      "summary": "图为香港艺人郭富城（戴墨镜者）出席活动。中新网记者 陈永诺 摄 图为香港特区行政长官李家超（前排右二）颁发“香港特区行政长官杯”。中新网记者 陈永诺 摄 图为赛马现场。中新网记者 陈永诺 摄 图为游客手持马匹玩偶合影。中新网记者 陈永诺 摄 图为游客敲锣。中新网记者 陈永诺 摄 图为游客在沙田马场自拍。中新网记者 陈永诺 摄 图为赛马现场。中新网记者 陈永诺",
+      "summary": "中新网丽水9月6日电(傅飞扬 沈雅慧)连日来，走进浙江省丽水市庆元县贤良镇大鲵仿生态繁殖基地，山涧溪水潺潺，一个个仿生态养殖池沿溪而建，工作人员忙着巡查水质、管护幼鲵，一派繁忙景象。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691506.shtml",
-      "publishedAt": "2026-09-06T10:17:29.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691561.shtml",
+      "publishedAt": "2026-09-06T12:00:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691489.shtml",
-      "title": "古城西安胶片消费掀新风 青年以实体影像“定格”时光",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691558.shtml",
+      "title": "中德跨境电商峰会暨中国品牌之夜在柏林举办",
       "category": "综合",
-      "summary": "中新社西安9月6日电 题：古城西安胶片消费掀新风 青年以实体影像“定格”时光",
+      "summary": "中新网柏林9月6日电 当地时间5日，“第三届中德跨境电商峰会暨中国品牌之夜@IFA2026”在德国柏林举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691489.shtml",
-      "publishedAt": "2026-09-06T10:17:09.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691558.shtml",
+      "publishedAt": "2026-09-06T11:58:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691488.shtml",
-      "title": "济南“天下第一泉”趵突泉持续喷涌23年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-06/10691556.shtml",
+      "title": "第十二届五岳寨越野挑战赛在河北灵寿开跑",
       "category": "综合",
-      "summary": "中新社济南9月6日电 (记者 孙婷婷)济南趵突泉6日地下水位为29.59米，三股泉水喷涌而出，池畔挤满了一睹“趵突腾空”风采的游客。自2003年9月6日复涌至今，被誉为“天下第一泉”的千年名泉，已持续喷涌23年。",
+      "summary": "中新网石家庄9月6日电 (李玉素 郑亚南)9月6日，由石家庄市体育局指导、灵寿县人民政府主办的2026第十二届五岳寨越野挑战赛在河北省石家庄市灵寿县五岳寨开跑，来自全国各地的1700余名越野跑精英与爱好者齐聚于此。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691488.shtml",
-      "publishedAt": "2026-09-06T10:16:23.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691556.shtml",
+      "publishedAt": "2026-09-06T11:53:53.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-06/10691482.shtml",
-      "title": "粤港澳青年“活化”非遗渔歌 续写汕尾百年渔曲",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691555.shtml",
+      "title": "贵州凯里酸汤加速从深山走向国际餐桌",
       "category": "综合",
-      "summary": "中新网汕尾9月6日电 题：粤港澳青年“活化”非遗渔歌 续写汕尾百年渔曲",
+      "summary": "中新网贵州凯里9月6日电 (记者 周燕玲)6日的贵州省凯里市苗侗风情园广场酸香四溢，数十家酸汤企业携百余款产品亮相第三届凯里酸汤产业发展大会，并现场烹饪酸汤美食，比利时游客戴斯在了解酸汤制作技艺后品尝说：非常独特的味道，酸汤这种传统工艺保留了食材本真的风味，很符合当下人们对健康饮食的追求。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691482.shtml",
-      "publishedAt": "2026-09-06T10:15:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691555.shtml",
+      "publishedAt": "2026-09-06T11:50:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-06/10691479.shtml",
-      "title": "台企在江西：父子接力深耕赣鄱 产品销往海内外",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691554.shtml",
+      "title": "刚果（金）婚礼火灾事故遇难人数更正为12人",
       "category": "综合",
-      "summary": "中新网宜春9月6日电 题：台企在江西：父子接力深耕赣鄱 产品销往海内外",
+      "summary": "总台记者当地时间9月6日获悉，刚果(金)政府通报，首都金沙萨5日一婚礼现场发生的火灾事故造成的死亡人数更正为12人，此前地方官员公布的数据为22人。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691479.shtml",
-      "publishedAt": "2026-09-06T10:11:47.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691554.shtml",
+      "publishedAt": "2026-09-06T11:47:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691498.shtml",
-      "title": "济南“天下第一泉”趵突泉持续喷涌23年",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691553.shtml",
+      "title": "江西遂川地质灾害遇难人数增至4人",
       "category": "综合",
-      "summary": "9月6日，山东济南，民众在天下第一泉风景区内游玩。 中新社记者 孙婷婷 摄 9月6日，山东济南，民众在天下第一泉风景区内游玩。 中新社记者 孙婷婷 摄 9月6日，山东济南天下第一泉风景区内，民众在“泉水直饮”处排队接取泉水。 中新社记者 孙婷婷 摄 9月6日，山东济南天下第一泉风景区内，民众在品尝用泉水沏制的茶水。 中新社记者 孙婷婷 摄",
+      "summary": "新华社南昌9月6日电(记者闵尊涛)6日下午，记者从江西省吉安市遂川县相关部门获悉，左安镇扬芬村地质灾害已找到1名失联人员，已无生命体征。截至目前，遂川县因地质灾害造成的遇难者人数增至4人。此前，遂川县高坪镇明坑村的泥石流和山体滑坡灾害已造成3人遇难，另有9人失联。目前，多方力量仍在现场展开救援。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691498.shtml",
-      "publishedAt": "2026-09-06T10:08:07.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691553.shtml",
+      "publishedAt": "2026-09-06T11:45:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691499.shtml",
-      "title": "救援人员在西藏吉隆核心区域开展地毯式搜寻 发现遗物993件",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691547.shtml",
+      "title": "湖南以“一粒粮食的旅程”展现产业全链条科技创新",
       "category": "综合",
-      "summary": "记者今天从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上了解到，灾害发生后，救援人员在道路未抢通之前，“水陆空”一体推进，水路利用冲锋舟、橡皮艇等多种方式向核心区域挺进，飞行直升机24架次向核心区域投送救援人员和物资装备，陆路绕行山路12余小时挺进核心区域。",
+      "summary": "中新网长沙9月6日电 (付敬懿)第八届中国粮食交易大会5日至7日在湖南长沙举行。作为东道主的湖南以“九州粮仓”主题亮相，其特装展区以创新的展陈设计、沉浸式互动体验和完整产业链呈现，集中亮相一批当代育种成果和高科技储粮装备成果。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691499.shtml",
-      "publishedAt": "2026-09-06T10:04:28.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691547.shtml",
+      "publishedAt": "2026-09-06T11:44:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203352.shtml",
-      "title": "天津动物园大熊猫“格格”喜迎23岁生日",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691545.shtml",
+      "title": "西藏吉隆泥石流灾害后 已妥善做好1720名尼籍边民生活保障",
       "category": "综合",
-      "summary": "9月6日，天津动物园熊猫馆，大熊猫“格格”享用生日大餐。当日，大熊猫“格格”迎来23岁生日。“格格”2003年9月6日出生于中国大熊猫保护研究中心核桃坪野化培训基地，2018年来到天津动物园，因性格沉稳优雅，被天津市民称为“八里台大姑奶奶”。生日当天园方准备了特制丰容大餐，众多市民到场为其庆生。中新社记者 佟郁 摄 9月6日，天津动物园熊猫馆，市民前来为大熊",
+      "summary": "中新社西藏吉隆9月6日电 (赵朗 李林 贡嘎来松)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，灾害发生后，截至9月5日18时，累计接待家属791人，安置家属640人。当地已妥善做好1720名尼泊尔籍边民的生活保障。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203352.shtml",
-      "publishedAt": "2026-09-06T10:04:20.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691545.shtml",
+      "publishedAt": "2026-09-06T11:44:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691494.shtml",
-      "title": "西藏吉隆每日向尼通报气象水文、冰湖冰川等信息 做好涉外工作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-06/10691523.shtml",
+      "title": "“毛俊辉剧艺慈善基金会”在港成立 致力文化传承及两地交流",
       "category": "综合",
-      "summary": "记者今天从西藏自治区吉隆县“8.26”泥石流灾害应急救援指挥部举行的中外媒体见面会上了解到，经过反复核查，此次灾害外籍失联人员261人，涉及23个国家，已经通过外交渠道及时向相关国家驻华使馆通报了有关信息。开通24小时失联外籍人员家属专用热线电话，累计接听509通电话，及时向家属反馈相关情况。建立与相关国家的沟通联系、信息通报机制，通过中尼防灾信息通报机制每",
+      "summary": "中新网香港9月6日电 毛俊辉剧艺慈善基金会日前在香港举行成立发布会。基金会以资深戏剧艺术家、教育家毛俊辉教授逾五十载的剧艺积淀为核心根基，秉持“剧艺无界、承传无限”的愿景，正式开展香港剧艺文化传承、人才培育、艺术创新及两地文化交流。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691494.shtml",
-      "publishedAt": "2026-09-06T10:02:04.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-06/10691523.shtml",
+      "publishedAt": "2026-09-06T11:43:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,86 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203345.shtml",
-      "title": "第73届世界小姐全球总决赛在越南芽庄落幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691546.shtml",
+      "title": "厦门大学智能制造学院成立",
+      "category": "综合",
+      "summary": "中新社厦门9月6日电 (吴冠标)今年是厦门大学建校105周年暨机械工程学科创立100周年，厦门大学智能制造学院6日在厦门成立。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691546.shtml",
+      "publishedAt": "2026-09-06T11:42:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-06/10691538.shtml",
+      "title": "广东省残运会在茂名闭幕 “好心”之名彰显城市温度",
+      "category": "综合",
+      "summary": "中新网茂名9月6日电(记者 梁盛)6日下午，广东省第十届残疾人运动会闭幕式在茂名奥体中心体育馆举行。这场以“同心同梦，自强不息”为主题的文体展演，书写“残健共融”的温暖答卷，传递“好心茂名”城市温度。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-06/10691538.shtml",
+      "publishedAt": "2026-09-06T11:41:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691530.shtml",
+      "title": "第二十六届投洽会开幕在即 将展现四大特点",
+      "category": "综合",
+      "summary": "中新网厦门9月6日电(吴冠标 陈悦)第二十六届中国国际投资贸易洽谈会将于8日至11日在厦门举办。据6日在厦门举行的发布会介绍，截至目前，共有来自129个国家和地区、30个国际组织的1200多个政府官方机构、工商企业团组报名参会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691530.shtml",
+      "publishedAt": "2026-09-06T11:40:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691550.shtml",
+      "title": "向新之翼|追“光”逐“日”，探秘合肥未来大科学城",
+      "category": "综合",
+      "summary": "央广网合肥9月6日消息(记者徐秋韵)国家重大科技基础设施也被称为大科学装置，是为进行大规模科学研究而建造的大型设施，通常被认为是国家创新高地的重要要素。目前，安徽已建、在建和预研大科学装置数量位居全国前列。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691550.shtml",
+      "publishedAt": "2026-09-06T11:39:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-06/10691549.shtml",
+      "title": "直播：以棋为引 感悟话剧《马走日》里的赤子丹心",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203345.shtml",
-      "publishedAt": "2026-09-06T09:59:40.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-06/10691549.shtml",
+      "publishedAt": "2026-09-06T11:37:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691491.shtml",
-      "title": "西藏吉隆：妥善做好1720名尼泊尔籍边民生活保障",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-06/10691539.shtml",
+      "title": "600余名琼港澳台青年球员海口以足球会友",
       "category": "综合",
-      "summary": "记者今天从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上了解到，灾情发生后，西藏通过“水陆空”三线并进，采取一切可行的方式，第一时间开展失联人员搜救工作。",
+      "summary": "中新网海口9月6日电 (记者 符宇群)“隔着屏幕的交流终究有限，线下并肩奔跑的相逢才最动人。”二度带队来到海南参赛的台湾凤山足球学院球队队长周昀达6日在海口受访时深有感触。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691491.shtml",
-      "publishedAt": "2026-09-06T09:59:10.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691539.shtml",
+      "publishedAt": "2026-09-06T11:36:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691490.shtml",
-      "title": "整体救援难度远超常规地质灾害处置 西藏吉隆四方面推进救援工作",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691542.shtml",
+      "title": "韩国出口额刷新历史纪录",
       "category": "综合",
-      "summary": "2026年9月5日至6日，国务院新闻办公室会同外交部组织境外媒体记者赴西藏吉隆泥石流灾害现场采访。记者团深入救灾一线，了解灾情、救援及恢复重建进展。6日下午，境外媒体记者参加西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会。西藏自治区负责同志出席见面会，介绍有关情况并回答记者提问。来自美国、英国、俄罗斯、印度、巴基斯坦、新加坡、巴西等",
+      "summary": "中新网首尔9月6日电 (记者 金旭)韩国关税厅最新统计显示，截至5日13时，韩国2026年累计出口额达7094亿美元(约合人民币4.76万亿元)，超过2025年全年7093亿美元历史最高纪录。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691490.shtml",
-      "publishedAt": "2026-09-06T09:57:27.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691542.shtml",
+      "publishedAt": "2026-09-06T11:35:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/09-06/10691475.shtml",
-      "title": "东西问丨穆穆：很幸运成为两大古老文明之间的小小连接",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691544.shtml",
+      "title": "2026年“全民国防教育月”活动启动",
       "category": "综合",
-      "summary": "中新社开罗9月6日电 题：很幸运成为两大古老文明之间的小小连接",
+      "summary": "新华社广州9月6日电#8195;中央宣传部、中央军委国防动员部联合主办的2026年“全民国防教育月”活动启动仪式9月6日在广东岭南国防教育基地举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dxw/2026/09-06/10691475.shtml",
-      "publishedAt": "2026-09-06T09:56:01.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691544.shtml",
+      "publishedAt": "2026-09-06T11:35:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691487.shtml",
-      "title": "中国红十字会总会向江西调拨救灾物资",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691540.shtml",
+      "title": "中领馆提醒领区中国公民注意防范印尼喀拉喀托之子火山灾害",
       "category": "综合",
-      "summary": "中新网9月6日电 据中国红十字会网站消息，9月6日，针对台风“沙德尔”对江西造成的严重影响，中国红十字会总会启动应急响应，结合当地救灾救助需求，向江西受灾地区调拨折叠床、毛巾被等救灾物资共2000件；中国红十字基金会支持赈济家庭箱600个，支持受灾地区做好群众转移安置和生活保障工作。",
+      "summary": "中新网雅加达9月6日电 中国驻棉兰总领馆6日发文，提醒领区中国公民注意防范喀拉喀托之子火山灾害。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691487.shtml",
-      "publishedAt": "2026-09-06T09:52:21.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-06/10691540.shtml",
+      "publishedAt": "2026-09-06T11:34:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691486.shtml",
-      "title": "打破“谎言” 唯有共情与在场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691543.shtml",
+      "title": "新华社经济随笔：夏日“凉”方何以激发消费新热度",
       "category": "综合",
-      "summary": "走进真实的中国，才能看见真实的中国。媒体的意义，不是放大分歧，而是让真实被看见，让美好被感知，让我们从“看见”走向“理解”。",
+      "summary": "新华社西安9月6日电#8195;题：新华社经济随笔：夏日“凉”方何以激发消费新热度",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691486.shtml",
-      "publishedAt": "2026-09-06T09:43:47.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691543.shtml",
+      "publishedAt": "2026-09-06T11:34:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691485.shtml",
-      "title": "“亚太发展故事”全球多媒体传播计划启动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691515.shtml",
+      "title": "“日新文库”第六辑专家论证会在京举行 获投稿超百种创新高",
       "category": "综合",
-      "summary": "新华社深圳9月5日电(记者白瀛、孙飞)5日在深圳开幕的亚太媒体高端论坛上，新华社联合亚太媒体机构，共同策划并启动全球多媒体传播计划。",
+      "summary": "中新网北京9月6日电(记者 应妮)商务印书馆“日新文库”第六辑专家论证会5日在京举行。据了解，第六辑投稿数量超过百种创下新高，最终17种书稿入围论证会。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691485.shtml",
-      "publishedAt": "2026-09-06T09:42:15.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691515.shtml",
+      "publishedAt": "2026-09-06T11:34:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691477.shtml",
-      "title": "（乡村行·看振兴）从 “种田谋生” 到 “植艺兴村” 广西北海古村华丽转身",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691541.shtml",
+      "title": "孕穗关键期 “空中卫士”为广西北海守护稻田希望",
       "category": "综合",
-      "summary": "中新网北海9月6日电 题：从“种田谋生”到“植艺兴村” 广西北海古村华丽转身",
+      "summary": "中新网北海9月6日电(李梦)9月初，正值晚稻拔节孕穗的关键期，广西北海市海城区赤西村连片的稻田里，稻株长势喜人，稻叶翠绿舒展。这一时段，不仅是决定穗粒数量、筑牢产量基础的核心节点，也是病虫害防控的紧要关口。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691477.shtml",
-      "publishedAt": "2026-09-06T09:40:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691541.shtml",
+      "publishedAt": "2026-09-06T11:33:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691484.shtml",
-      "title": "“共赴深圳之约 共创美好亚太”媒体合作行动发布",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691518.shtml",
+      "title": "北京摄影周2026启幕 多元主题汇聚海内外创作精品",
       "category": "综合",
-      "summary": "新华社深圳9月5日电(记者白瀛、白瑜)5日在深圳开幕的亚太媒体高端论坛上，深圳市发布“共赴深圳之约 共创美好亚太”媒体合作行动，涉及技术共享、内容共创、人才共育三方面。",
+      "summary": "中新网北京9月6日电 (记者 应妮)以“影像：共感·智见”为主题的北京摄影周2026，5日在北京中华世纪坛启幕。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691484.shtml",
-      "publishedAt": "2026-09-06T09:39:18.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691518.shtml",
+      "publishedAt": "2026-09-06T11:30:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691483.shtml",
-      "title": "“爷爷”的心愿",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691512.shtml",
+      "title": "第四届闽台大圣文化交流研讨会在福建南平顺昌县举行",
       "category": "综合",
-      "summary": "中新网绍兴9月6日电 题：“爷爷”的心愿",
+      "summary": "中新网福建顺昌9月6日电 (张丽君 朱城铖)台湾台中科技大学应用中文系教授林翠凤6日在福建南平市顺昌县受访时说，“一定要不忘本，一定要溯源，一定要让它核心的传统绵延长久，扎根在顺昌本土的大圣文化，才有面向世界长长久久的底气。”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691483.shtml",
-      "publishedAt": "2026-09-06T09:38:34.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691512.shtml",
+      "publishedAt": "2026-09-06T11:28:23.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691478.shtml",
-      "title": "体旅融合观察：一场浙VA，激活畲乡新动能",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691521.shtml",
+      "title": "薪火相传百年狮艺 广州乌溪少年舞动南粤",
       "category": "综合",
-      "summary": "中新网丽水9月6日电(张煜欢)9月5日至6日，2026年浙江省城乡气排球公开赛(浙VA)景宁站在浙江丽水景宁畲族自治县举行。来自温州、台州、丽水三地的54支队伍、约530名选手走进赛场，不少家属、亲友也随行而来。体育馆内，发球、垫传、扣杀接连上演；体育馆外，赛事客流进入酒店、民宿、餐馆、景区和街巷。",
+      "summary": "中新网广州9月6日电 题：薪火相传百年狮艺 广州乌溪少年舞动南粤",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691478.shtml",
-      "publishedAt": "2026-09-06T09:36:08.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691521.shtml",
+      "publishedAt": "2026-09-06T11:28:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691474.shtml",
-      "title": "广州五六线项目四线检查库钢构主体安装完成",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691537.shtml",
+      "title": "财政部将发行特别国债支持8家中央金融企业补充资本",
       "category": "综合",
-      "summary": "中新网广州9月6日电 (程景伟 吴磊 李群)近日，随着最后一片钢屋架精准吊装就位并锁定，广州东站至新塘站五六线(简称“广州五六线”)项目四线检查库钢构主体安装完成。",
+      "summary": "新华社北京9月6日电(记者申铖)记者9月6日获悉，财政部将于近期发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691474.shtml",
-      "publishedAt": "2026-09-06T09:35:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691537.shtml",
+      "publishedAt": "2026-09-06T11:24:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691481.shtml",
-      "title": "西藏吉隆“8·26”泥石流灾害造成43人遇难 519人失联",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-06/10691511.shtml",
+      "title": "超10万款潜力爆品亮相第八届IEAE深圳电子展",
       "category": "综合",
-      "summary": "9月6日，记者从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部了解到，截至9月5日18时，灾害致43人遇难，519人失联。",
+      "summary": "中新网深圳9月6日电 (记者 程景伟)第八届IEAE深圳国际消费类电子及家用电器展3日至6日在深圳福田会展中心举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691481.shtml",
-      "publishedAt": "2026-09-06T09:30:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691511.shtml",
+      "publishedAt": "2026-09-06T11:23:07.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,86 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203341.shtml",
-      "title": "受火山喷发影响 雅加达国际机场大批旅客滞留",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-06/10691517.shtml",
+      "title": "聚焦现实主义电影的类型化表达与突破 《数到三》专家研讨会举办",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网北京9月6日电 (记者 高凯)由中国电影评论学会主办的电影《数到三》专家研讨会日前在北京举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203341.shtml",
-      "publishedAt": "2026-09-06T09:29:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691476.shtml",
-      "title": "记者观察｜深化亚太媒体合作，这项“伙伴计划”值得关注",
-      "category": "综合",
-      "summary": "9月5日，亚太媒体高端论坛在深圳开幕。来自42个国家和地区以及联合国机构、国际组织的400多名中外媒体、智库、政府部门等各界代表齐聚一堂。开幕式上，亚太媒体合作伙伴计划筹备委员会宣布成立。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691476.shtml",
-      "publishedAt": "2026-09-06T09:24:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691469.shtml",
-      "title": "重视AI赋能，一道讲好亚太经济合作故事",
-      "category": "综合",
-      "summary": "新华社广州9月4日电#8195;题：重视AI赋能，一道讲好亚太经济合作故事",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691469.shtml",
-      "publishedAt": "2026-09-06T09:17:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691454.shtml",
-      "title": "卡塔尔首相兼外交大臣穆罕默德将访华",
-      "category": "综合",
-      "summary": "中新社北京9月6日电 中国外交部发言人6日宣布：卡塔尔首相兼外交大臣穆罕默德将于9月7日至8日应邀访问中国。(完)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691454.shtml",
-      "publishedAt": "2026-09-06T09:14:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-06/10691466.shtml",
-      "title": "智库报告解析亚太共同体广阔前景",
-      "category": "综合",
-      "summary": "新华社深圳9月5日电 题：和而不同 普惠包容——智库报告解析亚太共同体广阔前景",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-06/10691466.shtml",
-      "publishedAt": "2026-09-06T09:14:13.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-06/10691517.shtml",
+      "publishedAt": "2026-09-06T11:19:37.000Z",
       "tags": [
         "国内",
         "社会",
