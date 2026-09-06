@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad#0",
+      "title": "特朗普取態何以左右福克蘭群島爭議",
+      "meta": "BBC 中文 · 2026/9/6",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T07:42:46.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#0",
       "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
       "meta": "BBC 中文 · 2026/9/6",
@@ -75,7 +82,7 @@
       "publishedAt": "2026-09-04T05:57:06.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#2",
       "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的假消息作引流「誘餌」",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
@@ -122,13 +129,6 @@
       "meta": "BBC 中文 · 2026/9/2",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T13:55:55.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad#2",
-      "title": "美國公司獲批委內瑞拉油田百年開採權 分析人士迷惑 國民震怒",
-      "meta": "BBC 中文 · 2026/9/2",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T08:59:30.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-06T06:32:03.915Z",
+  "updatedAt": "2026-09-06T08:28:46.399Z",
   "provider": "OneBench 公共资讯快照"
 }
