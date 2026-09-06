@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T16:27:47.542Z",
-  "expiresAt": "2026-09-06T22:27:47.542Z",
+  "generatedAt": "2026-09-06T18:28:37.643Z",
+  "expiresAt": "2026-09-07T00:28:37.643Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-07/10691625.shtml",
+      "title": "女篮世界杯：中国队逆转捷克队获小组赛首胜",
+      "category": "综合",
+      "summary": "中新社柏林9月6日电 2026年国际篮联女篮世界杯于当地时间6日在德国柏林继续小组赛比拼。上届世界杯亚军中国队在第二场小组赛中，以74:70逆转捷克队，收获小组赛首胜。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691625.shtml",
+      "publishedAt": "2026-09-06T18:19:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-07/10691624.shtml",
+      "title": "中超第26轮：蓉城无缘提前夺冠 英博胜海牛升积分榜次席",
+      "category": "综合",
+      "summary": "中新社北京9月6日电 (刘梦青)2026赛季中超联赛第26轮比赛6日全部战罢。成都蓉城0:0战平河南队，以52分领跑积分榜。大连英博2:1击败青岛海牛，排名升至积分榜次席。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691624.shtml",
+      "publishedAt": "2026-09-06T18:19:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691629.shtml",
+      "title": "剧烈摇晃过的可乐也能被安全打开 解密背后的科学原理",
+      "category": "综合",
+      "summary": "我们每天都有对这个世界的好奇，中国科学院物理研究所和总台中国之声节目《新闻超链接》为您寻找可能的答案，与您一起探索世界。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691629.shtml",
+      "publishedAt": "2026-09-06T18:15:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691627.shtml",
+      "title": "煲仔饭、冒菜……付费飞机餐走红 你愿意买单吗？",
+      "category": "综合",
+      "summary": "中秋国庆假期临近，在预订机票的时候，大家有没有发现除了以往的免费飞机餐，还可以选择付费购买一份更符合自己口味的飞机餐。这两年，国内多家航司集中布局付费定制飞机餐，煲仔饭、牛排、冒菜、鱼子酱拼盘陆续“飞”上云端。在出行的时候，你是否愿意为一顿空中美味额外买单呢？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691627.shtml",
+      "publishedAt": "2026-09-06T18:13:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691626.shtml",
+      "title": "王小洪分别会见老挝和乌兹别克斯坦客人",
+      "category": "综合",
+      "summary": "新华社北京9月6日电 中共中央书记处书记、公安部部长王小洪6日在京分别会见老挝人民革命党中央书记处书记、公安部部长万通和乌兹别克斯坦内务部部长塔什普拉托夫。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691626.shtml",
+      "publishedAt": "2026-09-06T18:11:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-06/10691621.shtml",
       "title": "印尼八座机场关闭至午夜 约17万旅客滞留",
@@ -489,96 +579,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691574.shtml",
       "publishedAt": "2026-09-06T12:52:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
-      "title": "2026年全国羽毛球单项锦标赛在合肥开赛",
-      "category": "综合",
-      "summary": "9月6日，2026年全国羽毛球单项锦标赛在合肥开赛。本次比赛共吸引来自全国23支代表队的588名运动员参赛。他们将在为期8天的赛程中，角逐男单、女单、男双、女双和混双五个项目的冠军。图为运动员在比赛中。中新社记者 韩苏原 摄 9月6日，2026年全国羽毛球单项锦标赛在合肥开赛。本次比赛共吸引来自全国23支代表队的588名运动员参赛。他们将在为期8天的赛程中，",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-06/10691571.shtml",
-      "publishedAt": "2026-09-06T12:51:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
-      "title": "西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜",
-      "category": "综合",
-      "summary": "中新社西藏吉隆9月6日电 (记者 赵朗)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，西藏将对吉隆口岸周边灾害风险深入评估，对口岸相关功能恢复等事宜进行深入研究论证。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
-      "publishedAt": "2026-09-06T12:49:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
-      "title": "近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情",
-      "category": "综合",
-      "summary": "中新网瑞丽9月6日电 (杨雪梅)6日，2026年瑞丽市首届“瑞丽江杯”系列体育赛事在位于云南省德宏傣族景颇族自治州的瑞丽国际文体中心开幕。来自中缅两国的近1500名运动员齐聚边城瑞丽，以体育赛事为媒，共叙“胞波”情谊。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
-      "publishedAt": "2026-09-06T12:48:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203362.shtml",
-      "title": "2026中国羽毛球大师赛：中国香港选手吴英伦夺得男单冠军",
-      "category": "综合",
-      "summary": "9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在男单决赛中，中国香港选手吴英伦2:0战胜队友李卓耀，夺得冠军。图为吴英伦在比赛中。中新社记者 陈骥旻 摄 9月6日，在深圳举办的2026李宁·中国羽毛球大师赛进入收官阶段。在男单决赛中，中国香港选手吴英伦2:0战胜队友李卓耀，夺得冠军。图为吴英伦（左）与李卓耀在赛后互动。中新社记者 陈骥旻 ",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-06/1203362.shtml",
-      "publishedAt": "2026-09-06T12:47:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-06/10691578.shtml",
-      "title": "家国大义聚同心 内蒙古话剧《马走日》专场在呼和浩特上演",
-      "category": "综合",
-      "summary": "中新网呼和浩特9月6日电 (记者 刘文华)6日晚，由内蒙古自治区党委统战部主办的话剧《马走日》专场演出在内蒙古自治区文化馆群众剧场精彩上演。全剧传递出求同存异、包容多样、家国同心、聚力同行的核心立意与“两岸一家亲”的骨肉深情。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-06/10691578.shtml",
-      "publishedAt": "2026-09-06T12:45:30.000Z",
       "tags": [
         "国内",
         "社会",
