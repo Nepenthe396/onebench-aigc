@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114103",
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+      "meta": "少数派 · 2026/9/7",
+      "url": "https://sspai.com/post/114103",
+      "publishedAt": "2026-09-07T03:10:02.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114250",
       "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
       "meta": "少数派 · 2026/9/7",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/3",
       "url": "https://sspai.com/post/113998",
       "publishedAt": "2026-09-03T07:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113159",
-      "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-      "meta": "少数派 · 2026/9/3",
-      "url": "https://sspai.com/post/113159",
-      "publishedAt": "2026-09-03T03:32:28.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T02:29:13.267Z",
+  "updatedAt": "2026-09-07T04:29:42.762Z",
   "provider": "OneBench 公共资讯快照"
 }

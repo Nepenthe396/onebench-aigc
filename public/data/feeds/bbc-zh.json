@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "title": "印尼火山爆發，17萬名旅客滯留機場",
+      "meta": "BBC 中文 · 2026/9/7",
+      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T02:44:40.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad#0",
       "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
       "meta": "BBC 中文 · 2026/9/7",
@@ -13,7 +20,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#0",
-      "title": "歐洲國家接連提走北美黃金儲備所為何事",
+      "title": "歐洲國家提走北美黃金儲備所為何事",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T00:03:22.000Z"
@@ -54,7 +61,7 @@
       "publishedAt": "2026-09-06T02:02:19.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#2",
       "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
@@ -87,13 +94,6 @@
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T06:25:54.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad#2",
-      "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T05:57:06.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T02:29:13.267Z",
+  "updatedAt": "2026-09-07T04:29:42.762Z",
   "provider": "OneBench 公共资讯快照"
 }
