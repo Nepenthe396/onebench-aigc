@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T16:28:52.528Z",
-  "expiresAt": "2026-09-07T22:28:52.528Z",
+  "generatedAt": "2026-09-07T18:31:49.728Z",
+  "expiresAt": "2026-09-08T00:31:49.728Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -33,13 +33,13 @@
   "items": [
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
-      "title": "印尼火山爆發 27萬人滯留機場",
+      "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
       "category": "国际",
       "summary": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，多個機場連續第二天停運，數以十萬計旅客滯留。該局警告火山「未來一段時間再次爆發的可能性仍然很高」。",
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T16:27:50.000Z",
+      "publishedAt": "2026-09-07T16:37:47.000Z",
       "tags": [
         "国际",
         "商业",
