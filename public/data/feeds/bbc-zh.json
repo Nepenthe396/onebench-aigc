@@ -5,11 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "title": "印尼火山爆發 27萬人滯留機場",
+      "meta": "BBC 中文 · 2026/9/7",
+      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T16:27:50.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad#0",
       "title": "從特朗普到中國，德國極右翼政黨州選獲勝意義在哪？",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cddvzm721vpo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T13:52:13.000Z"
+      "publishedAt": "2026-09-07T14:36:09.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad#0",
@@ -24,13 +31,6 @@
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T07:07:52.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
-      "title": "印尼火山爆發 27萬人滯留機場",
-      "meta": "BBC 中文 · 2026/9/7",
-      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T07:03:11.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3057m5q127o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T14:29:23.581Z",
+  "updatedAt": "2026-09-07T16:28:52.528Z",
   "provider": "OneBench 公共资讯快照"
 }
