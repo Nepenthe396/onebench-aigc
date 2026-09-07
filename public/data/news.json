@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T08:32:04.350Z",
-  "expiresAt": "2026-09-07T14:32:04.350Z",
+  "generatedAt": "2026-09-07T10:29:35.097Z",
+  "expiresAt": "2026-09-07T16:29:35.097Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10692003.shtml",
-      "title": "海口海关缉私局网站升级改造项目比选公告",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/09-07/10692084.shtml",
+      "title": "东西问·名家坊丨曹文轩：何为中国文学走向世界的“护照”？",
       "category": "综合",
-      "summary": "一、采购条件",
+      "summary": "中新社北京9月7日电 题：何为中国文学走向世界的“护照”？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10692003.shtml",
-      "publishedAt": "2026-09-07T08:26:53.000Z",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-07/10692084.shtml",
+      "publishedAt": "2026-09-07T10:08:15.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-07/10692002.shtml",
-      "title": "陈立泉院士：“电动中国”靠你们了！",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10692080.shtml",
+      "title": "武汉文旅局通报郭德纲篡改歌词处理情况",
       "category": "综合",
-      "summary": "9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在安徽合肥中国科学技术大学举行。",
+      "summary": "2026年7月24日晚，在武汉举办的《济公活佛》第八本专场演出中，演员郭德纲歪曲篡改表现抗战的著名歌曲《弹起我心爱的土琵琶》，造成恶劣社会影响。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10692002.shtml",
-      "publishedAt": "2026-09-07T08:25:59.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692080.shtml",
+      "publishedAt": "2026-09-07T10:03:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,409 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203423.shtml",
-      "title": "白露时节 北京北坞公园荇菜花开",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692083.shtml",
+      "title": "国家发展改革委与埃及有关部门签署共建“一带一路”等合作文件",
+      "category": "综合",
+      "summary": "2026年9月2日，在中埃两国元首共同见证下，国家发展改革委主任郑栅洁与埃及外交、国际合作和海外侨民部负责人签署《中华人民共和国国家发展和改革委员会和阿拉伯埃及共和国外交、国际合作和海外侨民部关于共建“一带一路”倡议与“2030愿景”对接的重点合作事项谅解备忘录》，将推动在共建“一带一路”合作框架下各领域务实合作，实现互利共赢。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692083.shtml",
+      "publishedAt": "2026-09-07T09:58:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10692076.shtml",
+      "title": "江西一女孩去香港看演唱会被取消全家低保？官方通报",
+      "category": "综合",
+      "summary": "中新网9月7日电 据“欧潭融媒”微信公众号消息，江西赣州经开区社会事务管理局9月7日发布情况通报称，近日，网络平台流传“江西一名女孩赴香港观看演唱会，因出境消费被取消全家低保待遇”信息，引发网民热议。对此，赣州经开区社会事务管理局高度重视，第一时间成立工作专班，全面启动核查工作。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692076.shtml",
+      "publishedAt": "2026-09-07T09:56:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10692082.shtml",
+      "title": "【中国游记】科幻电影照进现实？外国博主在安徽合肥找到了“未来世界”！",
+      "category": "综合",
+      "summary": "你知道吗？在“科创之都”安徽合肥，科幻电影里的场景已经变成了当地人的日常！从会做咖啡的机器人，到总装环节“1分钟下线1台车”的智能工厂，再到“空中出租车”eVTOL载人飞行器……在合肥，科技早已褪去硬壳，化作触手可及的日常暖意。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692082.shtml",
+      "publishedAt": "2026-09-07T09:56:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad#0",
+      "title": "倫敦警察擬對在囚連環強姦犯鄒鎮豪起訴新罪",
+      "category": "国际",
+      "summary": "鄒鎮豪被法院裁定在英國等地強姦10名女子罪名成立，但執法當局相信受害人數不止於此。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cd9477z832wo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T09:55:09.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10692079.shtml",
+      "title": "中越边城广西崇左聚力打造国际边关风情旅游目的地",
+      "category": "综合",
+      "summary": "中新社南宁9月7日电 (记者 杨陈)广西崇左市官方7日在南宁市举行新闻发布会披露，自2023年9月运营至今，中越德天(板约)瀑布跨境旅游合作区开放近三年。截至9月6日，景区“一日游两国”跨境游客达70439人次，成为中越跨境文旅合作的亮眼成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10692079.shtml",
+      "publishedAt": "2026-09-07T09:52:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692078.shtml",
+      "title": "中国对原产于日本的进口二氯二氢硅实施临时反倾销措施",
+      "category": "综合",
+      "summary": "中新社北京9月7日电 (记者 尹倩芸)中国商务部7日发布公告，决定对原产于日本的进口二氯二氢硅实施临时反倾销措施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692078.shtml",
+      "publishedAt": "2026-09-07T09:52:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10692077.shtml",
+      "title": "郭德纲歪曲篡改抗战歌曲 武汉市文化和旅游局发布处理通报",
+      "category": "综合",
+      "summary": "武汉市文化和旅游局发布处理通报。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692077.shtml",
+      "publishedAt": "2026-09-07T09:44:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692075.shtml",
+      "title": "王毅同墨西哥外长贝拉斯科会谈",
+      "category": "综合",
+      "summary": "2026年9月7日，中共中央政治局委员、外交部长王毅在北京同墨西哥外长贝拉斯科会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692075.shtml",
+      "publishedAt": "2026-09-07T09:32:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692072.shtml",
+      "title": "青春华章丨勋章、红砖、照片，高校的三件“思政课信物”",
+      "category": "综合",
+      "summary": "中新网合肥9月7日电 (记者 张强)2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动6日晚在中国科学技术大学举行。活动现场，中国科学院院士、中国科大校长常进用三件信物，串起该校的爱国、青春与奋斗。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692072.shtml",
+      "publishedAt": "2026-09-07T09:30:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10692073.shtml",
+      "title": "两部门：进一步规范汽车企业供应商账期管理",
+      "category": "综合",
+      "summary": "今天(7日)，工业和信息化部、市场监管总局联合发布了《关于推动汽车企业规范供应商账款支付 优化账期管理的通知》，这是国家层面出台的首个面向行业领域的账期管理文件，也是关乎产业生态建设的关键举措。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692073.shtml",
+      "publishedAt": "2026-09-07T09:29:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-07/10692033.shtml",
+      "title": "从省际“接壤线”到发展“同心圆”：青吴嘉统战联盟汇聚同心力量",
+      "category": "综合",
+      "summary": "中新网上海9月7日电(范宇斌)为促进上海青浦、江苏吴江、浙江嘉善三地党外青年间的交流，进一步加强党外代表人士队伍建设，“文脉润三地 阵地聚同心”青吴嘉三地“党外青年说”活动近日在江苏吴江江村学院举行。活动现场成立“青吴嘉三地统战阵地宣讲团”，宣讲团聚焦统战文化传播、青年思想引领、三地交流联动，常态化讲好三地统战故事。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-07/10692033.shtml",
+      "publishedAt": "2026-09-07T09:23:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10692071.shtml",
+      "title": "重拳打击“飙车炸街” 长春警方处理858起违法行为",
+      "category": "综合",
+      "summary": "非法改装、深夜飙车、危险竞速，大功率摩托车带来的“炸街”乱象，不仅搅扰市民安宁，也为道路安全埋下隐患。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692071.shtml",
+      "publishedAt": "2026-09-07T09:23:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691954.shtml",
+      "title": "中国团队新发现哈密翼龙前肢化石 为翼龙生长发育研究提供重要证据",
+      "category": "综合",
+      "summary": "中新网北京9月7日电 (记者 孙自法)记者9月7日从中国科学院古脊椎动物与古人类研究所汪筱林研究员团队获悉，该团队最近对一件采自新疆哈密、近乎完整关联的翼龙右前肢化石深入研究分析，为哈密翼龙头后骨骼解剖学特征、异速生长模式等翼龙生长发育研究，提供了新的重要证据。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691954.shtml",
+      "publishedAt": "2026-09-07T09:22:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10692070.shtml",
+      "title": "涉AI换脸拟声、仿冒名人带货等，最高法发文",
+      "category": "综合",
+      "summary": "中新网北京9月7日电(记者 高萌)AI换脸拟声、利用人工智能“网络开盒”、自动驾驶汽车交通事故……人工智能的发展带来巨大机遇，也带来风险与挑战。9月7日，最高人民法院发布《最高人民法院关于依法审理涉人工智能纠纷案件的意见》，回应多个社会各界关注的人工智能领域热点问题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10692070.shtml",
+      "publishedAt": "2026-09-07T09:22:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691940.shtml",
+      "title": "聚焦数智创新 第六届可持续发展大数据国际论坛在北京举行",
+      "category": "综合",
+      "summary": "中新网北京9月7日电 (记者 孙自法)第六届可持续发展大数据国际论坛9月6日至8日在北京举行，聚焦“数智创新，承启未来：走向全球可持续发展新高地”主题，来自50个国家和19个国际组织的近700名代表共聚一堂，共商如何深化推动数字技术在可持续发展各领域的创新应用，以及下一阶段全球发展的数智合作路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691940.shtml",
+      "publishedAt": "2026-09-07T09:21:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-07/10692010.shtml",
+      "title": "追梦中华·侨见自贸港：让世界看到更加立体、鲜活、开放的自贸港",
+      "category": "综合",
+      "summary": "中新网海口9月7日电 题：追梦中华·侨见自贸港：让世界看到更加立体、鲜活、开放的自贸港",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-07/10692010.shtml",
+      "publishedAt": "2026-09-07T09:21:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691981.shtml",
+      "title": "南京一面包店为骑手提供隔夜面包免费自取：店开着就会一直做下去",
+      "category": "综合",
+      "summary": "中新网南京9月7日电 (记者 徐珊珊)在南京，一家面包店门口摆出的“隔夜面包免费自取”牌子，温暖了许多外卖骑手的心。这家位于秦淮区的面包店，从今年4月开始，每天将当天未售完的现烤面包放在店门口，供外卖骑手免费取用。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691981.shtml",
+      "publishedAt": "2026-09-07T09:21:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692011.shtml",
+      "title": "专家：乡村振兴投入机制建设进入系统化、制度化新阶段",
+      "category": "综合",
+      "summary": "中新网北京9月7日电 (记者 赵建华)近日，农业农村部、中央农办、国家发展改革委、财政部、中国人民银行、国家金融监管总局六部门联合印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》(下称《方案》)。《方案》围绕健全多元投入格局、强化协同联动、完善工作责任体系等方面，部署13项重点任务。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692011.shtml",
+      "publishedAt": "2026-09-07T09:21:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691955.shtml",
+      "title": "江西开展无线电管理法治宣传月活动 普及无线电管理法律法规",
+      "category": "综合",
+      "summary": "中新网南昌9月7日电 (记者 吴鹏泉)2026年江西省无线电管理法治宣传月启动仪式7日在南昌举行。本次活动旨在全面普及无线电管理法律法规，提升全社会依法用频、合法设台意识，为江西无线电事业“十五五”良好开局营造浓厚的法治氛围。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691955.shtml",
+      "publishedAt": "2026-09-07T09:20:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10692034.shtml",
+      "title": "农业银行启动2026年金融教育宣传周活动",
+      "category": "综合",
+      "summary": "9月7日至13日，农业银行将开展金融教育宣传周活动，本次活动主题是“清朗金融网络守护安心消费”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692034.shtml",
+      "publishedAt": "2026-09-07T09:20:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691960.shtml",
+      "title": "苏玉琴：用微光点亮更多人的希望",
+      "category": "综合",
+      "summary": "中新网乌鲁木齐9月7日电 (张家伟)2026年7月1日，庆祝中国共产党成立105周年大会上，新疆昌吉市苏玉琴志愿服务工作站党支部书记苏玉琴站在领奖台上，接过“全国优秀党务工作者”证书。“拿到这个奖项时，我的眼泪瞬间出来了。”她说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691960.shtml",
+      "publishedAt": "2026-09-07T09:20:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-07/10691941.shtml",
+      "title": "《天山雪》演绎七十余载援疆情 杂技舞台绽放民族团结之花",
+      "category": "综合",
+      "summary": "中新网上海9月7日电(范宇斌)作为第七届全国少数民族文艺会演参演剧目，由上海杂技团、上海市马戏学校、新疆艺术剧院杂技团联合出品的杂技剧《天山雪》7日至8日在北京保利剧院连演两场。这部历时三年打磨的作品，以“逆风飞翔”的雄鹰精神为内核，串联起跨越七十余载的援疆岁月，用舞台艺术诉说沪疆两地各族人民像石榴籽那样紧紧抱在一起的深厚情谊。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-07/10691941.shtml",
+      "publishedAt": "2026-09-07T09:19:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-07/10692069.shtml",
+      "title": "再现长征恢弘史诗 全国12家民族乐团联袂奏响《永恒的红飘带》",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203423.shtml",
-      "publishedAt": "2026-09-07T08:25:07.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-07/10692069.shtml",
+      "publishedAt": "2026-09-07T09:19:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691999.shtml",
-      "title": "前7月天保口岸跨境贸易态势向好",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691928.shtml",
+      "title": "中博会共发布213个新品 “最受欢迎新品”揭晓",
       "category": "综合",
-      "summary": "今年前7个月，麻栗坡县天保口岸跨境贸易态势向好，进出口货运量24.7万吨，同比增长16.6%。其中进口水果表现亮眼，天保海关累计监管进口鲜榴莲10.7万吨、货值26亿元，同比分别增长31.3%、8.5%，榴莲进口成为拉动口岸外贸增长的重要动力。",
+      "summary": "中新网广州9月7日电(记者 许青青)第二十一届中国国际中小企业博览会(下称“中博会”)9月3日至6日在广州举行。记者从主办方获悉，本届中博会共发布全国143家企业213个优质新品，最终选出10个“最受欢迎新品”，90个“入围新品”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691999.shtml",
-      "publishedAt": "2026-09-07T08:24:09.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691928.shtml",
+      "publishedAt": "2026-09-07T09:19:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691998.shtml",
-      "title": "重庆海关技术中心2026年设备设施维保服务采购项目比选公告",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692001.shtml",
+      "title": "平陆运河出海口海图正式出版 为运河通航提供保障",
       "category": "综合",
-      "summary": "一、项目基本情况",
+      "summary": "中新网南宁9月7日电(黄艳梅 莫卫华 陈振奋)《平陆运河出海口》海图7日向社会公开出版发行。广西海事局当日介绍，平陆运河入海口段沿海航标设置已全面完工，127座航标全部就位，标志着平陆运河航海安全保障体系从航道标识到海图权威标注已全面就绪，将为运河如期通航和船舶安全航行提供坚实保障。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691998.shtml",
-      "publishedAt": "2026-09-07T08:22:30.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692001.shtml",
+      "publishedAt": "2026-09-07T09:19:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/09-07/10691995.shtml",
-      "title": "文化中国行·人间好时节｜白露：人间清秋 露华正浓",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-07/10691947.shtml",
+      "title": "2026广东时装周-秋季将启 海内外超200个品牌参与",
       "category": "综合",
-      "summary": "视频：文化中国行·人间好时节｜白露：人间清秋 露华正浓来源：央视新闻客户端",
+      "summary": "中新网广州9月7日电 (记者 蔡敏婕)2026广东时装周-秋季(第38届)媒体通气会7日在广州举行。记者从通报会上获悉，本届时装周汇聚200余个海内外品牌矩阵、超1000家企业参与。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/09-07/10691995.shtml",
-      "publishedAt": "2026-09-07T08:20:18.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-07/10691947.shtml",
+      "publishedAt": "2026-09-07T09:19:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691993.shtml",
-      "title": "重庆国际旅行卫生保健中心2026年肿瘤标志物试剂采购项目（第三次）比选公告",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691906.shtml",
+      "title": "平陆运河出海口海图正式出版",
       "category": "综合",
-      "summary": "重庆国际旅行卫生保健中心对2026年肿瘤标志物试剂采购项目进行比选采购。本项目采购活动将严格落实节约能源、保护环境、扶持不发达地区和少数民族地区、促进中小企业发展等政府采购政策。",
+      "summary": "中新社南宁9月7日电 (记者 黄艳梅)《平陆运河出海口》海图7日向社会公开出版发行。广西海事局当日介绍，平陆运河入海口段沿海航标设置已全面完工，127座航标全部就位，标志着平陆运河航海安全保障体系从航道标识到海图权威标注已全面就绪。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691993.shtml",
-      "publishedAt": "2026-09-07T08:19:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691906.shtml",
+      "publishedAt": "2026-09-07T09:19:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203420.shtml",
-      "title": "世界一级方程式锦标赛（F1）意大利大奖赛：安东内利主场夺冠",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10692047.shtml",
+      "title": "山东地质队员扎根戈壁一线 以专业技术破解边疆生态治理难题",
       "category": "综合",
-      "summary": "",
+      "summary": "中新网济南9月7日电 (周艺伟)“夏天紫外线灼得皮肤发疼，冬天零下20多摄氏度，呼出的热气瞬间在面罩上结成冰碴。”谈及野外作业的艰辛，从山东济南远赴新疆开展地质工作的梁海春称，“这是工作常态”。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203420.shtml",
-      "publishedAt": "2026-09-07T08:17:14.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692047.shtml",
+      "publishedAt": "2026-09-07T09:19:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,392 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-07/10691977.shtml",
-      "title": "开学季如何做好孩子的健康管理？医生：“多病同防”是关键",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691985.shtml",
+      "title": "成都出台“科创生态16条” 为科产融合生态系统“立柱架梁”",
       "category": "综合",
-      "summary": "中新网9月7日电 国家卫健委9月7日举办新闻发布会，介绍时令节气与健康(白露)有关情况。中国疾病预防控制中心主任医师郭欣就如何在开学季抓住重点做好孩子们的健康管理答记者问。",
+      "summary": "中新网成都9月7日电 (王利文)成都市科学技术局7日举行新闻通气会，对中共成都市委办公厅、市政府办公厅近日印发的《关于优化科技创新生态的实施意见》(以下简称《实施意见》)进行解读。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691977.shtml",
-      "publishedAt": "2026-09-07T08:17:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691984.shtml",
-      "title": "他登台那一刻，掌声雷动！独家纪录片专访王戟",
-      "category": "综合",
-      "summary": "2026年9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在安徽合肥的中国科学技术大学举行。“时代楷模”、国防科技大学计算机学院研究员王戟双手摇着轮椅，来到舞台中央，他缓慢而坚定地敬礼，全场掌声经久不息。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691984.shtml",
-      "publishedAt": "2026-09-07T08:11:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/09-07/10691978.shtml",
-      "title": "白露时节如何科学养生？民谚里早有答案",
-      "category": "综合",
-      "summary": "古人以四时配五行，秋属金，金色白，故以白形容秋露，称之为白露。民间流传着“白露秋风夜，一夜冷一夜”“白露的花，有一搭无一搭”“白露身不露，寒露脚不露”“白露采白露，煮茶润秋腑”等众多民谚。透过这些谚语，我们一起来解读白露的露珠中隐藏的科学密码与生活智慧。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/09-07/10691978.shtml",
-      "publishedAt": "2026-09-07T08:10:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691951.shtml",
-      "title": "2025年我国可数字化交付服务进出口总额达4323.1亿美元",
-      "category": "综合",
-      "summary": "中新网9月7日电 9月7日下午，国新办就第五届全球数字贸易博览会有关情况举行新闻发布会。在会上，商务部副部长鄢东表示，随着人工智能、大数据、云计算、区块链等数字技术的广泛应用，我国数字贸易快速发展，为对外贸易高质量发展作出了重要贡献。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691951.shtml",
-      "publishedAt": "2026-09-07T08:08:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-07/10691966.shtml",
-      "title": "白露后出现皮肤干燥睡眠变差 中医医师教你从三个方面调养",
-      "category": "综合",
-      "summary": "中新网9月7日电 国家卫健委9月7日举办新闻发布会，介绍时令节气与健康(白露)有关情况。首都医科大学附属北京中医医院主任医师王少松就白露后出现皮肤干、嗓子干、睡眠变差的中医调理方法答记者问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691966.shtml",
-      "publishedAt": "2026-09-07T08:05:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691976.shtml",
-      "title": "市场监管总局发布第一批网络食品销售虚假宣传典型案例",
-      "category": "综合",
-      "summary": "记者今天了解到，2026年4月，市场监管总局部署开展为期半年的“网络食品销售虚假宣传专项整治行动”。同期，会同工业和信息化部、民政部联合开展“保健食品护老提升专项行动”。两个专项行动开展以来，各地市场监管部门聚焦网络食品营销乱象、老年群体保健食品消费骗局等突出问题，依法查处了一批违法案件，治理了一批乱象，清理了一批违规主体，切实维护了广大人民群众、特别是老年",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691976.shtml",
-      "publishedAt": "2026-09-07T08:05:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691975.shtml",
-      "title": "商务部新闻发言人就对原产于日本的进口二氯二氢硅反倾销调查初裁答记者问",
-      "category": "综合",
-      "summary": "问：我们注意到商务部网站发布了对原产于日本的进口二氯二氢硅反倾销调查的初裁公告，能否介绍相关情况？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691975.shtml",
-      "publishedAt": "2026-09-07T08:03:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691974.shtml",
-      "title": "准备就绪！平陆运河将于9月16日建成通航",
-      "category": "综合",
-      "summary": "记者今天(9月7日)从广西壮族自治区人民政府新闻办公室举行的新闻发布会上获悉，平陆运河将于9月16日建成通航。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691974.shtml",
-      "publishedAt": "2026-09-07T08:02:19.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691972.shtml",
-      "title": "吉隆沟里的“能量加油站”",
-      "category": "综合",
-      "summary": "9月5日，西藏吉隆口岸。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691972.shtml",
-      "publishedAt": "2026-09-07T08:00:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691970.shtml",
-      "title": "南宁邮局海关2026年9月份“关领导接待日”公告",
-      "category": "综合",
-      "summary": "为了解社会各界的建议和意见，并切实解决实际问题和困难，现就南宁邮局海关2026年9月份“关领导接待日”有关事项预告如下：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691970.shtml",
-      "publishedAt": "2026-09-07T07:59:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-07/10691969.shtml",
-      "title": "瀚海星云，绽放青春华章",
-      "category": "综合",
-      "summary": "时代接续传承，精神薪火相传。9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动，在中国科学技术大学举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10691969.shtml",
-      "publishedAt": "2026-09-07T07:57:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691968.shtml",
-      "title": "东兴海关综合技术服务中心试剂耗材定点供应商补充采购项目（重）（GXGL2026M-G273-Z）公开招标公告",
-      "category": "综合",
-      "summary": "项目概况",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691968.shtml",
-      "publishedAt": "2026-09-07T07:56:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691965.shtml",
-      "title": "制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相",
-      "category": "综合",
-      "summary": "刚在8月加码经济制裁、试图对伊朗极限施压的美国，并未能稳住局势。进入9月，美伊战火重燃，中东局势再度升温，和平前景迷雾重重。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691965.shtml",
-      "publishedAt": "2026-09-07T07:55:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691967.shtml",
-      "title": "最高法：被AI换脸造黄谣可这样应对",
-      "category": "综合",
-      "summary": "中新网9月7日电(记者 高萌) 7日发布的《最高人民法院关于依法审理涉人工智能纠纷案件的意见》，对“AI换脸拟声”“网络开盒”等热点问题作了规定。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691967.shtml",
-      "publishedAt": "2026-09-07T07:54:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691964.shtml",
-      "title": "外交部：对于发展中德关系，中方立场是一贯的",
-      "category": "综合",
-      "summary": "中新网北京9月7日电 (记者 郭超凯)中国外交部发言人毛宁9月7日主持例行记者会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691964.shtml",
-      "publishedAt": "2026-09-07T07:52:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691962.shtml",
-      "title": "贵港海关2026年9月份“关领导接待日”公告",
-      "category": "综合",
-      "summary": "为了解企业、群众对我关的建议和意见，并切实解决实际问题和困难，现就贵港海关2026年9月关领导接待日有关事项预告如下：",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691962.shtml",
-      "publishedAt": "2026-09-07T07:51:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-07/10691961.shtml",
-      "title": "青春华章｜2026“大思政课”活动走进中国科大：赓续科创薪火 书写报国华章",
-      "category": "综合",
-      "summary": "从燕园启程，跨越五载春秋，一堂以“青春”为名的大思政课再度书写崭新篇章。9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动走进中国科学技术大学。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10691961.shtml",
-      "publishedAt": "2026-09-07T07:51:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691959.shtml",
-      "title": "外交部：中委合作不应受第三方干扰，中国在委内瑞拉的合法权益必须得到保护",
-      "category": "综合",
-      "summary": "中新网北京9月7日电 (记者 郭超凯)中国外交部发言人毛宁9月7日主持例行记者会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691959.shtml",
-      "publishedAt": "2026-09-07T07:46:54.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691958.shtml",
-      "title": "最高法：依法认定涉智驾交通事故赔偿责任",
-      "category": "综合",
-      "summary": "中新网9月7日电(记者 高萌) 7日，《最高人民法院关于依法审理涉人工智能纠纷案件的意见》发布。《意见》指出，自动驾驶汽车、具备辅助驾驶功能汽车上道路行驶，发生交通事故造成损害的，依据民法典和道路交通安全法有关规定承担赔偿责任。因车辆存在产品缺陷导致交通事故造成损害，当事人请求生产者或者销售者依照民法典规定承担赔偿责任的，具备辅助驾驶功能的汽车因车辆缺陷与驾",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691958.shtml",
-      "publishedAt": "2026-09-07T07:46:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691957.shtml",
-      "title": "共同书写亚太媒体合作新篇章",
-      "category": "综合",
-      "summary": "共同书写亚太媒体合作新篇章(APEC中国年：开放 创新 合作)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691957.shtml",
-      "publishedAt": "2026-09-07T07:46:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691956.shtml",
-      "title": "最高法发文规制“大数据杀熟”“仿冒名人带货”",
-      "category": "综合",
-      "summary": "中新网9月7日电 (记者 高萌)7日，《最高人民法院关于依法审理涉人工智能纠纷案件的意见》发布。《意见》指出，依法规制“大数据杀熟”“仿冒名人带货”等侵害消费者合法权益的行为。针对同一商品或者服务，经营者利用算法在交易价格等交易条件上实行不合理的差别待遇，侵害他人合法权益造成损害的，人民法院应当依法认定其承担相应的侵权责任。经营者提供商品或者服务时，利用人工",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691956.shtml",
-      "publishedAt": "2026-09-07T07:45:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691952.shtml",
-      "title": "最高法：依法规制利用人工智能“网络开盒”",
-      "category": "综合",
-      "summary": "中新网9月7日电(记者 高萌) 7日，《最高人民法院关于依法审理涉人工智能纠纷案件的意见》发布。《意见》指出，依法规制利用人工智能实施“网络开盒”“人肉搜索”等侵害自然人隐私权的行为。以刺探隐私为目的，利用人工智能对特定自然人的电话号码、网络账号及社交媒体等公开信息进行追踪、分析，获取私密信息，或者将所获取的私密信息泄露、公开，或者利用所获取信息侵扰私人生活",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691952.shtml",
-      "publishedAt": "2026-09-07T07:42:24.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691985.shtml",
+      "publishedAt": "2026-09-07T09:18:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -695,7 +712,7 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#0",
-      "title": "歐洲國家提走北美黃金儲備所為何事",
+      "title": "歐洲國家為何提走北美黃金儲備",
       "category": "国际",
       "summary": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
       "source": "BBC 中文",
@@ -781,7 +798,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad#1",
       "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
       "category": "国际",
       "summary": "一場喜馬拉雅山冰岩崩造成的泥石流，摧毀了尼泊爾超過10%的發電能力。",
@@ -1620,23 +1637,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T05:45:54.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/crer81r33pno/trad#1",
-      "title": "數百名水力發電工人受困隧道：尼泊爾地下夢魘",
-      "category": "国际",
-      "summary": "數百名工人的家屬仍抱持希望，相信受困於尼泊爾特里蘇里河（Trishuli River）沿岸龐大、充滿泥漿的隧道網絡中的親人仍有機會被活著找到。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/crer81r33pno/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T04:44:45.000Z",
       "tags": [
         "国际",
         "商业",
