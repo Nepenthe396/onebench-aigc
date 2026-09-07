@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114250",
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "meta": "少数派 · 2026/9/7",
+      "url": "https://sspai.com/post/114250",
+      "publishedAt": "2026-09-07T00:20:41.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114076",
       "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
       "meta": "少数派 · 2026/9/6",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/3",
       "url": "https://sspai.com/post/113159",
       "publishedAt": "2026-09-03T03:32:28.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114084",
-      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
-      "meta": "少数派 · 2026/9/2",
-      "url": "https://sspai.com/post/114084",
-      "publishedAt": "2026-09-02T09:40:56.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T00:39:50.444Z",
+  "updatedAt": "2026-09-07T02:29:13.267Z",
   "provider": "OneBench 公共资讯快照"
 }
