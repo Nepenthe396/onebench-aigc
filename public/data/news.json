@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T04:29:42.762Z",
-  "expiresAt": "2026-09-07T10:29:42.762Z",
+  "generatedAt": "2026-09-07T06:37:41.855Z",
+  "expiresAt": "2026-09-07T12:37:41.855Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691822.shtml",
-      "title": "南京对环境采样造假涉事企业和相关人员立案调查",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-07/10691886.shtml",
+      "title": "被曲解的尼泊尔诉求背后，藏着怎样的算计？",
       "category": "综合",
-      "summary": "总台报道有反馈丨南京对环境采样造假涉事企业和相关人员立案调查",
+      "summary": "吉隆口岸的伤痛还没有消散，不少失踪者家属还在苦苦等候消息。上一轮关于大坝溃决、隐瞒灾情的谣言还在网络四处流转，一波新的话语碰瓷，又借着这场天灾冒了出来。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691822.shtml",
-      "publishedAt": "2026-09-07T04:15:13.000Z",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-07/10691886.shtml",
+      "publishedAt": "2026-09-07T06:29:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691777.shtml",
-      "title": "中国银行在泉州举办GBIC大会暨全球闽商合作对接会 葛海蛟出席并致辞",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691867.shtml",
+      "title": "俄航总经理：中国成俄客流量最大的国际航班方向之一",
       "category": "综合",
-      "summary": "9月6日，中国银行在泉州举办“四海同心 闽在全球”GBIC大会暨全球闽商合作对接会。中国银行董事长葛海蛟、福建省常务副省长王永礼等嘉宾出席并致辞。",
+      "summary": "中新网9月7日电 据俄罗斯卫星通讯社7日报道，俄罗斯航空公司总经理亚历山德罗夫斯基表示，中国、土耳其、阿联酋和乌兹别克斯坦是俄罗斯客流量最大的方向，在所有外国运输中占比超过70%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691777.shtml",
-      "publishedAt": "2026-09-07T04:10:13.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691867.shtml",
+      "publishedAt": "2026-09-07T06:26:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691796.shtml",
-      "title": "墨西哥中部烟花爆炸死伤人数上升至74人",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691873.shtml",
+      "title": "也门政府军与胡塞武装持续交火 外媒称逾300名战斗人员丧生",
       "category": "综合",
-      "summary": "中新网北京9月7日电 据墨西哥《进程》周刊报道，墨西哥中部墨西哥州政府当地时间6日公布，截至当天9时30分，该州特马斯卡尔辛戈市圣玛丽亚·坎切斯达镇5日晚发生的烟花爆炸事故已造成至少10人死亡、64人受伤。",
+      "summary": "中新社北京9月7日电 综合消息：当地时间6日，也门政府军与胡塞武装在西南部塔伊兹省和荷台达省持续交火。外媒称，本月3日以来，双方冲突造成超过300名战斗人员死亡。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691796.shtml",
-      "publishedAt": "2026-09-07T04:08:43.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691873.shtml",
+      "publishedAt": "2026-09-07T06:24:51.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,31 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691756.shtml",
-      "title": "美国迈阿密机场一货机冲出跑道 造成5死5伤",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "title": "印尼火山爆發，27萬旅客滯留機場",
+      "category": "国际",
+      "summary": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，多個機場連續第二天暫運，約27萬名旅客滯留。該局警告，火山「未來一段時間再次爆發的可能性仍然很高」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T06:24:39.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691872.shtml",
+      "title": "联大敦促使用“纠正地图” 非洲期盼被“准确地看见”",
       "category": "综合",
-      "summary": "中新社华盛顿9月6日电 美国佛罗里达州迈阿密国际机场当地时间6日发生货机冲出跑道事故，造成5人死亡、5人受伤。",
+      "summary": "中新社约翰内斯堡9月7日电 (记者 孙翔)“准确呈现不仅关乎地图，也关乎自主性、进步，以及确保世界看到非洲真实的样子。”非洲非政府组织“非洲无滤镜”执行主任莫基·马库拉日前在社交媒体上称，非洲需要被准确地看见。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691756.shtml",
-      "publishedAt": "2026-09-07T04:07:43.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691872.shtml",
+      "publishedAt": "2026-09-07T06:24:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +121,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691740.shtml",
-      "title": "安哥拉库内内省抗旱项目恩度大坝竣工",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691885.shtml",
+      "title": "细化合格投资者标准 私募行业募集规范出炉",
       "category": "综合",
-      "summary": "中新网西宁9月7日电（黄小云 乔玉林）中国水利水电第四工程局有限公司6日消息，北京时间9月5日17时，由该局参建的安哥拉库内内省抗旱大坝项目五标段恩度大坝举行落成典礼暨剪彩仪式，标志着安哥拉库内内省抗旱项目主体正式竣工。",
+      "summary": "为进一步加强对私募投资基金募集业务活动监管，证监会日前宣布就《私募投资基金募集监督管理办法(征求意见稿)》(以下简称《募集办法》)公开征求意见。证监会表示，《募集办法》是加强私募投资基金全流程监管的重要规则，其制定推进标志着私募投资基金行政规则体系加快建立完善，全链条监管制度基础进一步夯实。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691740.shtml",
-      "publishedAt": "2026-09-07T04:06:28.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691885.shtml",
+      "publishedAt": "2026-09-07T06:20:35.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +139,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691818.shtml",
-      "title": "聚焦家电、水质等项目 2025年国际检验检测能力验证工作完成",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691884.shtml",
+      "title": "河南省南阳市人大常委会原主任刘朝瑞接受审查调查",
       "category": "综合",
-      "summary": "记者今天了解到，市场监管总局(国家认监委)近日组织的2025年国际检验检测能力验证工作完成。能力验证是国际通行的检验检测机构质量控制手段，以测试结果评价机构人员、仪器设备、检测方法、环境设施等综合技术水平，对检验检测机构进行全方位“体检”和“校准”。",
+      "summary": "中新网9月7日电 据河南省纪委监委消息：河南省南阳市人大常委会原党组书记、主任刘朝瑞涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691818.shtml",
-      "publishedAt": "2026-09-07T03:58:54.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691884.shtml",
+      "publishedAt": "2026-09-07T06:16:17.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +157,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691817.shtml",
-      "title": "“我在白崖很想你”？景区人造设施煞风景",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-07/10691883.shtml",
+      "title": "草原“曼巴”的56年，见证两种文化的碰撞与交融",
       "category": "综合",
-      "summary": "画蛇添足的人造设施煞风景",
+      "summary": "我平生从未想过，会得到这样一个机缘。当认领下创作一部以“感动中国”2010年度人物王万青为原型的话剧任务时，竟然有些恍惚。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691817.shtml",
-      "publishedAt": "2026-09-07T03:57:19.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-07/10691883.shtml",
+      "publishedAt": "2026-09-07T06:11:26.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +175,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691816.shtml",
-      "title": "2026－2027年度直接选拔招录军（警）官工作全面展开",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-07/10691879.shtml",
+      "title": "从侨批到龙餐馆：侨胞故事里滚烫的人情味",
       "category": "综合",
-      "summary": "为广泛延揽高校优秀人才投身新时代强军事业，近日，中央军委政治工作部部署展开2026－2027年度直接选拔招录军(警)官工作。",
+      "summary": "近期上映的两部电影《欢迎来龙餐馆》和《给阿嬷的情书》，一个烽火连天，一个纸短情长；一个在异国灶台，一个在故纸堆中。可它们讲的都是侨的故事，就像两条隔着时空的河，悄然汇入了同一片海——那里面，漂着无数中华儿女对故土割舍不断的魂。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691816.shtml",
-      "publishedAt": "2026-09-07T03:56:35.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-07/10691879.shtml",
+      "publishedAt": "2026-09-07T06:11:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +193,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691807.shtml",
-      "title": "台企在江西：深耕覆铜板产业 乘AI东风跑出发展加速度",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691878.shtml",
+      "title": "（活力中国调研行）临港产业加速驶入“深水区” 江苏镇江造船业驶向全球",
       "category": "综合",
-      "summary": "中新网江西龙南9月7日电 (记者 刘力鑫)“2026年开年至今，我们公司的产销形势非常火爆，生产线满负荷运转。”近日，江西联茂电子科技有限公司管理部经理邱木盛在接受记者采访时表示，按照当前态势，预计全年营收可突破50亿元，将再创投产以来历史新高。",
+      "summary": "中新网镇江9月7日电 (记者 徐珊珊)在镇江高新区船厂码头，一艘多功能全回转工作船正在舾装，不久后将驶向海外港口投入使用。船台上，多艘在建船舶同步推进……从长江边的这座船厂出发，镇江制造的特种工程船舶已驶入亚、非、欧、美40多个国家和地区。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691807.shtml",
-      "publishedAt": "2026-09-07T03:54:07.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691878.shtml",
+      "publishedAt": "2026-09-07T06:09:18.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +211,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691815.shtml",
-      "title": "8家中央金融企业获3600亿元增资 对普通百姓会带来哪些影响？",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691882.shtml",
+      "title": "儿童坐火车，如何保障安全？",
       "category": "综合",
-      "summary": "2026年9月6日，金融市场迎来一则重量级消息。工商银行、农业银行、中国进出口银行、中国信保、中国再保、中国人寿、中国太平、中国人保八家中央金融企业同步披露增资方案，合计补充核心一级资本3600亿元。这也是近几年国内金融领域覆盖范围最广的一轮集中资本补充。巨额资金从何而来？这笔钱要发挥什么作用？对普通百姓会带来哪些影响？",
+      "summary": "儿童坐火车如何保障安全",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691815.shtml",
-      "publishedAt": "2026-09-07T03:51:33.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691882.shtml",
+      "publishedAt": "2026-09-07T06:06:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +229,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-07/10691814.shtml",
-      "title": "上海：百年复兴公园里 游客“入戏”城市夜生活",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691880.shtml",
+      "title": "《习近平生态文明思想概论》出版发行",
       "category": "综合",
-      "summary": "9月6日晚，孩子与演员合影。中新社记者 殷立勤 摄 9月6日晚，游客一边用手机拍摄，一边驾驶碰碰车。中新社记者 殷立勤 摄 9月6日晚，游客在旋转木马设施前合影。中新社记者 殷立勤 摄 9月6日晚，游客观看戏剧表演。中新社记者 殷立勤 摄 9月6日晚，游客体验旋转木马。中新社记者 殷立勤 摄 9月6日晚，游客与演员互动。中新社记者 殷立勤 摄 9月6日晚，游",
+      "summary": "新华社北京9月7日电#8195;为深入推动习近平生态文明思想进教材进课堂进头脑，由中央宣传部、生态环境部组织编写的马克思主义理论研究和建设工程重点教材《习近平生态文明思想概论》(以下简称《概论》)一书，已由高等教育出版社、人民出版社出版。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-07/10691814.shtml",
-      "publishedAt": "2026-09-07T03:51:07.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691880.shtml",
+      "publishedAt": "2026-09-07T06:03:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +247,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691813.shtml",
-      "title": "中国海警局将在浙江杭州主办第22届亚洲地区海岸警备机构高官会高级别会议",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691875.shtml",
+      "title": "工信部：推动历史经典产业高质量发展，让经典变“潮”",
       "category": "综合",
-      "summary": "中新网9月7日电 据“中国海警”微信公众号消息，中国海警局新闻发言人刘德军表示，亚洲地区海岸警备机构高官会历经二十余年发展，其成员涵盖东亚、东南亚、南亚及部分域外国家，机制架构日益完善，合作领域不断拓展。",
+      "summary": "中新网北京9月7日电(记者 袁秀月)历史经典产业是指丝绸、茶叶、瓷器、中药、酿造、工艺美术、文房四宝等文化底蕴深厚的中华传统特色产业。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691813.shtml",
-      "publishedAt": "2026-09-07T03:51:07.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691875.shtml",
+      "publishedAt": "2026-09-07T06:01:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +265,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691799.shtml",
-      "title": "商务部：1450个中华老字号中4成以上分布在历史经典产业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-07/10691877.shtml",
+      "title": "白血病还是“不治之症”吗",
       "category": "综合",
-      "summary": "中新网9月7日电 国新办9月7日举行新闻发布会，介绍推动历史经典产业高质量发展有关情况。商务部流通业发展司负责人张祥表示，老字号是我国工商业发展中孕育的“金字招牌”，承载着深厚的中华优秀传统文化。商务部先后认定三批共1450个中华老字号，其中4成以上分布在丝绸茶叶、中医中药、工艺美术等历史经典产业。",
+      "summary": "长期以来，白血病被贴上“不治之症”的标签，一旦确诊白血病，患者及其家属常陷入绝望。白血病还是“不治之症”吗？北京大学人民医院主任医师张晓辉表示，随着现代医学诊疗技术不断迭代升级，白血病早已实现可治可控、多数可治愈。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691799.shtml",
-      "publishedAt": "2026-09-07T03:51:07.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-07/10691877.shtml",
+      "publishedAt": "2026-09-07T06:00:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +283,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-07/10691810.shtml",
-      "title": "家国大义聚同心 内蒙古话剧《马走日》专场在呼和浩特上演",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691863.shtml",
+      "title": "工信部：加强协同联动 让历史经典产业“加”出无限可能",
       "category": "综合",
-      "summary": "9月6日，内蒙古呼和浩特市，由马成刚饰演的老红军(左)和由相学泽饰演的国民党老兵对弈中国象棋。中新社记者 刘文华 摄 9月6日，内蒙古呼和浩特市，由马成刚饰演的老红军(左)和由相学泽饰演的国民党老兵彼此释怀。中新社记者 刘文华 摄 9月6日，内蒙古呼和浩特市，参演演员向观众谢幕。中新社记者 刘文华 摄",
+      "summary": "中新网9月7日电 国新办9月7日举行新闻发布会，介绍推动历史经典产业高质量发展有关情况。工业和信息化部消费品工业司负责人冯海沧表示，历史经典产业自带文明底色，是中华民族生活方式的具体体现，天生就具备跨界融合的基因，应当融合也必然会融合。近几年来历史经典产业加快同文旅、康养、教育、乡村振兴等领域深度融合，涌现出中医药康养、新中式茶饮等新业态，并在市场上不断走红",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-07/10691810.shtml",
-      "publishedAt": "2026-09-07T03:49:31.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691863.shtml",
+      "publishedAt": "2026-09-07T05:58:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +301,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691811.shtml",
-      "title": "市场监管总局批准发布首个《婴儿光治疗设备校准规范》",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-07/10691874.shtml",
+      "title": "北京昌平山水林间骑行活动举行 600余名选手参赛",
       "category": "综合",
-      "summary": "中新网9月7日电 据市场监管总局微信公众号消息，近日，市场监管总局批准发布首个《婴儿光治疗设备校准规范》，将为新生儿黄疸治疗设备的质量控制提供统一“标尺”，让千万新生儿的光照治疗更加安全、精准、有效。",
+      "summary": "中新网9月7日电 据赛事主办方消息，9月6日，2026北京昌平山水林间骑行活动暨第36届杨桂林家庭自行车嘉年华在昌平区飞人基地举行，吸引了来自全国各地的600余名选手参赛。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691811.shtml",
-      "publishedAt": "2026-09-07T03:49:29.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691874.shtml",
+      "publishedAt": "2026-09-07T05:58:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +319,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691812.shtml",
-      "title": "中方赴俄罗斯参加东盟防长扩大会人道主义扫雷专家组实兵演习",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/fz/2026/09-07/10691876.shtml",
+      "title": "“直播间剧本杀”，杀的都是谁？",
       "category": "综合",
-      "summary": "今天(7日)到12日，中国人民解放军陆军派出兵力赴俄罗斯，参加东盟防长扩大会人道主义扫雷专家组实兵演习。此次演习以多国军队联合展开混合爆炸物污染区人道主义清排行动为背景，主要开展战场区域清排、机械扫雷、探雷犬运用、简易爆炸物装置清排等行动演练，推动各国扫雷经验交流与能力建设，增进地区和平稳定。",
+      "summary": "诈骗团伙精准识别“猎物”内心最易感的部分、最迫切的需要，用量身定制的“剧本”，将其缓缓推入深渊——",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691812.shtml",
-      "publishedAt": "2026-09-07T03:46:53.000Z",
+      "url": "https://www.chinanews.com.cn/fz/2026/09-07/10691876.shtml",
+      "publishedAt": "2026-09-07T05:56:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +337,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691804.shtml",
-      "title": "市场监管总局：积极推动历史经典产业标准“走出去”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-07/10691855.shtml",
+      "title": "追梦中华·侨见自贸港：2026海外华文媒体海南采访行启动",
       "category": "综合",
-      "summary": "中新网9月7日电 国新办9月7日举行新闻发布会，介绍推动历史经典产业高质量发展有关情况。市场监管总局标准创新管理司司长魏宏表示，历史经典产业中很多是小微企业、手工作坊，标准应该发挥重要作用，通过标准可以把能工巧匠的经验总结提炼为标准规范，从而促进产业发展和产品质量提升。",
+      "summary": "中新网海口9月7日电 (符宇群 张月和)“追梦中华·侨见自贸港”2026海外华文媒体海南采访行7日上午在海口启动。来自马来西亚、美国、加拿大、俄罗斯、德国、新西兰、泰国等9个国家和地区的海外华文媒体代表，以及涉侨中央媒体将在海南开启为期6天的实地参访，以多元视角深度感知海南自贸港的发展脉动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691804.shtml",
-      "publishedAt": "2026-09-07T03:44:23.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-07/10691855.shtml",
+      "publishedAt": "2026-09-07T05:55:49.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +355,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203401.shtml",
-      "title": "河南郑州：白露时节白鹭飞",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691864.shtml",
+      "title": "（活力中国调研行）河南上半年“豫农优品”出口额达65.8亿元",
       "category": "综合",
-      "summary": "9月7日，河南郑州，白鹭在东风渠水域栖息、觅食、飞翔。当日正值白露节气，此时节常能见到白鹭翩飞的身影。中新社记者 范晓恒 摄 9月7日，河南郑州，白鹭在东风渠水域栖息、觅食、飞翔。当日正值白露节气，此时节常能见到白鹭翩飞的身影。中新社记者 范晓恒 摄 9月7日，河南郑州，白鹭在东风渠水域栖息、觅食、飞翔。当日正值白露节气，此时节常能见到白鹭翩飞的身影。中新社",
+      "summary": "中新社郑州9月7日电 (记者 阚力 卢岩 官逸伦)河南省农业农村厅副厅长唐新伟7日在郑州介绍，今年上半年，“豫农优品”网络零售额达52.2亿元(人民币，下同)、农产品出口额达65.8亿元，“绿字号”农产品加速走向全球大市场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-07/1203401.shtml",
-      "publishedAt": "2026-09-07T03:43:16.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691864.shtml",
+      "publishedAt": "2026-09-07T05:53:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +373,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691808.shtml",
-      "title": "A股午评：超2900只个股飘红，沪指收跌，深指、创业板指收涨",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691846.shtml",
+      "title": "如何运用人工智能赋能历史经典产业？工信部回应",
       "category": "综合",
-      "summary": "A股午评：超2900只个股飘红，沪指收跌，深指、创业板指收涨；CPO概念股爆发，通信设备大涨，半导体走强；煤炭、保险、银行、贵金属下跌",
+      "summary": "中新网9月7日电 国新办9月7日举行新闻发布会，介绍推动历史经典产业高质量发展有关情况。工业和信息化部副部长谢远生称，历史经典产业手握代代相传的工艺积淀，拥抱人工智能不是丢掉老手艺，而是给千年技艺插上科技翅膀，让老工艺适配新时代、焕发新活力、跑出新速度。《关于推动历史经典产业高质量发展的意见》按照“数据驱动、模型支撑、场景落地”的总体思路，做到传统手艺不褪色",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691808.shtml",
-      "publishedAt": "2026-09-07T03:42:43.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691846.shtml",
+      "publishedAt": "2026-09-07T05:53:19.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +391,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691769.shtml",
-      "title": "工信部：激活历史经典产业消费潜力 让老手艺“活起来、火出圈、进万家”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691871.shtml",
+      "title": "（活力中国调研行）今年上半年河南农产品网络零售额超200亿元",
       "category": "综合",
-      "summary": "中新网9月7日电 国新办9月7日举行新闻发布会，介绍推动历史经典产业高质量发展有关情况。工业和信息化部副部长谢远生表示，当前，我国居民消费加快从“购买更多商品”向“获得更好服务和体验”转变，历史经典产业高度契合新时代消费升级方向，在满足物质生活需求的同时，能够带来情感共鸣、文化熏陶与审美享受，精准满足品质消费、文化消费和体验消费需求。激活历史经典产业消费潜力",
+      "summary": "中新网郑州9月7日电 (官逸伦 卢岩 阚力 范晓恒 赵梦阳)河南省发展改革委党组成员、副主任穆穆7日在河南郑州表示，该省加快推进抖音、快手等内容电商与本地特色产业深度融合，2026年上半年全省农产品网络零售额超200亿元(人民币，下同)，同比增长7.9%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691769.shtml",
-      "publishedAt": "2026-09-07T03:37:38.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691871.shtml",
+      "publishedAt": "2026-09-07T05:50:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +409,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691803.shtml",
-      "title": "高市早苗要求俄方拆除二战纪念碑 俄方：日方无视历史的“病”别传染了",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691859.shtml",
+      "title": "台湾青年在福建用镜头记录客家记忆",
       "category": "综合",
-      "summary": "中新网9月7日电 据俄罗斯塔斯社报道，俄罗斯外交部发言人扎哈罗娃6日回应日本首相高市早苗要求俄拆除战胜军国主义日本的纪念碑言论时评论称，这如同要求“风不要刮，太阳不要发光了”一样荒谬，不要把无视本国历史的“病”传染给其他国家。",
+      "summary": "中新社福建清流9月7日电 (雷朝良)“就像脑海里浮现过的客家村落，太美好了。”初秋时节，“中国历史文化名村”福建省清流县赖坊古村落迎来八方游客。人群中，“90后”台湾青年钟亚庭不时驻足拍照。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691803.shtml",
-      "publishedAt": "2026-09-07T03:34:20.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691859.shtml",
+      "publishedAt": "2026-09-07T05:50:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +427,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-07/10691798.shtml",
-      "title": "逾千名全国泳者齐聚河源入水竞速",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691870.shtml",
+      "title": "聚焦重点群体稳就业：推动经济持续向新向优向好发展",
       "category": "综合",
-      "summary": "中新网河源9月7日电 (记者 张璐)2026年全国蹼泳公开水域大赛(广东河源站)暨“乐游源城·夏季冰泳”源城区畅游新丰江活动6日在河源市源城区新丰江坝下水域举行，吸引来自广东及北京、浙江、河南、江西、香港等地的1100余名泳者参与。",
+      "summary": "聚焦重点群体稳就业——推动经济持续向新向优向好发展⑧",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-07/10691798.shtml",
-      "publishedAt": "2026-09-07T03:33:58.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691870.shtml",
+      "publishedAt": "2026-09-07T05:48:01.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +445,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691800.shtml",
-      "title": "2026东莞台博会人气创新高 达成采购意向45.2亿元",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691868.shtml",
+      "title": "万人说新疆｜建筑师古丽沙吾列眼中的城市“长高”记",
       "category": "综合",
-      "summary": "中新网东莞9月7日电 (记者 许青青)2026第十七届东莞台湾名品博览会(下称“台博会”)6日收官。据主办方统计，本届台博会在产业链对接、经贸合作、文化交流、青年创业等多领域取得突破成果，超68万人次线上线下参会，人气创新高，超8000名采购商进场采购，达成采购意向45.2亿元，连续17届东莞台博会累计促成合作意向493.9亿元。",
+      "summary": "视频：万人说新疆丨建筑师古丽沙吾列眼中的城市“长高”记来源：天山网",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691800.shtml",
-      "publishedAt": "2026-09-07T03:33:48.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691868.shtml",
+      "publishedAt": "2026-09-07T05:46:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +463,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691802.shtml",
-      "title": "西藏吉隆泥石流灾害目前已确认部分遇难人员身份",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691834.shtml",
+      "title": "工信部：支持更多历史经典企业入选中国消费名品",
       "category": "综合",
-      "summary": "新华社西藏吉隆9月7日电 记者从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部了解到，当地已成立专家团队，调集60多名法医技术人员，启用3个专门实验室，配备先进仪器，严格依照我国相关法律法规，充分参考国际惯例，切实维护逝者尊严，尊重习俗，科学高效、严谨细致开展遇难人员身份识别工作，目前已经确认了部分遇难人员的身份。",
+      "summary": "中新网9月7日电 国新办9月7日举行新闻发布会，介绍推动历史经典产业高质量发展有关情况。工业和信息化部消费品工业司负责人冯海沧表示，历史经典产业承载着深厚的历史文化底蕴、独特的传统技艺精髓、鲜明的地域文化特征，也凝聚着广泛的民族文化认同。但长期以来品牌建设滞后、附加值不高、好工艺没有卖出好价钱、好产品没有形成好品牌。如何把文化底蕴转化为市场竞争力，让老手艺既",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691802.shtml",
-      "publishedAt": "2026-09-07T03:33:12.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691834.shtml",
+      "publishedAt": "2026-09-07T05:43:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +481,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691801.shtml",
-      "title": "亚太媒体高端论坛激荡携手共进强音",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691865.shtml",
+      "title": "好评中国｜追“光”逐“量”，在科技浪潮中勇立潮头",
       "category": "综合",
-      "summary": "亚太经合组织(APEC)，今年再迎“中国年”高光时刻。",
+      "summary": "读懂中国经济的高质量发展，不妨从合肥的“创新坐标”读起。在合肥未来大科学城，CRAFT聚变堆主机关键系统综合研究设施园区内，“夸父”装置正以追日之姿攻坚聚变能源关键技术；在“量子大道”上，以国盾量子为代表的近百家量子企业集聚成势；在中国科大的实验室与展厅里，一批从“0到1”的原创成果正加速走向“从1到N”的产业化之路……连点成线、聚线成面，勾勒出一座中部城市",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691801.shtml",
-      "publishedAt": "2026-09-07T03:30:18.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691865.shtml",
+      "publishedAt": "2026-09-07T05:40:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +499,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691797.shtml",
-      "title": "在动荡时代看见“确定性”，孟加拉国学者期待大湾区故事被更多讲述",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-07/10691861.shtml",
+      "title": "成都连夜查处企业监测报告数据造假等行为",
       "category": "综合",
-      "summary": "深度专访｜在动荡时代看见“确定性”，孟加拉国学者期待大湾区故事被更多讲述",
+      "summary": "总台报道有反馈丨成都连夜查处企业监测报告数据造假等行为",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691797.shtml",
-      "publishedAt": "2026-09-07T03:25:10.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-07/10691861.shtml",
+      "publishedAt": "2026-09-07T05:37:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +517,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691795.shtml",
-      "title": "中国银行GBIC大会暨全球闽商合作对接会在泉州举办",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691844.shtml",
+      "title": "完善乡村振兴投入机制 六部门印发实施方案",
       "category": "综合",
-      "summary": "本报讯 (记者 黄琼芬) 9月6日，中国银行GBIC大会暨全球闽商合作对接会在泉州举办，省委常委、常务副省长王永礼出席并致辞。",
+      "summary": "中新网9月7日电 据农业农村部网站消息，近日，农业农村部、中央农办、国家发展改革委、财政部、中国人民银行、金融监管总局发布关于印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》的通知。《实施方案》提出，到2030年，基本建立与农业农村发展水平相适应、结构合理、方式科学、质效并重的乡村振兴投入机制，为巩固拓展脱贫攻坚成果、加快补齐农业农村现代化短板弱项",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-07/10691795.shtml",
-      "publishedAt": "2026-09-07T03:22:34.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691844.shtml",
+      "publishedAt": "2026-09-07T05:37:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +535,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-07/10691794.shtml",
-      "title": "“现实比你想象的更伟大”，美国学者法尔和他听见的广州“心跳”",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/09-07/news1068048.shtml",
+      "title": "福建厦门：首条直飞英国客运航线开通",
       "category": "综合",
-      "summary": "查尔斯·斯蒂夫·法尔(Charles Stephen Farr)，美国籍，广州国际友城大学联盟秘书处执行主任、广州大学外籍教授。在9月3日举行的亚太媒体高端论坛(APMF)广州分论坛上，他发表了主题演讲，并接受了本报记者深度专访。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-07/10691794.shtml",
-      "publishedAt": "2026-09-07T03:22:10.000Z",
+      "url": "http://www.chinanews.com.cn/sh/shipin/2026/09-07/news1068048.shtml",
+      "publishedAt": "2026-09-07T05:36:14.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-07/10691793.shtml",
-      "title": "生态系统恢复计划“上新” “昆蒙框架”全球行动取得重要进展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/09-07/10691856.shtml",
+      "title": "玻璃纤维会致癌吗？玻璃纤维筷子、雨伞是否能用？",
       "category": "综合",
-      "summary": "《昆明—蒙特利尔全球生物多样性框架》实施进展全球审查对话会今天在云南昆明召开。记者了解到，“昆蒙框架”这一全球行动取得重要进展。",
+      "summary": "玻璃纤维伤害身体还致癌？玻璃纤维筷子、雨伞还能用吗？",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10691793.shtml",
-      "publishedAt": "2026-09-07T03:19:27.000Z",
+      "url": "https://www.chinanews.com.cn/life/2026/09-07/10691856.shtml",
+      "publishedAt": "2026-09-07T05:35:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-07/10691788.shtml",
-      "title": "节能增效并举 大庆杏南油田解锁绿色采油新效能",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/cul/shipin/cns/2026/09-07/news1068054.shtml",
+      "title": "徽剧《刘铭传》亮相全国少数民族文艺会演 “十问大海”唱响家国赤诚",
       "category": "综合",
-      "summary": "中新网大庆9月7日电 (王立峰)9月7日，记者从大庆油田了解到，大庆油田杏南开发区全面推进举升能耗专项管控行动，取得阶段性实效。数据显示，该区域油井举升单耗较去年同期降低0.1千瓦时/吨，机采系统效率同比提升0.2个百分点。",
+      "summary": "“问大海，为何不把国耻洗，又添新耻在马关？问大海，何日中华得强盛，月圆人和国土全”……9月4日至6日，徽剧《刘铭传》亮相第七届全国少数民族文艺会演，尾声“十问大海”唱段落下时，全场掌声雷动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691788.shtml",
-      "publishedAt": "2026-09-07T03:18:53.000Z",
+      "url": "http://www.chinanews.com.cn/cul/shipin/cns/2026/09-07/news1068054.shtml",
+      "publishedAt": "2026-09-07T05:34:52.000Z",
       "tags": [
         "国内",
         "社会",
@@ -586,23 +603,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
-      "title": "印尼火山爆發，17萬名旅客滯留機場",
-      "category": "国际",
-      "summary": "印尼喀拉喀托之子火山（Anak Krakatau）爆發，八個機場暫停運作，約17萬名乘客滯留。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T02:44:40.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
