@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T14:31:38.433Z",
-  "expiresAt": "2026-09-08T20:31:38.433Z",
+  "generatedAt": "2026-09-08T16:32:18.242Z",
+  "expiresAt": "2026-09-08T22:32:18.242Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,240 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10692970.shtml",
+      "title": "刘海星率中共代表团访问乌兹别克斯坦、阿塞拜疆",
+      "category": "综合",
+      "summary": "新华社巴库9月8日电 9月5日至8日，中共中央对外联络部部长刘海星率中共代表团访问乌兹别克斯坦、阿塞拜疆，分别会见乌总统米尔济约耶夫，最高会议参议院、立法院及执政党领导人，阿总理阿萨多夫、新阿塞拜疆党副主席布达戈夫，并参加“习近平新时代中国特色社会主义思想与世界”中亚专场研讨会、中国-中亚政党对话会专题会议，出席阿总统直属行政管理学院中国研究中心、中国书屋揭",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10692970.shtml",
+      "publishedAt": "2026-09-08T16:20:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-09/10692969.shtml",
+      "title": "引体向上等高强度健身易损伤肩部 锻炼需循序渐进",
+      "category": "综合",
+      "summary": "这些年，爱运动的人越来越多了，但如果盲目追求高强度运动，极易引发劳损或者损伤。运动损伤中，肩部的损伤很容易被忽略。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-09/10692969.shtml",
+      "publishedAt": "2026-09-08T16:18:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10692968.shtml",
+      "title": "俄美总统通话就乌克兰问题交换意见",
+      "category": "综合",
+      "summary": "中新社莫斯科9月8日电 俄罗斯总统助理乌沙科夫8日表示，俄总统普京与美国总统特朗普当天再次通话，“内容富有建设性且十分坦诚”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692968.shtml",
+      "publishedAt": "2026-09-08T16:00:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-08/10692967.shtml",
+      "title": "泰国拟放宽初创企业融资限制",
+      "category": "综合",
+      "summary": "中新社曼谷9月8日电 (记者 李映民)泰国内阁8日举行会议，通过《创业企业促进法案》草案，拟放宽初创企业融资及股权管理限制、完善政策支持机制，为初创企业发展营造更为灵活的制度环境。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692967.shtml",
+      "publishedAt": "2026-09-08T15:51:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-08/10692965.shtml",
+      "title": "乏力、抽筋、心跳“漏拍” 身体的“隐形电池”没电很“要命”",
+      "category": "综合",
+      "summary": "很多人都知道缺钙会腿抽筋，缺铁会贫血，但身体里还有一种微量元素，一旦缺乏，可能会让你浑身发软、心跳失常，甚至危及生命。它就是——钾。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-08/10692965.shtml",
+      "publishedAt": "2026-09-08T15:39:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692963.shtml",
+      "title": "报告称，中国工业数据治理“领跑者”企业呈现四大新特征",
+      "category": "综合",
+      "summary": "中新社沈阳9月8日电 (记者 李晛)中国工业经济联合会8日发布2026中国工业数据治理“领跑者”企业工作研究成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692963.shtml",
+      "publishedAt": "2026-09-08T15:24:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-08/10692964.shtml",
+      "title": "12国发表联合声明 限制与约旦河西岸以色列定居点商品贸易",
+      "category": "综合",
+      "summary": "当地时间9月8日，法国外交部长巴罗表示，法国将停止与巴勒斯坦被占领土上的以色列定居点进行商品贸易。法国与英国、加拿大、丹麦、西班牙、芬兰、爱尔兰、冰岛、挪威、波兰、葡萄牙和瑞典等11国当天发表联合声明，就限制与以色列定居点的商品贸易作出相关承诺。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692964.shtml",
+      "publishedAt": "2026-09-08T15:21:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-08/10692962.shtml",
+      "title": "体育文化全国行走进西安建大 李昕奚爱华李雪芮参与互动",
+      "category": "综合",
+      "summary": "中新网9月8日电 据国家体育总局体育文化发展中心消息，2026体育文化全国行——走进西安建筑科技大学体育文化活动，8日在西安建筑科技大学雁塔校区举办。篮球名宿李昕、北京奥运会赛艇冠军奚爱华、伦敦奥运会羽毛球冠军李雪芮三位名将莅临现场，与广大师生代表面对面交流。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692962.shtml",
+      "publishedAt": "2026-09-08T15:00:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-08/10692957.shtml",
+      "title": "申军良盼“梅姨”供述全部拐卖线索 给所有破碎家庭一个交代",
+      "category": "综合",
+      "summary": "中新网济南9月8日电 (记者 孙婷婷 祁建月)“如果你还知道其他孩子的下落，请你向警方交代清楚。因为，依然还有一些家庭，在苦苦等待自己的孩子，请给这些家庭，这些父母，以及不知道自己人生会发生什么的‘申聪’们一个交代。”“梅姨案”被拐孩子父亲申军良给“梅姨”谢家梅写了一封信，盼望能够唤醒她心底残存的人性，主动交代更多被拐孩子的线索，帮助更多支离破碎的家庭得以团",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692957.shtml",
+      "publishedAt": "2026-09-08T14:42:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692961.shtml",
+      "title": "（活力中国调研行）无人驾驶拖拉机能在耕地上“绣花”",
+      "category": "综合",
+      "summary": "中新网洛阳9月8日电(卢岩 赵梦阳)当下，无人机乃至无人驾驶汽车正在越来越多地走入普通百姓生活，而无人驾驶拖拉机这种大型专业装备，却依然带着不少神秘色彩。8日，在洛阳国家农机装备创新中心暨洛阳智能农业装备研究院有限公司院内，记者们见到了这头高科技“铁牛”的硬核实力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692961.shtml",
+      "publishedAt": "2026-09-08T14:42:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-08/10692956.shtml",
+      "title": "直击江西遂川泥石流核心区 人机协同展开精细化搜救",
+      "category": "综合",
+      "summary": "中新网江西遂川9月8日电 (刘力鑫 朱莹)9月8日，记者再次徒步进入江西省吉安市遂川县高坪镇明坑村石下组泥石流灾害核心区。目前，通往核心区的道路已基本抢通，大型救援机械得以开进受灾腹地，失联人员搜救、道路加固、次生灾害防范同步推进，救援工作向着灾害纵深区域攻坚。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692956.shtml",
+      "publishedAt": "2026-09-08T14:37:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692960.shtml",
+      "title": "如何刹住“内卷式”竞争 让账款流转更顺畅？",
+      "category": "综合",
+      "summary": "账款拖欠，曾是悬在不少汽车供应商头上的一柄利剑。工业和信息化部、市场监管总局近日联合发布《关于推动汽车企业规范供应商账款支付 优化账期管理的通知》，这是国家层面出台的首个面向行业领域的账期管理文件。在新能源汽车产业高速奔跑的今天，如何刹住“内卷式”竞争，让账款流转更顺畅、产业生态更健康？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692960.shtml",
+      "publishedAt": "2026-09-08T14:37:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-08/10692958.shtml",
+      "title": "国足公布30人集训名单：布尼亚明、赵松源等新人入选",
+      "category": "综合",
+      "summary": "8日，中国男足国家队公布了新一期30人集训名单。由于多名国家队主力将跟随男足亚运队参加亚运会，本期国足集训名单出现较大变化，布尼亚明、赵松源、杨铭锐、王庚睿等多名20岁以下新人首次入选。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-08/10692958.shtml",
+      "publishedAt": "2026-09-08T14:34:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-08/10692954.shtml",
       "title": "为台企落地“铺路搭桥” 台湾青年企业家合作对接会在渝举行",
@@ -328,240 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692937.shtml",
       "publishedAt": "2026-09-08T14:00:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692936.shtml",
-      "title": "2026数字经济发展国际论坛在沈阳举办",
-      "category": "综合",
-      "summary": "中新网沈阳9月8日电 (记者 李晛)为持续促进数字技术和实体经济深度融合并加快推进新时代产业数字化转型升级，务实深化全球数字经济领域的交流与合作，9月8日上午，2026数字经济发展国际论坛在辽宁省沈阳市举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692936.shtml",
-      "publishedAt": "2026-09-08T14:00:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692925.shtml",
-      "title": "海上“秋耕忙” “中国紫菜之乡”迎来紫菜采苗下苗窗口期",
-      "category": "综合",
-      "summary": "中新网温州9月8日电(周健 沈灿辉 庄稼人)眼下正是紫菜采苗下苗的黄金窗口期，在素有“中国紫菜之乡”美誉的浙江温州洞头区霓屿街道，海上码头一派繁忙景象。养殖户抢抓有利时节，忙着紫菜采苗、张挂网帘等作业，洞头新一季紫菜生产的序幕在“海上田园”开启。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692925.shtml",
-      "publishedAt": "2026-09-08T13:59:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692935.shtml",
-      "title": "泰国罗勇府冀深化泰中“双向旅游”合作",
-      "category": "综合",
-      "summary": "中新社成都9月8日电 (王利文)“成都是中国西部重要的经济中心和旅游门户城市，拥有巨大的旅游消费潜力和广阔的市场空间。”泰国罗勇府副府尹莎拉丽婉·塔塔维8日在成都表示，希望与中国旅游业界建立长期稳定的合作伙伴关系，共同开发符合中国游客需求的旅游产品和线路。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692935.shtml",
-      "publishedAt": "2026-09-08T13:59:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-08/10692924.shtml",
-      "title": "江西遂川高坪镇泥石流已致12人遇难 仍有1人失联",
-      "category": "综合",
-      "summary": "中新网江西遂川9月8日电 (记者 李韵涵 吴鹏泉 刘力鑫)遂川前线救援指挥部8日通报，截至当日18时，遂川县高坪镇明坑村泥石流灾害累计搜寻发现11名遇难者遗体，其中当日搜寻发现7名。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692924.shtml",
-      "publishedAt": "2026-09-08T13:59:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692934.shtml",
-      "title": "2026数字经济发展国际论坛在沈阳举办",
-      "category": "综合",
-      "summary": "中新社沈阳9月8日电 (记者 李晛)2026数字经济发展国际论坛8日在辽宁沈阳举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692934.shtml",
-      "publishedAt": "2026-09-08T13:59:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692927.shtml",
-      "title": "“小个子”何以构筑AI大生态？从中博会透视浙江实践",
-      "category": "综合",
-      "summary": "中新网杭州9月8日电(蓝伊旎 林祥玉)近日，第二十一届中国国际中小企业博览会(下称“中博会”)在广州举办，在省区市专精特新展区1166家参展企业当中，浙江33家企业组成的创新方阵集中亮相。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692927.shtml",
-      "publishedAt": "2026-09-08T13:58:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-08/10692939.shtml",
-      "title": "匈牙利驱逐10名俄外交人员，俄方：将强硬回应",
-      "category": "综合",
-      "summary": "中新网9月8日电 据俄媒报道，俄罗斯外交部发言人扎哈罗娃8日表示，将就匈牙利驱逐俄外交人员作出强硬回应。她称，相关反制措施将针对匈牙利的仇俄游说集团。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-08/10692939.shtml",
-      "publishedAt": "2026-09-08T13:58:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692931.shtml",
-      "title": "APEC北京能源会议周期间中国发布两项自主贡献",
-      "category": "综合",
-      "summary": "中新社北京9月8日电 (记者 王梦瑶)本周是APEC(亚太经合组织)北京能源会议周，中国国家能源局8日公布两项2026 APEC“中国年”能源领域东道主自主贡献，向APEC各经济体分享电力建设领域的中国方案与实践经验。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692931.shtml",
-      "publishedAt": "2026-09-08T13:58:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692930.shtml",
-      "title": "2026民营经济创新发展大会缘何“花落”温州",
-      "category": "综合",
-      "summary": "中新网温州9月8日电 (钱晨菲)9月8日至10日，2026民营经济创新发展大会在浙江温州举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692930.shtml",
-      "publishedAt": "2026-09-08T13:57:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-08/10692929.shtml",
-      "title": "陕西省政协召开常委会：建言强化区域创新协同 提升体系效能",
-      "category": "综合",
-      "summary": "中新网西安9月8日电 (梅镱泷 张煜晨)记者8日从政协陕西省第十三届委员会常务委员会第二十二次会议获悉，近年来，陕西省科技创新成效显著，人才资源总量突破750万人，2025年38项成果获国家科技奖、技术合同成交额突破5260亿元，创新产出水平指数全国第四，综合科技创新水平居全国前列。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-08/10692929.shtml",
-      "publishedAt": "2026-09-08T13:57:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692928.shtml",
-      "title": "广东携374个乡村优质资产项目赴沪招商推介",
-      "category": "综合",
-      "summary": "中新网广州9月8日电 (记者 程景伟)据广东省农业农村厅消息，以“乡约广东 资引未来”为主题的2026年广东省盘活乡村优质资产上海站招商推介活动8日举行，该省374个乡村优质资产项目集中亮相，现场发布了招商项目清单。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692928.shtml",
-      "publishedAt": "2026-09-08T13:57:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-08/10692923.shtml",
-      "title": "探秘千年民俗“庆阳五绝”：指尖传文脉光影续古音",
-      "category": "综合",
-      "summary": "9月8日，在位于甘肃省庆阳市西峰区庆阳民俗文化研发传承体验园内，工作人员展示庆阳剪纸服饰。中新社记者 李亚龙 摄 9月8日，在位于甘肃省庆阳市西峰区庆阳民俗文化研发传承体验园内，工作人员直播售卖庆阳香包产品。中新社记者 李亚龙 摄 9月8日，在位于甘肃省庆阳市西峰区庆阳民俗文化研发传承体验园内，工作人员制作庆阳香包。中新社记者 李亚龙 摄 9月8日，在位于甘",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-08/10692923.shtml",
-      "publishedAt": "2026-09-08T13:54:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-08/10692910.shtml",
-      "title": "陈玉先：站在速写和中国水墨舞蹈画艺术巅峰的军旅画家",
-      "category": "综合",
-      "summary": "乔天富 张军荣",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-08/10692910.shtml",
-      "publishedAt": "2026-09-08T13:54:30.000Z",
       "tags": [
         "国内",
         "社会",
