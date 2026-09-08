@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/prime/story/sidecar-optimizations",
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+      "meta": "少数派 · 2026/9/8",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "publishedAt": "2026-09-08T10:14:30.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114327",
       "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
       "meta": "少数派 · 2026/9/8",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/6",
       "url": "https://sspai.com/post/114076",
       "publishedAt": "2026-09-06T07:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114040",
-      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
-      "meta": "少数派 · 2026/9/5",
-      "url": "https://sspai.com/post/114040",
-      "publishedAt": "2026-09-05T08:00:01.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T10:30:16.842Z",
+  "updatedAt": "2026-09-08T12:36:08.092Z",
   "provider": "OneBench 公共资讯快照"
 }
