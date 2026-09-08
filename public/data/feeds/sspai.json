@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114312",
+      "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+      "meta": "少数派 · 2026/9/8",
+      "url": "https://sspai.com/post/114312",
+      "publishedAt": "2026-09-08T07:00:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113299",
       "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
       "meta": "少数派 · 2026/9/8",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/4",
       "url": "https://sspai.com/post/114175",
       "publishedAt": "2026-09-04T09:32:48.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114110",
-      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
-      "meta": "少数派 · 2026/9/4",
-      "url": "https://sspai.com/post/114110",
-      "publishedAt": "2026-09-04T07:11:46.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T06:34:43.170Z",
+  "updatedAt": "2026-09-08T08:31:27.526Z",
   "provider": "OneBench 公共资讯快照"
 }
