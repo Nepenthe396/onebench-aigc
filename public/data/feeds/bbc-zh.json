@@ -5,7 +5,21 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#0",
+      "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
+      "meta": "BBC 中文 · 2026/9/8",
+      "url": "https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T00:17:44.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#0",
+      "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
+      "meta": "BBC 中文 · 2026/9/8",
+      "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T00:17:33.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad#2",
       "title": "印尼火山爆發：機場延長關閉，逾34萬旅客滯留",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/clyj8n145weo/trad?at_medium=RSS&at_campaign=rss",
@@ -26,7 +40,7 @@
       "publishedAt": "2026-09-07T13:01:37.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad#2",
       "title": "美國特使穿梭俄烏：雙方分歧未解 澤連斯基料戰事持續到冬季",
       "meta": "BBC 中文 · 2026/9/7",
       "url": "https://www.bbc.com/zhongwen/articles/cly7z85pgpeo/trad?at_medium=RSS&at_campaign=rss",
@@ -89,13 +103,6 @@
       "publishedAt": "2026-09-06T02:02:19.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad#2",
-      "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T14:33:16.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zd7j8nn0o/trad#3",
       "title": "韓國光州雙年展: 中國退展，「台灣館」風波透露什麼？",
       "meta": "BBC 中文 · 2026/9/4",
@@ -115,13 +122,6 @@
       "meta": "BBC 中文 · 2026/9/4",
       "url": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T06:25:54.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad#2",
-      "title": "親俄宣傳網絡內幕：利用烏克蘭女性遭強姦的假消息作引流「誘餌」",
-      "meta": "BBC 中文 · 2026/9/4",
-      "url": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T01:39:26.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#5",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-07T22:27:11.754Z",
+  "updatedAt": "2026-09-08T00:39:33.742Z",
   "provider": "OneBench 公共资讯快照"
 }
