@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T20:28:35.202Z",
-  "expiresAt": "2026-09-09T02:28:35.202Z",
+  "generatedAt": "2026-09-08T22:27:59.941Z",
+  "expiresAt": "2026-09-09T04:27:59.941Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10692971.shtml",
+      "title": "美媒：美军在伊朗哈尔克岛附近袭击多艘伊朗油轮",
+      "category": "综合",
+      "summary": "中新网9月9日电 据美国有线电视新闻网(CNN)报道，据两名美国官员透露，当地时间8日，美军在伊朗哈尔克岛附近袭击多艘伊朗油轮。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692971.shtml",
+      "publishedAt": "2026-09-08T22:22:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad#3",
       "title": "董建華：從「船王」之子到香港首任行政長官",
@@ -588,24 +606,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692937.shtml",
-      "title": "2026全球工业互联网大会冶金矿山产业集群创新发展论坛在沈阳举办",
-      "category": "综合",
-      "summary": "中新网沈阳9月8日电 (记者 李晛)2026全球工业互联网大会冶金矿山产业集群创新发展论坛8日在沈阳举办。论坛围绕5G-A、算力网络、人工智能等新技术在冶金矿山领域的落地应用展开交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692937.shtml",
-      "publishedAt": "2026-09-08T14:00:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#0",
       "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
       "category": "国际",
@@ -619,6 +619,24 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142758",
+      "title": "世卫组织警告：吸烟会损害生育能力",
+      "category": "国际",
+      "summary": "世界卫生组织在周二发布的一份新报告中警告称，吸烟极有可能增加备孕难度，并强调吸烟女性的不孕风险比非吸烟者高出40%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142758",
+      "publishedAt": "2026-09-08T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1654,24 +1672,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142725",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142724",
-      "title": "艾滋病规划署、南部非洲发展共同体与中国携手推动南部非洲本地制药业发展",
-      "category": "国际",
-      "summary": "联合国艾滋病规划署、南部非洲发展共同体和全球卫生创新研究所联合南非政府、中国政府、中国制药企业以及区域和全球合作伙伴，启动一项新合作，旨在加强整个南部非洲的药品生产能力。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142724",
       "publishedAt": "2026-09-01T12:00:00.000Z",
       "tags": [
         "国际",

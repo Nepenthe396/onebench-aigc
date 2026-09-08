@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142758",
+      "title": "世卫组织警告：吸烟会损害生育能力",
+      "meta": "联合国新闻 · 2026/9/8",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142758",
+      "publishedAt": "2026-09-08T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142757",
       "title": "叙利亚：问责、包容和防止重演是过渡关键",
       "meta": "联合国新闻 · 2026/9/8",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/1",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142725",
       "publishedAt": "2026-09-01T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142724",
-      "title": "艾滋病规划署、南部非洲发展共同体与中国携手推动南部非洲本地制药业发展",
-      "meta": "联合国新闻 · 2026/9/1",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142724",
-      "publishedAt": "2026-09-01T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T20:28:35.202Z",
+  "updatedAt": "2026-09-08T22:27:59.941Z",
   "provider": "OneBench 公共资讯快照"
 }

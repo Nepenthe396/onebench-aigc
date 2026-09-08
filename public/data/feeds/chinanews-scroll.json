@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10692971.shtml",
+      "title": "美媒：美军在伊朗哈尔克岛附近袭击多艘伊朗油轮",
+      "meta": "中国新闻网 · 2026/9/8",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692971.shtml",
+      "publishedAt": "2026-09-08T22:22:46.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10692970.shtml",
       "title": "刘海星率中共代表团访问乌兹别克斯坦、阿塞拜疆",
       "meta": "中国新闻网 · 2026/9/8",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/9/8",
       "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692938.shtml",
       "publishedAt": "2026-09-08T14:00:52.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-08/10692937.shtml",
-      "title": "2026全球工业互联网大会冶金矿山产业集群创新发展论坛在沈阳举办",
-      "meta": "中国新闻网 · 2026/9/8",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692937.shtml",
-      "publishedAt": "2026-09-08T14:00:42.000Z"
     }
   ],
-  "updatedAt": "2026-09-08T20:28:35.202Z",
+  "updatedAt": "2026-09-08T22:27:59.941Z",
   "provider": "OneBench 公共资讯快照"
 }
