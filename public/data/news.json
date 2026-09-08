@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T16:32:18.242Z",
-  "expiresAt": "2026-09-08T22:32:18.242Z",
+  "generatedAt": "2026-09-08T18:32:58.244Z",
+  "expiresAt": "2026-09-09T00:32:58.244Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,23 @@
     }
   ],
   "items": [
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#0",
+      "title": "董建華逝世：從船王富二代到香港首任特首",
+      "category": "国际",
+      "summary": "中國全國政協前副主席，香港首任特首董建華逝世，享年89歲。他的前半生見證主權移交前香港的東方之珠年代，後半生更走入最高行政當局左右香港的前途。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T17:30:22.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10692970.shtml",
       "title": "刘海星率中共代表团访问乌兹别克斯坦、阿塞拜疆",
@@ -712,7 +729,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad#2",
       "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
       "category": "国际",
       "summary": "荷爾蒙、睡眠不足和壓力，都能解釋為何女性更容易受到這種令人衰弱的神經系統疾病所困擾。",
@@ -883,23 +900,6 @@
         "工具",
         "职场",
         "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad#2",
-      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
-      "category": "国际",
-      "summary": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T00:03:27.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
