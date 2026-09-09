@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#0",
+      "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
+      "meta": "BBC 中文 · 2026/9/9",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T06:24:16.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr4vwye0z02o/trad#0",
       "title": "「我一度認不出我的男朋友」：我是如何發現自己患有臉盲症的",
       "meta": "BBC 中文 · 2026/9/9",
@@ -24,13 +31,6 @@
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T18:50:53.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#0",
-      "title": "董建華逝世：從船王富二代到香港首任特首",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T18:48:17.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T04:29:29.385Z",
+  "updatedAt": "2026-09-09T06:35:30.507Z",
   "provider": "OneBench 公共资讯快照"
 }
