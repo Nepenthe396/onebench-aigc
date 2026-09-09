@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T16:30:51.672Z",
-  "expiresAt": "2026-09-09T22:30:51.672Z",
+  "generatedAt": "2026-09-09T18:32:47.885Z",
+  "expiresAt": "2026-09-10T00:32:47.885Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "title": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+      "category": "综合",
+      "summary": "中新社首尔9月9日电 (记者 金旭)韩国外交部当地时间9日表示，韩国政府决定不参加日本12日在新潟县佐渡市举行的佐渡金山强征劳工受害者悼念仪式。这将是韩国连续第三年缺席该活动。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+      "publishedAt": "2026-09-09T17:27:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
+      "category": "综合",
+      "summary": "中新社北京9月9日电 (记者 尹倩芸)就美国发布中国人工智能企业对美蒸馏活动相关网络安全公告，中国商务部新闻发言人9日表示，美方相关公告，是其在人工智能领域推行科技霸权、搞算力垄断，打压竞争的又一明证。中方对此坚决反对。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
+      "publishedAt": "2026-09-09T17:26:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
       "title": "丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要",
@@ -526,42 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693636.shtml",
       "publishedAt": "2026-09-09T14:03:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693630.shtml",
-      "title": "封关后的海南：外籍教师共话便利化迎教师节",
-      "category": "综合",
-      "summary": "中新网海口9月9日电 题：封关后的海南：外籍教师共话便利化迎教师节",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693630.shtml",
-      "publishedAt": "2026-09-09T14:03:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
-      "title": "报告：中国面向东盟数字贸易呈三大态势",
-      "category": "综合",
-      "summary": "【东盟专线】报告：中国面向东盟数字贸易呈三大态势",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
-      "publishedAt": "2026-09-09T14:02:45.000Z",
       "tags": [
         "国内",
         "社会",
