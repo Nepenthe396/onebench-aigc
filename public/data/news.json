@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T14:30:30.339Z",
-  "expiresAt": "2026-09-09T20:30:30.339Z",
+  "generatedAt": "2026-09-09T16:30:51.672Z",
+  "expiresAt": "2026-09-09T22:30:51.672Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,240 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
+      "title": "丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要",
+      "category": "综合",
+      "summary": "新华社北京9月9日电 2026年全球服务贸易峰会9日在北京举行，中共中央政治局常委、国务院副总理丁薛祥出席并作主旨讲话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml",
+      "publishedAt": "2026-09-09T16:11:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml",
+      "title": "报告：北京、上海、香港位列世界旅游城市综合排名前十",
+      "category": "综合",
+      "summary": "中新社北京9月9日电 (记者 徐婧)2026年中国国际服务贸易交易会9日在北京开幕，2026世界旅游合作与发展大会当天举行。会上发布的《世界旅游城市发展报告(2025-2026)》显示，北京、上海、香港位列世界旅游城市综合排名前十。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml",
+      "publishedAt": "2026-09-09T15:59:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
+      "title": "2026年服贸会开幕 新科技点亮趣味生活",
+      "category": "综合",
+      "summary": "中新社北京9月9日电 题：2026年服贸会开幕 新科技点亮趣味生活",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
+      "publishedAt": "2026-09-09T15:43:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
+      "title": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+      "category": "综合",
+      "summary": "在浏览短视频的时候，你是否也看到过医疗保健类的内容。其中不乏高质量的健康科普，但也有一些是打着医疗保健科普的旗号实施诈骗。一旦受害者与短视频的发布者取得联系，有就可能被一些所谓的“健康顾问”一步步引导高价购买他们推荐的“特效药”。短视频里的“健康顾问”到底是什么人？他们售卖的“特效药”又是什么？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
+      "publishedAt": "2026-09-09T15:27:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693651.shtml",
+      "title": "普京向金正恩致贺电",
+      "category": "综合",
+      "summary": "中新网9月9日电 综合塔斯社、朝中社9日报道，在朝鲜国庆78周年之际，俄罗斯总统普京向朝鲜最高领导人金正恩致贺电。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693651.shtml",
+      "publishedAt": "2026-09-09T15:23:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693650.shtml",
+      "title": "15元买两斤蛤蜊吃出3颗珍珠！专家：正常现象 不耽误食用",
+      "category": "综合",
+      "summary": "近日，青岛一男子花15元买了两斤蛤蜊，吃着吃着突然咬到硬物，吐出来一看，竟是3颗珍珠。无独有偶，当地崂山区的王先生此前食用蛤蜊时，也曾吃出一颗高粱米大小的乳白色珍珠。相关话题引发热议。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693650.shtml",
+      "publishedAt": "2026-09-09T15:23:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml",
+      "title": "美军宣布：摧毁10艘伊朗油轮",
+      "category": "综合",
+      "summary": "中新网9月9日电 综合报道，美军中央司令部9日在社交媒体上发文称，伊朗伊斯兰革命卫队有关打击两艘在中东地区执行任务的美国海军舰艇的说法不实，并没有美国海军军舰遭袭。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml",
+      "publishedAt": "2026-09-09T15:22:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693646.shtml",
+      "title": "英国航班管理系统故障致1900多次航班被取消",
+      "category": "综合",
+      "summary": "据英国方面9日消息，英国航班管理系统8日发生的故障已导致超1900次航班被取消。英国全国空中交通管理公司已确认该故障并非网络攻击所致。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693646.shtml",
+      "publishedAt": "2026-09-09T15:16:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693645.shtml",
+      "title": "考古首次揭示中国南方丹尼索瓦人生存图景：长期稳定高度务实",
+      "category": "综合",
+      "summary": "中新网北京9月9日电 (记者 孙自法)中国科学院青藏高原研究所陈发虎院士领衔的古生态与人类适应团队联合中外合作者，最近通过对云南鹤庆蝙蝠洞遗址开展多学科综合研究，首次系统揭示中国南方丹尼索瓦人(丹人)的体质形态、技术行为与生存策略，重建出这一神秘人群在青藏高原东南缘的生存全景图，包括石器技术保持长期稳定、生存适应高度务实等。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693645.shtml",
+      "publishedAt": "2026-09-09T15:05:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693644.shtml",
+      "title": "中国西南发现首例丹尼索瓦人化石 全球首次确认丹人桡骨",
+      "category": "综合",
+      "summary": "中新网北京9月9日电 (记者 孙自法)中国西南地区10多万年前生活过丹尼索瓦人(丹人)的化石证据，最近终于被中国科学家团队以古蛋白质组学创新策略“万里挑一”鉴定出来，实现中国西南发现首例丹尼索瓦人骨骼、全球首次确认丹尼索瓦人桡骨化石的两项第一。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693644.shtml",
+      "publishedAt": "2026-09-09T15:04:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
+      "title": "24岁吃播博主离世：流量的尽头不是爆款，是身体的极限",
+      "category": "综合",
+      "summary": "中新网北京9月9日电(记者 王诗尧)24岁，百万粉丝，低钾住院，不幸离世——当这些关键词汇集在“干饭莹莹”身上时，我们看到的不仅是一位年轻生命的猝然凋零，更是一个畸形行业积弊已久的又一次血腥爆发。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml",
+      "publishedAt": "2026-09-09T14:32:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203756.shtml",
+      "title": "内蒙古呼和浩特：沙良物流园助力中欧班列跑出“加速度”",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203756.shtml",
+      "publishedAt": "2026-09-09T14:31:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203752.shtml",
+      "title": "印尼国际矿业展开幕 中国装备吸引参观者",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-09/1203752.shtml",
+      "publishedAt": "2026-09-09T14:25:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693640.shtml",
       "title": "免费飞机餐是否取消？多家航司回应",
@@ -328,240 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693599.shtml",
       "publishedAt": "2026-09-09T14:02:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693604.shtml",
-      "title": "党建赋能精治惠民 天津西青以高效治理激活发展新动能",
-      "category": "综合",
-      "summary": "中新网天津9月9日电 (记者 江莹)天津市西青区政府新闻办8日举办“深入推进党建引领基层治理，以高效能治理促进高质量发展和高水平安全”新闻发布会，介绍该区党建引领基层治理工作的四大成效。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693604.shtml",
-      "publishedAt": "2026-09-09T14:01:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693598.shtml",
-      "title": "各国代表昆明共议“昆蒙框架”：弥补实施差距 加速生物多样性保护",
-      "category": "综合",
-      "summary": "中新社昆明9月9日电 《昆明—蒙特利尔全球生物多样性框架》实施进展全球审议昆明对话会(简称“昆明对话会”)9日在昆明闭幕。会上发布联合主席总结报告，为即将于10月在亚美尼亚举行的《生物多样性公约》第十七次缔约方大会(COP17)中期全球审议提供支持。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693598.shtml",
-      "publishedAt": "2026-09-09T14:01:33.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693594.shtml",
-      "title": "韩国8月同比新增就业18.4万人",
-      "category": "综合",
-      "summary": "中新网首尔9月9日电(记者 金旭)韩国国家数据处当地时间9日发布相关数据显示，8月韩国15岁以上就业人数为2915.1万人，同比增加18.4万人。失业率为2%，与2025年同期持平。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693594.shtml",
-      "publishedAt": "2026-09-09T13:58:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693591.shtml",
-      "title": "哈萨克斯坦开展专项禁毒行动 三个月阻止21吨毒品流入市场",
-      "category": "综合",
-      "summary": "中新网阿斯塔纳9月9日电(记者 单璐)哈萨克斯坦内务部9日发布消息称，哈萨克斯坦正在全国范围内开展“大麻—2026”专项禁毒行动。行动开展三个月以来，已阻止21吨毒品流入市场，查处涉毒违法犯罪行为2000余起，捣毁4个有组织犯罪团伙。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693591.shtml",
-      "publishedAt": "2026-09-09T13:57:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-09/10693578.shtml",
-      "title": "瑞士一百年水电站爆炸致两人重伤",
-      "category": "综合",
-      "summary": "中新社北京9月9日电 伯尔尼消息：瑞士警方称，该国南部提契诺州一座水电站当地时间9日上午发生爆炸，已造成两人重伤。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10693578.shtml",
-      "publishedAt": "2026-09-09T13:57:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693626.shtml",
-      "title": "直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693626.shtml",
-      "publishedAt": "2026-09-09T13:56:50.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-09/10693623.shtml",
-      "title": "直播海报：教师节，看老师们点亮奇妙课堂",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693623.shtml",
-      "publishedAt": "2026-09-09T13:55:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693606.shtml",
-      "title": "宁夏创新文艺载体普及金融知识 “消保好声音”探索宣教新模式",
-      "category": "综合",
-      "summary": "中新网银川9月9日电 (记者 李佩珊)将养老反诈、征信防护、校园金融安全等知识谱写成歌曲，以文艺演绎破解金融科普枯燥难题……9月9日，宁夏首届“消保好声音”新就业群体歌唱大赛落幕。该活动跳出展板宣讲、发放宣传资料的传统模式，创新打造文艺化、大众化金融科普场景，营造全民学金融、懂消保、防风险的良好社会氛围。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693606.shtml",
-      "publishedAt": "2026-09-09T13:52:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693611.shtml",
-      "title": "创新聚势 赋能未来：2026民营经济创新发展大会在温州举行",
-      "category": "综合",
-      "summary": "中新网温州9月9日电(陈建新 邵燕飞 傅飞扬)9月9日上午，以“创新聚势 赋能未来”为主题的2026民营经济创新发展大会在温州举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693611.shtml",
-      "publishedAt": "2026-09-09T13:51:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-09/10693612.shtml",
-      "title": "浙江温州：政产学研共话生命健康产业新机遇",
-      "category": "综合",
-      "summary": "中新网温州9月9日电(傅飞扬)9日，以“智启新机 医养未来”为主题的知名民企助力浙江高质量发展大会——生命健康产业专题活动(以下简称“活动”)在温州举行，汇聚政产学研各界代表近300人，共商生命健康产业创新发展未来，助力浙江经济高质量发展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693612.shtml",
-      "publishedAt": "2026-09-09T13:51:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693613.shtml",
-      "title": "从内陆城市到江海枢纽 南宁打造面向东盟产业合作集结地",
-      "category": "综合",
-      "summary": "中新网南宁9月9日电(记者 黄艳梅)广西南宁市官方9日表示，南宁市将加快建设中国—东盟产业合作区，发展壮大人工智能及新一代信息技术、机械及高端装备制造、大宗商品贸易等跨境产业链供应链，打造中国企业走向东盟、东盟企业走进中国的集结地。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-09/10693613.shtml",
-      "publishedAt": "2026-09-09T13:50:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693597.shtml",
-      "title": "全国新的社会阶层人士“科创中国”服务团走进山东青岛",
-      "category": "综合",
-      "summary": "中新网青岛9月9日电 (胡耀杰 王禹 张孝鹏)全国新的社会阶层人士“科创中国”服务团9日走进山东青岛，全国新的社会阶层人士“科创中国”服务团成员、科创企业负责人、投融资机构代表及科创网络“大V”等近100人与会，共话创新、共谋合作。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693597.shtml",
-      "publishedAt": "2026-09-09T13:50:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-09/10693614.shtml",
-      "title": "台商台企考察重庆农业发展前景 见证台企在渝“生根发芽”",
-      "category": "综合",
-      "summary": "中新网重庆9月9日电 (梁钦卿)台商台企重庆产业考察对接活动9日在重庆梁平区举行。全国台企联、部分省市台协及岛内知名工商团体代表齐聚梁平，深入田间地头考察投资环境，并见证台企在重庆“生根发芽”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-09/10693614.shtml",
-      "publishedAt": "2026-09-09T13:50:22.000Z",
       "tags": [
         "国内",
         "社会",
