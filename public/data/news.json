@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T20:29:13.928Z",
-  "expiresAt": "2026-09-10T02:29:13.928Z",
+  "generatedAt": "2026-09-09T22:27:36.544Z",
+  "expiresAt": "2026-09-10T04:27:36.544Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "sspai-https://sspai.com/post/114392",
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+      "category": "科技",
+      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114392",
+      "publishedAt": "2026-09-09T21:21:18.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
       "title": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
@@ -1130,24 +1148,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114288",
-      "title": "派评｜近期值得关注的 App",
-      "category": "科技",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/114288",
-      "publishedAt": "2026-09-07T10:08:44.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
       ],
       "hot": false
     },
