@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/113668",
+      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
+      "meta": "少数派 · 2026/9/9",
+      "url": "https://sspai.com/post/113668",
+      "publishedAt": "2026-09-09T03:00:48.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114352",
       "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
       "meta": "少数派 · 2026/9/9",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/7",
       "url": "https://sspai.com/post/114103",
       "publishedAt": "2026-09-07T03:10:02.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/114076",
-      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
-      "meta": "少数派 · 2026/9/6",
-      "url": "https://sspai.com/post/114076",
-      "publishedAt": "2026-09-06T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T02:29:18.542Z",
+  "updatedAt": "2026-09-09T04:29:29.385Z",
   "provider": "OneBench 公共资讯快照"
 }
