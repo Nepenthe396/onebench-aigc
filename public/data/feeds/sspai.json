@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114366",
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
+      "meta": "少数派 · 2026/9/9",
+      "url": "https://sspai.com/post/114366",
+      "publishedAt": "2026-09-09T09:30:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113842",
       "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
       "meta": "少数派 · 2026/9/9",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/7",
       "url": "https://sspai.com/post/114288",
       "publishedAt": "2026-09-07T10:08:44.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113877",
-      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
-      "meta": "少数派 · 2026/9/7",
-      "url": "https://sspai.com/post/113877",
-      "publishedAt": "2026-09-07T07:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-09T08:30:15.584Z",
+  "updatedAt": "2026-09-09T10:30:32.454Z",
   "provider": "OneBench 公共资讯快照"
 }
