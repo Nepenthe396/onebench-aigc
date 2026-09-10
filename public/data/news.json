@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T20:27:05.182Z",
-  "expiresAt": "2026-09-11T02:27:05.182Z",
+  "generatedAt": "2026-09-10T22:27:02.060Z",
+  "expiresAt": "2026-09-11T04:27:02.060Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,42 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
+      "title": "美财政部宣布对伊朗相关个人和实体实施制裁",
+      "category": "综合",
+      "summary": "当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
+      "publishedAt": "2026-09-10T22:25:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694361.shtml",
+      "title": "国际打击电信网络诈骗联盟成立大会举行 王小洪出席并致辞",
+      "category": "综合",
+      "summary": "新华社南京9月10日电(记者董雪、李明辉)国际打击电信网络诈骗联盟成立大会10日在江苏连云港举行，国务委员、公安部部长王小洪出席并致辞。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694361.shtml",
+      "publishedAt": "2026-09-10T22:22:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-10/10694360.shtml",
       "title": "第20届亚运会男篮项目开赛 中国台北队首战告捷",
@@ -536,42 +572,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203914.shtml",
-      "title": "北京2027年世界田径锦标赛进入倒计时一周年",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203914.shtml",
-      "publishedAt": "2026-09-10T13:46:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-10/10694317.shtml",
-      "title": "北京田径世锦赛迎倒计时一周年 巩立姣寄语新秀珍惜大赛机会",
-      "category": "综合",
-      "summary": "中新网北京9月10日电(记者 国璇) 北京2027年世界田径锦标赛倒计时一周年活动10日在国家体育场举行。奥运冠军、去年退役的铅球名将巩立姣寄语中国田径新秀珍惜大赛机会，争创最佳成绩。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694317.shtml",
-      "publishedAt": "2026-09-10T13:45:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad#0",
       "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
       "category": "国际",
@@ -585,6 +585,78 @@
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142772",
+      "title": "乌克兰：针对切尔诺贝利的无人机袭击是“在拿数百万人的安全冒险”",
+      "category": "国际",
+      "summary": "联合国开发计划署署长德克罗周四通过视频连线从基辅向联合国纽约总部的记者表示，针对切尔诺贝利核电站防护结构的无人机袭击本可能危及数百万人的安全。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142772",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142771",
+      "title": "联合国也门特使：也门重陷大规模冲突风险已演变为现实",
+      "category": "国际",
+      "summary": "联合国也门问题特使格伦德贝里周四向安理会作简报时表示，也门重陷自2022年停火以来大规模冲突的最大风险，已经演变为现实。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142771",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142770",
+      "title": "“9·11”事件25周年：联合国重申反恐与维护人权共同责任",
+      "category": "国际",
+      "summary": "值此“9·11”恐怖袭击事件25周年之际，联合国秘书长发言人和联合国人权事务高级专员办事处分别发表声明，缅怀遇难者，向幸存者和首批救援人员致敬，并强调打击恐怖主义与维护人权是共同责任。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142770",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142769",
+      "title": "联合国气候变化事务负责人：气候危机已成为欧洲经济安全紧急状况",
+      "category": "国际",
+      "summary": "联合国气候变化框架公约执行秘书斯蒂尔9月10日在布鲁塞尔欧洲议会环境、气候与食品安全委员会发表演讲时表示，气候危机现已成为整个欧洲大陆范围内的经济安全紧急状况。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142769",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1577,60 +1649,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142737",
-      "title": "尼泊尔洪灾后至少2.2万名儿童亟需安全饮用水和卫生支持",
-      "category": "国际",
-      "summary": "联合国儿童基金会周四表示，在尼泊尔山洪暴发一周多后，至少有2.2万名儿童亟需安全饮用水、卫生设施及个人卫生支持。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142737",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142736",
-      "title": "联合国裁军事务高级代表：叙利亚化学武器销毁工作取得重大进展",
-      "category": "国际",
-      "summary": "联合国副秘书长兼裁军事务高级代表中满泉周四向安理会表示，叙利亚政府与禁止化学武器组织技术秘书处近两年来共同努力，在解决前政府化学武器计划遗留问题、申报任何剩余化学武器并在核查下予以销毁方面取得切实成果。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142736",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142735",
-      "title": "厄尔尼诺现象正在加剧 可能出现数月极端高温",
-      "category": "国际",
-      "summary": "受太平洋海面异常升温的推动，厄尔尼诺气候现象正在加剧，且尚未达到峰值。气象预报几乎可以肯定，该现象将持续至2027年2月——预计未来数月全球大部分地区将出现异常温暖的天气。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142735",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#5",
       "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
       "category": "国际",
@@ -1644,24 +1662,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142734",
-      "title": "货币基金组织：亚洲的下一个增长故事",
-      "category": "国际",
-      "summary": "国际货币基金组织周三发布博客文章指出，亚洲拥有全球一半以上的人口，贡献了全球经济增长、贸易和创新的很大一部分。如今，推动亚洲崛起的驱动力正在发生转变，贸易日趋碎片化，能源安全令人担忧，人口老龄化加剧，生产率增长愈发难以维持。政策制定者面临的问题是如何抓住新机遇，重振亚洲的经济增长。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142734",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
