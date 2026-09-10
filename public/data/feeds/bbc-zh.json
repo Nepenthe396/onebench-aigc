@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czezw30076zo/trad#3",
+      "title": "為甚麼Gen Z的測試成績正在下跌？",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/czezw30076zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T08:58:11.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad#0",
       "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
       "meta": "BBC 中文 · 2026/9/10",
@@ -152,13 +159,6 @@
       "publishedAt": "2026-09-03T00:24:43.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad#3",
-      "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
-      "meta": "BBC 中文 · 2026/9/2",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T13:55:55.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#1",
       "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
       "meta": "BBC 中文 · 2026/9/2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T08:31:18.654Z",
+  "updatedAt": "2026-09-10T10:30:05.274Z",
   "provider": "OneBench 公共资讯快照"
 }
