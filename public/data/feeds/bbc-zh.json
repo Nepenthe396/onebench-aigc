@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad#0",
+      "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T05:37:21.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad#0",
       "title": "911事件25週年：震驚世界的襲擊如何發生，造成多少人死亡？",
       "meta": "BBC 中文 · 2026/9/10",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-09-09T12:15:39.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad#2",
       "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad?at_medium=RSS&at_campaign=rss",
@@ -80,13 +87,6 @@
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/cx2n75en5g6o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T18:50:53.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad#2",
-      "title": "朝俄首座跨境公路橋通車 烏克蘭團體擔心加快軍援物流",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c36ljn4e8k1o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T13:37:15.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T04:30:11.597Z",
+  "updatedAt": "2026-09-10T06:35:09.028Z",
   "provider": "OneBench 公共资讯快照"
 }
