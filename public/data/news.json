@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T12:35:43.119Z",
-  "expiresAt": "2026-09-10T18:35:43.119Z",
+  "generatedAt": "2026-09-10T14:29:22.152Z",
+  "expiresAt": "2026-09-10T20:29:22.152Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694253.shtml",
-      "title": "中国自动驾驶科技公司获西班牙首张L4级自动驾驶乘用车运营牌照",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
+      "title": "散播涉西藏吉隆泥石流谣言 多人被处罚",
       "category": "综合",
-      "summary": "中新社广州9月10日电 (记者 蔡敏婕)中国自动驾驶科技公司文远知行10日发布消息称，该企业获得西班牙首张L4级自动驾驶乘用车运营牌照，获准在公共道路开展车辆部署，这标志着西班牙首次在国家层面为L4级Robotaxi(自动驾驶出租车)开放准入。",
+      "summary": "净网专项行动 | 严打灾害谣言 守护清朗网络——吉隆泥石流灾害网络谣言典型案例",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694253.shtml",
-      "publishedAt": "2026-09-10T12:32:12.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694349.shtml",
+      "publishedAt": "2026-09-10T14:24:45.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694254.shtml",
-      "title": "东博会首次打造“大卖场” 为中国AI产品对接东盟市场搭平台",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-10/10694336.shtml",
+      "title": "2026年度象棋文字书法作品文化活动在上海举办",
       "category": "综合",
-      "summary": "中新社南宁9月10日电 (黄令妍)第23届中国—东盟博览会(东博会)将于9月17日在广西南宁开幕。东博会秘书处秘书长王继才10日接受媒体联合采访时介绍，今年东博会首次专门打造“AI大卖场”，为中国AI产品对接东盟市场搭建起直接交易平台。",
+      "summary": "中新网9月10日电 据国家体育总局体育文化发展中心消息，2026年度象棋文字书法作品文化活动于上海市嘉定区南翔檀园拉开帷幕，乒乓球世界冠军、“乒乓外交”亲历者郑敏之等嘉宾参与本次活动。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694254.shtml",
-      "publishedAt": "2026-09-10T12:32:12.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694336.shtml",
+      "publishedAt": "2026-09-10T14:09:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694252.shtml",
-      "title": "聚焦重要工业品生产 中国官方发文治理低价无序竞争",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694335.shtml",
+      "title": "致敬教师，中央音乐学院举行原创音乐会",
       "category": "综合",
-      "summary": "中新社北京9月10日电 (记者 王恩博)中国国家发改委、国家市场监管总局联合印发的《关于重要工业品低价无序竞争成本核算有关事项的通知》10日对外公布。官方称，这份文件旨在进一步夯实治理低价无序竞争的制度基础。",
+      "summary": "中新网9月10日电 9月9日，在第四十二个教师节来临之际，《星光·致敬引路人》弘扬教育家精神原创作品音乐会在国家大剧院音乐厅举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694252.shtml",
-      "publishedAt": "2026-09-10T12:31:26.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694335.shtml",
+      "publishedAt": "2026-09-10T14:06:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694251.shtml",
-      "title": "第二届知识产权执法国际交流大会在长沙开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml",
+      "title": "渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评",
       "category": "综合",
-      "summary": "中新社长沙9月10日电 (向一鹏)第二届知识产权执法国际交流大会10日在湖南长沙开幕。会议由中国国家市场监督管理总局与世界知识产权组织(WIPO)共同主办。",
+      "summary": "中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694251.shtml",
-      "publishedAt": "2026-09-10T12:31:24.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml",
+      "publishedAt": "2026-09-10T14:04:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694242.shtml",
-      "title": "广西三江侗乡：梯田染金入画来",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml",
+      "title": "阿尔及利亚宣布与阿联酋断交",
       "category": "综合",
-      "summary": "图为广西三江侗族自治县独峒镇知了村梯田风光。龚普康 摄 图为广西三江侗族自治县独峒镇知了村、唐朝村梯田景致。龚普康 摄 图为广西三江侗族自治县独峒镇知了村、唐朝村梯田景致。龚普康 摄 图为广西三江侗族自治县独峒镇知了村、唐朝村梯田景致。龚普康 摄 图为广西三江侗族自治县独峒镇知了村梯田风光。龚普康 摄 图为广西三江侗族自治县独峒镇知了村梯田风光。龚普康 摄 ",
+      "summary": "中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694242.shtml",
-      "publishedAt": "2026-09-10T12:29:40.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml",
+      "publishedAt": "2026-09-10T14:03:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694250.shtml",
-      "title": "一箭六星 长四乙火箭成功发射",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml",
+      "title": "泰国批准55个项目推动企业应用人工智能和自动化",
       "category": "综合",
-      "summary": "中新社北京9月10日电 (记者 马帅莎)据中国航天科技集团消息，北京时间9月10日17时，中国在酒泉卫星发射中心使用长征四号乙运载火箭，以“一箭六星”的方式，成功将遥感五十三号01-03星、遥感五十六号01-03星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+      "summary": "中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694250.shtml",
-      "publishedAt": "2026-09-10T12:28:21.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml",
+      "publishedAt": "2026-09-10T14:03:20.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694175.shtml",
-      "title": "浙江杭州：“AI Show”引人关注",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694331.shtml",
+      "title": "从南非到海南：一位外籍教师的“慢生活”与“深扎根”",
       "category": "综合",
-      "summary": "9月10日，兵马俑主题的机器马引人体验。中新社记者 王刚 摄 9月10日，参观者近距离感受仿生机器人。中新社记者 王刚 摄 9月10日，参观者体验中医推拿机器人。中新社记者 王刚 摄 9月10日，参观者体验非侵入式脑机接口设备。中新社记者 王刚 摄 9月10日，参观者了解人形机器人内部构造。中新社记者 王刚 摄 9月10日，工作人员展示遥操灵巧手。中新社记者",
+      "summary": "中新网海口9月10日电 题：从南非到海南：一位外籍教师的“慢生活”与“深扎根”",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694175.shtml",
-      "publishedAt": "2026-09-10T12:28:19.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694331.shtml",
+      "publishedAt": "2026-09-10T14:01:16.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694248.shtml",
-      "title": "“一国一品”搭建交流平台 多国代表取经吉林农业",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-10/10694330.shtml",
+      "title": "海外华校教师陕西榆林行：品读边塞历史底蕴 传播中华优秀文化",
       "category": "综合",
-      "summary": "中新社长春9月10日电 (李彦国 高龙安)地标生境支持联合国粮农组织“一国一品”能力建设与技术转让研讨会——长白山分会10日在长春举办，来自中国、日本、加拿大、蒙古国、巴基斯坦等17个国家的代表参会。",
+      "summary": "中新网陕西榆林9月10日电 (梅镱泷 胡捷)“丝路连心·华文筑梦”华校教师陕西行活动10日走进陕北榆林。参与活动的20余位海外华校教师先后参访了陕北民歌博物馆、红石峡、镇北台等地，沉浸式感受陕北民俗文化、品读边塞历史底蕴，在山水与人文交融的实景体验中，探寻华文教育初心，搭建中外文化交流桥梁。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694248.shtml",
-      "publishedAt": "2026-09-10T12:28:01.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694330.shtml",
+      "publishedAt": "2026-09-10T13:59:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694177.shtml",
-      "title": "浙江海宁：钱塘江滩涂现“潮汐树”景观",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694329.shtml",
+      "title": "广西南宁举办第十一届创业大赛 聚焦AI与乡村振兴",
       "category": "综合",
-      "summary": "9月10日，航拍钱塘江滩的“潮汐树”。浙江嘉兴海宁钱塘江岸，由潮汐涨落形成的“潮汐树”尽显大自然鬼斧神工的绝妙造化，成为一道流动的风景线。(无人机照片)中新社记者 孙杨洋 摄 9月10日，潮汐纹理形似一棵棵枝繁叶茂的大树。浙江嘉兴海宁钱塘江岸，由潮汐涨落形成的“潮汐树”尽显大自然鬼斧神工的绝妙造化，成为一道流动的风景线。(无人机照片)中新社记者 孙杨洋 摄 ",
+      "summary": "中新网南宁9月10日电(记者 黄艳梅)广西南宁市人力资源和社会保障局10日介绍，2026年南宁市第十一届创业大赛暨第四届广西农民工创业大赛选拔赛报名近日正式启动。大赛以“AI智创邕城 筑梦乡村振兴”为主题，旨在以赛促创、以赛聚才，进一步激发社会创业创新活力，为南宁高质量发展和乡村全面振兴注入新动能。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694177.shtml",
-      "publishedAt": "2026-09-10T12:26:11.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694329.shtml",
+      "publishedAt": "2026-09-10T13:58:47.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694247.shtml",
-      "title": "寻味绍兴菜：“闻臭食香”解锁江南佳肴",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694328.shtml",
+      "title": "北京两项医疗AI成果在非洲投入临床应用",
       "category": "综合",
-      "summary": "9月10日，在浙江绍兴一门店，游客接过新鲜出炉的臭豆腐。中新社记者 项菁 摄 9月10日，在浙江绍兴，游客对臭豆腐进行调味。中新社记者 项菁 摄 9月10日，在浙江绍兴一酒店餐饮部，大厨烧制创新菜“臭豆腐圆子炖河蟹”。中新社记者 项菁 摄 9月10日，在浙江绍兴一酒店餐饮部，“臭豆腐圆子炖河蟹”新鲜出炉。中新社记者 项菁 摄 9月10日，在浙江绍兴一酒店餐饮",
+      "summary": "中新社北京9月10日电 (记者 徐婧)2026年中国国际服务贸易交易会正在北京举行。记者从10日举行的健康卫生服务专题创新成果发布活动上获悉，国家人工智能应用中试基地(医疗)·北京(“中试基地”)孵化的两项医疗AI成果在非洲投入临床应用。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694247.shtml",
-      "publishedAt": "2026-09-10T12:25:37.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694328.shtml",
+      "publishedAt": "2026-09-10T13:58:27.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694159.shtml",
-      "title": "安徽池州：山间好果变身枣农“增收果”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694327.shtml",
+      "title": "国家发改委面对面回应美企关切 释放中国开放信号",
       "category": "综合",
-      "summary": "图为枣农刚刚采摘的鲜枣。刘鸿鹤 摄 图为工人师傅挑选西山焦枣。刘鸿鹤 摄 图为枣农正在采摘冬瓜枣。刘鸿鹤 摄 图为蒸熟后准备烘干的冬瓜枣。刘鸿鹤 摄 图为工人师傅挑选西山焦枣。刘鸿鹤 摄 图为蒸熟备用的冬瓜枣。刘鸿鹤 摄 图为枣农正在采摘冬瓜枣。刘鸿鹤 摄 采摘后的冬瓜枣需要经过清洗、晾晒。刘鸿鹤 摄",
+      "summary": "中新社北京9月10日电 题：国家发改委面对面回应美企关切 释放中国开放信号",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694159.shtml",
-      "publishedAt": "2026-09-10T12:24:17.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694327.shtml",
+      "publishedAt": "2026-09-10T13:58:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-10/10694246.shtml",
-      "title": "宁夏固原优质肉牛寻求粤港澳大湾区市场新机遇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694326.shtml",
+      "title": "中国团队领衔研究测定2.6亿年前地球磁场强度",
       "category": "综合",
-      "summary": "中新网广州9月10日电 (记者 李佩珊)9月10日，宁夏固原市肉牛产业产销对接会在广州举办，粤宁两地企业及地方相关负责人围绕肉牛产业开展面对面洽谈对接，推动六盘山优质牛肉进一步开拓粤港澳大湾区消费市场。",
+      "summary": "中新社北京9月10日电 (记者 孙自法)记者10日从中国科学院青藏高原研究所大陆碰撞隆升及影响团队获悉，该团队领衔中外合作者，对形成年龄约2.6亿年的攀枝花白马矿区层状辉长岩开展系列研究，最新发现当时古地磁场强度为现代地磁场的约51%。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694246.shtml",
-      "publishedAt": "2026-09-10T12:22:47.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694326.shtml",
+      "publishedAt": "2026-09-10T13:57:39.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694249.shtml",
-      "title": "邂逅黄土风情 海外华校教师走进陕北民歌博物馆",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694324.shtml",
+      "title": "（活力中国调研行）“许昌文旅推荐官”眼中的胖东来",
       "category": "综合",
-      "summary": "图为海外华校教师在陕北民歌博物馆参观。胡捷 摄 图为海外华校教师在陕北民歌博物馆参观。胡捷 摄 图为海外华校教师在陕北民歌博物馆参观。胡捷 摄 图为海外华校教师在陕北民歌博物馆参观。胡捷 摄 图为海外华校教师了解陕北民歌基本情况。胡捷 摄 图为海外华校教师了解陕北民歌《蓝花花》。胡捷 摄 图为海外华校教师了解陕北民歌伴奏乐器。胡捷 摄 图为海外华校教师驻足拍",
+      "summary": "中新网许昌9月10日电(卢岩 赵梦阳)“这个店为什么叫天使城店？因为‘东来哥’说，每个人都是善良的，只要心中有爱，每个人都是可以成为天使。”站在胖东来超市天使城店门前，许昌文旅推荐官、许昌市大诚小胖文旅发起人魏小胖面对着记者侃侃而谈。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694249.shtml",
-      "publishedAt": "2026-09-10T12:22:45.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694324.shtml",
+      "publishedAt": "2026-09-10T13:53:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694227.shtml",
-      "title": "（文化新纪行）从看景到入景 婺源古老晒秋农俗变身潮流“符号”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-10/10694325.shtml",
+      "title": "9月10日新闻夜读",
       "category": "综合",
-      "summary": "中新社江西婺源9月10日电 题：从看景到入景 婺源古老晒秋农俗变身潮流“符号”",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694227.shtml",
-      "publishedAt": "2026-09-10T12:22:23.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-10/10694325.shtml",
+      "publishedAt": "2026-09-10T13:49:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694226.shtml",
-      "title": "中国美国商会董事会主席：中国依旧是美国企业重要市场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694322.shtml",
+      "title": "广深高速改扩建项目打造混凝土绿色再生中心",
       "category": "综合",
-      "summary": "中新社北京9月10日电 (记者 王恩博)中国美国商会董事会主席吉莫曼10日在北京表示，对许多美国企业而言，中国依旧是重要市场。",
+      "summary": "中新网东莞9月10日电 (记者 蔡敏婕)记者10日走进广深高速改扩建项目混凝土绿色再生中心，生产车间空无一人，机械臂、自动化破碎生产线、密闭负压除尘系统、微粉回收装置正有序运转......",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694226.shtml",
-      "publishedAt": "2026-09-10T12:22:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694322.shtml",
+      "publishedAt": "2026-09-10T13:47:32.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694224.shtml",
-      "title": "从“看得见”到“看得好”：视觉质量，正被重新定义",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694318.shtml",
+      "title": "两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能",
       "category": "综合",
-      "summary": "9月9日，天津。一场关于“眼睛”的发布会，讨论的却不是近视度数，也不是手术方案。",
+      "summary": "中新社北京9月10日电 (记者 刘大炜)10日在北京发布的《两岸服务贸易发展研究报告》指出，大陆经济正转向高质量发展阶段，发展数字经济对此具有强大支撑作用。台商台企可通过数字化转型、发展数字贸易来培育未来两岸服贸合作新动能。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694224.shtml",
-      "publishedAt": "2026-09-10T12:20:37.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694318.shtml",
+      "publishedAt": "2026-09-10T13:47:08.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694237.shtml",
-      "title": "新疆第八届残运会暨第五届特奥会开幕",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694321.shtml",
+      "title": "第十二届中国杂技金菊奖全国杂技比赛将启",
       "category": "综合",
-      "summary": "图为歌舞演出。金奇 摄 图为歌舞演出。金奇 摄 图为参赛代表团入场。金奇 摄 图为歌舞演出。金奇 摄 图为歌舞演出。金奇 摄",
+      "summary": "中新网北京9月10日电 (记者 高凯)记者10日从相关发布会上获悉，第十二届中国杂技金菊奖全国杂技比赛暨第六届中国杂技艺术节定于2026年9月13日至19日在河南濮阳举办。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694237.shtml",
-      "publishedAt": "2026-09-10T12:19:49.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694321.shtml",
+      "publishedAt": "2026-09-10T13:46:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694218.shtml",
-      "title": "数智化转型发展大会在京举行 业界建言数智化转型路径",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-10/10694320.shtml",
+      "title": "广东国际侨创赛落下帷幕 15个参赛优质项目意向落地中山",
       "category": "综合",
-      "summary": "中新网北京9月10日电 (记者 刘亮)由中国通信标准化协会主办、中国信息通信研究院(简称“中国信通院”)承办的“2026(第六届)数智化转型发展大会”10日在北京召开。",
+      "summary": "中新网中山9月10日电 (记者 邓媛雯)2026年广东国际侨界创新创业大赛(人工智能+)(以下简称：2026年广东国际侨创赛)颁奖仪式10日在中山市翠亨新区举行。大赛以3个“揭榜挂帅”项目达成合作、15个参赛项目提出落地需求的佳绩，刷新六届国际侨创赛之最。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694218.shtml",
-      "publishedAt": "2026-09-10T12:19:35.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-10/10694320.shtml",
+      "publishedAt": "2026-09-10T13:46:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-10/10694241.shtml",
-      "title": "（活力中国调研行）河南许昌：胖东来客如潮",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203914.shtml",
+      "title": "北京2027年世界田径锦标赛进入倒计时一周年",
       "category": "综合",
-      "summary": "图为许昌文旅推荐官介绍胖东来。 赵梦阳 摄 图为商场内顾客络绎不绝。 赵梦阳 摄 图为天使宝贝礼品中心。 赵梦阳 摄 图为顾客在收银通道有序通过。 赵梦阳 摄 图为顾客在体验便民饮水设施。 赵梦阳 摄",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-10/10694241.shtml",
-      "publishedAt": "2026-09-10T12:19:15.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203914.shtml",
+      "publishedAt": "2026-09-10T13:46:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694234.shtml",
-      "title": "一根粉笔传三代 湖南祁阳21个教育世家扎根乡村育学子",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-10/10694317.shtml",
+      "title": "北京田径世锦赛迎倒计时一周年 巩立姣寄语新秀珍惜大赛机会",
       "category": "综合",
-      "summary": "中新网永州9月10日电(张敏 何艳飞 高志恒)在湖南永州祁阳市，有这样一种家风：一家三代，相继站上三尺讲台。目前，这片崇文重教的土地上，共有21个教育世家，跨越半个多世纪坚守讲台，把教书育人融入家族血脉。",
+      "summary": "中新网北京9月10日电(记者 国璇) 北京2027年世界田径锦标赛倒计时一周年活动10日在国家体育场举行。奥运冠军、去年退役的铅球名将巩立姣寄语中国田径新秀珍惜大赛机会，争创最佳成绩。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694234.shtml",
-      "publishedAt": "2026-09-10T12:19:07.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694317.shtml",
+      "publishedAt": "2026-09-10T13:45:06.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694236.shtml",
-      "title": "湖北集中销毁280余万件侵权假冒伪劣商品",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-10/10694316.shtml",
+      "title": "2026中国业余高尔夫球队际公开赛北部大区赛收杆",
       "category": "综合",
-      "summary": "中新网咸宁9月10日电 (张永康)湖北省质量强省工作委员会办公室、省市场监管局联合省公安厅、省烟草专卖局等部门，10日在湖北咸宁开展2026年全省侵权假冒伪劣商品统一销毁行动，共销毁侵权假冒伪劣商品280余万件，货值3100余万元。",
+      "summary": "中新网涿州9月10日电 2026一龄·中国业余高尔夫球队际公开赛北部大区赛10日在河北涿州收杆。来自北方各地的27支精英球队历经两轮36洞角逐，最终北京龙熙温泉高尔夫队以187分夺得团队得分冠军，山西亚鑫高尔夫球队以286.6杆斩获团队净杆冠军。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694236.shtml",
-      "publishedAt": "2026-09-10T12:18:31.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-10/10694316.shtml",
+      "publishedAt": "2026-09-10T13:44:54.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694244.shtml",
-      "title": "理政纪丨国将兴，必贵师而重傅",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694313.shtml",
+      "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
       "category": "综合",
-      "summary": "三尺讲台系国运，习近平总书记曾说：“一个人遇到好老师是人生的幸运，一个学校拥有好老师是学校的光荣，一个民族源源不断涌现出一批又一批好老师则是民族的希望。”",
+      "summary": "中新社北京9月10日电 据中国海警局10日消息，当天，中国海警登步舰编队在中国钓鱼岛及其附属岛屿领海内维权巡航。这是中国海警依法开展的维权巡航活动。(完)",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694244.shtml",
-      "publishedAt": "2026-09-10T12:14:53.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694313.shtml",
+      "publishedAt": "2026-09-10T13:44:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694238.shtml",
-      "title": "拾光纪·“我还能记住他们的样子”，总书记心系人民教师",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694319.shtml",
+      "title": "何立峰出席矿业国际合作部长论坛暨2026中国国际矿业大会开幕式并在天津调研",
       "category": "综合",
-      "summary": "“我们从小学到大学都有过不少的老师，我还能记住他们的样子”，习近平总书记对人民教师有着深厚情怀。“长期以来，全国广大教师认真贯彻党的教育方针，躬耕教坛、传道授业，为党和国家事业发展作出了重要贡献。”在第四十二个教师节到来之际，习近平总书记向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
+      "summary": "新华社天津9月10日电 中共中央政治局委员、国务院副总理何立峰10日在天津出席矿业国际合作部长论坛暨2026中国国际矿业大会开幕式并致辞。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694238.shtml",
-      "publishedAt": "2026-09-10T12:11:13.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694319.shtml",
+      "publishedAt": "2026-09-10T13:42:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694230.shtml",
-      "title": "山东青岛北海造船厂一货轮火灾事故已造成25人遇难",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694312.shtml",
+      "title": "江苏连云港开行首列整列跨里海班列",
       "category": "综合",
-      "summary": "2026年9月10日11时15分许，一外籍货船在中国船舶集团青岛北海造船有限公司检修过程中发生火情。",
+      "summary": "中新社江苏连云港9月10日电 (记者 谷华)江苏连云港，是新亚欧大陆桥的东方起点。10日，跨里海中欧班列从中哈(连云港)物流合作基地出发，将经霍尔果斯口岸出境，穿越哈萨克斯坦，在阿克套港集港搭乘运输驳船，最终运抵阿塞拜疆首都巴库。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694230.shtml",
-      "publishedAt": "2026-09-10T12:10:18.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694312.shtml",
+      "publishedAt": "2026-09-10T13:38:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694225.shtml",
-      "title": "华为发布三折叠手机Mate XT 2及鸿蒙7等全场景新品",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694310.shtml",
+      "title": "“贵港—平陆运河—钦州”集装箱航线正式首航",
       "category": "综合",
-      "summary": "2026年9月7日，华为召开HarmonyOS 7｜HUAWEI Mate XT 2及全场景新品发布会，华为全新展翼三折叠焕新登场。同时，HarmonyOS 7、HUAWEI Pura X Max新色、HUAWEI Pura X View、HUAWEI Mate Pad Air、HUAWEI Watch 6等也在同日重磅亮相。",
+      "summary": "中新网南宁9月10日电 (黄慧萍 姜雅婵 丘祖聪)9月10日，汽笛长鸣，“北港运河001”“北港运河002”两艘集装箱货轮相继驶离贵港码头苏湾作业区、罗泊湾作业区，两艘货轮搭载来自湖南怀化的箱包、工程机械装备，以及贵港板材，武宣非金属矿等货物，将沿平陆运河，直奔钦州港，标志着“贵港—平陆运河—钦州”集装箱航线正式首航。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694225.shtml",
-      "publishedAt": "2026-09-10T12:09:32.000Z",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-10/10694310.shtml",
+      "publishedAt": "2026-09-10T13:38:10.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694222.shtml",
-      "title": "江门海关护航机器人咖啡机顺利出境参展",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203911.shtml",
+      "title": "2026澳中博览会暨中国消费品（澳大利亚）品牌展开幕",
       "category": "综合",
-      "summary": "中新网江门9月10日电 (郭军 邱景杨)近日，一批机器人咖啡机经江门海关所属外海海关监管，从江门高新港启运前往香港参加展会，这是江门海关关区今年以来首票以ATA单证册方式通关的暂时出境参展货物。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694222.shtml",
-      "publishedAt": "2026-09-10T12:09:12.000Z",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-10/1203911.shtml",
+      "publishedAt": "2026-09-10T13:37:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694229.shtml",
-      "title": "苹果、霍尼韦尔、康宁等在华美企面对面提问国家发改委",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-10/10694311.shtml",
+      "title": "香港立法会议员三度考察北都 聚焦房屋发展与城乡共融",
       "category": "综合",
-      "summary": "“哪些领域会成为中国消费新引擎？”“‘十五五’规划在地方层面如何落实？”",
+      "summary": "中新网香港9月10日电 (记者 刘玥晴)香港特区立法会64位议员10日赴香港北部都会区(简称“北都”)古洞北新发展区调研，重点关注当地房屋发展与城乡共融情况。这是继今年3月和4月前往洪水桥新发展区和河套香港园区后，议员们第三次考察北都建设进展。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694229.shtml",
-      "publishedAt": "2026-09-10T12:08:56.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694311.shtml",
+      "publishedAt": "2026-09-10T13:37:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694220.shtml",
-      "title": "广西友谊关口岸弄尧货运通道迎来首批国产新车出口越南",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-10/10694309.shtml",
+      "title": "香港举办青年公寓迎新活动 助力在港留学生适应新生活",
       "category": "综合",
-      "summary": "中新网广西凭祥9月10日电(俞靖 谢豪)9月10日，地处中越边境的广西凭祥友谊关口岸弄尧货运通道迎来首批国产新车出口越南。这是弄尧货运通道首次以一般贸易方式出口整车，标志着友谊关口岸“一口岸三通道”的开放格局再上新台阶。",
+      "summary": "中新网香港9月10日电 “扎根香江融社区 青年筑梦兴香港”中远青年公寓学生迎新活动10日在香港举行，旨在为内地在港留学生提供高品质安居保障、本地融入支持与职业发展赋能。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694220.shtml",
-      "publishedAt": "2026-09-10T12:03:34.000Z",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-10/10694309.shtml",
+      "publishedAt": "2026-09-10T13:36:38.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694223.shtml",
-      "title": "衰老数字化、营养精准化、护肤个体化，华大新品发布会把健康带进“一人一方”时代",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-10/10694314.shtml",
+      "title": "青春华章丨每一粒种子，都有一颗滚烫的中国心",
       "category": "综合",
-      "summary": "9月9日，在华大集团成立27周年之际，以“智感生命·健康无界”为主题的2026华大集团全球新品发布会在华大时空中心举行。现场集中发布了一系列覆盖脑科学、科研计算、医学检测、主动健康乃至宠物与农业生态等领域的新产品、新服务，展示生命科技如何从实验室走向我们的日常生活。",
+      "summary": "科学无国界",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694223.shtml",
-      "publishedAt": "2026-09-10T12:03:00.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-10/10694314.shtml",
+      "publishedAt": "2026-09-10T13:35:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-10/10694219.shtml",
-      "title": "黄茅峡水库工程首办鱼类增殖放流 55万尾优质鱼苗入连江",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-10/10694307.shtml",
+      "title": "2026全球农创客大赛决赛举行 首设小岛屿发展中国家赛道",
       "category": "综合",
-      "summary": "中新网清远9月10日电 (记者 王坚)国家“两重”标志性重大水利工程、国家水网重要防洪工程——黄茅峡水库工程10日在清远英德大湾镇开展首次鱼类增殖放流，向连江放流55万尾优质鱼苗，助力流域生态修复与生物多样性保护，拉开该工程施工期水生生物资源修复工作的序幕。",
+      "summary": "中新网杭州9月10日电(郭其钰)9月10日，由联合国粮食及农业组织(FAO)、浙江大学、拼多多主办的2026全球农创客大赛决赛在浙江杭州举行。全球13支青年创业团队围绕AI驱动农业决策、循环经济与废弃物增值、数字平台赋能小农户等方向展开角逐。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-10/10694219.shtml",
-      "publishedAt": "2026-09-10T12:02:18.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694307.shtml",
+      "publishedAt": "2026-09-10T13:33:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -573,18 +573,36 @@
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad#0",
-      "title": "青島造船廠維修中貨輪大火 至少20人死亡",
+      "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
       "category": "国际",
       "summary": "中國官方媒體稱，一艘外籍貨輪靠港維修期間起火，造成嚴重傷亡。習近平與李強下達救災指示。",
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T11:41:21.000Z",
+      "publishedAt": "2026-09-10T12:47:54.000Z",
       "tags": [
         "国际",
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142754",
+      "title": "【专题报道】难以忘记——911事件二十五周年 三位联合国工作人员讲述亲身经历",
+      "category": "国际",
+      "summary": "二十五年前，联合国纽约总部的三名工作人员在9月11日这一天开始了他们一个原本平常的星期二早晨，然而却经历了一场终生难忘的巨变。在距离世贸中心仅几英里之遥的联合国大厦内，他们所经历的那些惊心动魄的时刻让他们对恐怖袭击以及联合国关注的打击恐怖主义问题有了更加深刻的理解。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142754",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1637,24 +1655,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142734",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142733",
-      "title": "古特雷斯对美伊再次交火深表关切",
-      "category": "国际",
-      "summary": "联合国秘书长发言人周三在每日新闻简报会上表示，古特雷斯秘书长对9月1日晚美国与伊朗之间再次发生交火深表关切，并对有关平民伤亡的报道深感震惊，其中包括据称袭击伊朗一场婚礼的空袭事件。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142733",
       "publishedAt": "2026-09-02T12:00:00.000Z",
       "tags": [
         "国际",
