@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#0",
+      "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
+      "meta": "BBC 中文 · 2026/9/11",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T00:22:53.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad#0",
       "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
       "meta": "BBC 中文 · 2026/9/10",
@@ -24,13 +31,6 @@
       "meta": "BBC 中文 · 2026/9/10",
       "url": "https://www.bbc.com/zhongwen/articles/czezw30076zo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T08:58:11.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad#0",
-      "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
-      "meta": "BBC 中文 · 2026/9/10",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T05:37:21.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad#0",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T22:27:02.060Z",
+  "updatedAt": "2026-09-11T00:35:51.131Z",
   "provider": "OneBench 公共资讯快照"
 }
