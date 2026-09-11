@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114414",
+      "title": "新 iPhone 配件精选：多种组合一次配齐",
+      "meta": "少数派 · 2026/9/11",
+      "url": "https://sspai.com/post/114414",
+      "publishedAt": "2026-09-11T04:00:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/114439",
       "title": "派早报：商务部回应美国 AI 蒸馏指控",
       "meta": "少数派 · 2026/9/10",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/9",
       "url": "https://sspai.com/post/114352",
       "publishedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/prime/story/sidecar-optimizations",
-      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
-      "meta": "少数派 · 2026/9/8",
-      "url": "https://sspai.com/prime/story/sidecar-optimizations",
-      "publishedAt": "2026-09-08T10:14:30.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T04:29:55.800Z",
+  "updatedAt": "2026-09-11T06:34:15.240Z",
   "provider": "OneBench 公共资讯快照"
 }
