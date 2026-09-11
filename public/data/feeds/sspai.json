@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/114449",
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "meta": "少数派 · 2026/9/11",
+      "url": "https://sspai.com/post/114449",
+      "publishedAt": "2026-09-11T08:30:00.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/113605",
       "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
       "meta": "少数派 · 2026/9/11",
@@ -66,15 +73,8 @@
       "meta": "少数派 · 2026/9/9",
       "url": "https://sspai.com/post/113842",
       "publishedAt": "2026-09-09T07:03:35.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113668",
-      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
-      "meta": "少数派 · 2026/9/9",
-      "url": "https://sspai.com/post/113668",
-      "publishedAt": "2026-09-09T03:00:48.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T08:30:48.762Z",
+  "updatedAt": "2026-09-11T10:29:19.515Z",
   "provider": "OneBench 公共资讯快照"
 }

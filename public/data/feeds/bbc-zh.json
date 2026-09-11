@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad#0",
+      "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+      "meta": "BBC 中文 · 2026/9/11",
+      "url": "https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T10:06:48.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgyrjx1n7yo/trad#1",
       "title": "特朗普真的能向每位美國成年人發放5000美元嗎？",
       "meta": "BBC 中文 · 2026/9/11",
@@ -47,7 +54,7 @@
       "publishedAt": "2026-09-11T05:31:09.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#1",
       "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
       "meta": "BBC 中文 · 2026/9/11",
       "url": "https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad?at_medium=RSS&at_campaign=rss",
@@ -96,7 +103,7 @@
       "publishedAt": "2026-09-09T09:32:11.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#5",
       "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
@@ -159,13 +166,6 @@
       "publishedAt": "2026-09-04T10:56:52.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#5",
-      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-      "meta": "BBC 中文 · 2026/9/3",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:24:43.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#2",
       "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
       "meta": "BBC 中文 · 2026/9/2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-01T09:56:01.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T08:30:48.762Z",
+  "updatedAt": "2026-09-11T10:29:19.515Z",
   "provider": "OneBench 公共资讯快照"
 }

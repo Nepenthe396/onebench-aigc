@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T08:30:48.762Z",
-  "expiresAt": "2026-09-11T14:30:48.762Z",
+  "generatedAt": "2026-09-11T10:29:19.515Z",
+  "expiresAt": "2026-09-11T16:29:19.515Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694730.shtml",
-      "title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694831.shtml",
+      "title": "开局起步“十五五”：“海南绿肺”如何逐“绿”前行？",
       "category": "综合",
-      "summary": "A股收评：超4800只个股飘绿，三大指数集体收跌；通信设备逆市走强，电信、发电设备上涨；半导体探底回升收跌，石化、贵金属重挫",
+      "summary": "中新网海口9月11日电 (记者 王晓斌)屯昌地处海南中部，森林覆盖率达73%，空气质量优良率常年保持98%以上，素有“海南绿肺”之称。9月11日，屯昌县县长王国臣在海南省“开局起步‘十五五’”系列新闻发布会上表示，“十五五”期间屯昌将把绿色低碳循环产业作为发展主引擎，全力建设海南自贸港中部重要开放门户。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694730.shtml",
-      "publishedAt": "2026-09-11T08:27:03.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694831.shtml",
+      "publishedAt": "2026-09-11T10:18:42.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694645.shtml",
-      "title": "（活力中国调研行）漯河：“小猫粮”背后藏着“大生意”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694850.shtml",
+      "title": "新疆工业经济量质齐升",
       "category": "综合",
-      "summary": "中新网漯河9月11日电(卢岩 赵梦阳)在中誉宠物食品(漯河)集团股份有限公司#8204;宠物营养测试中心的猫咪活动区，一只只可爱的猫咪或坐或卧，或在警惕地巡视“领地”。动物营养工程师王亚涛怀抱着一只猫咪，面对记者娓娓道来。",
+      "summary": "中新网乌鲁木齐9月11日电 (胡嘉琛)五年来，新疆工业经济量质齐升，特色优势产业蓬勃发展，科技创新和产业创新加快融合，智改数转纵深推进，优质企业梯次壮大，绿色发展成效显著。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694645.shtml",
-      "publishedAt": "2026-09-11T08:18:57.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694850.shtml",
+      "publishedAt": "2026-09-11T10:18:04.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,481 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1204018.shtml",
-      "title": "“9·11”事件25周年 纽约哀思涌动",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694847.shtml",
+      "title": "（乡村行·看振兴）浙江松阳香榧采摘忙 技术革新赋能“青果”变“金果”",
+      "category": "综合",
+      "summary": "中新网丽水9月11日电(周健 周晴)地处浙西南山区的丽水松阳县，生态环境优越，孕育出的香榧品质上乘。眼下，该县香榧陆续进入成熟采摘期，一颗颗青果缀满枝头，榧农们忙着采摘、分拣，一派忙碌景象。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694847.shtml",
+      "publishedAt": "2026-09-11T10:17:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694844.shtml",
+      "title": "甘肃临夏鲜切花前8个月出口增长超三成",
+      "category": "综合",
+      "summary": "中新网兰州9月11日电 (黄玺)金秋时节，甘肃省临夏回族自治州的鲜花种植基地内花团锦簇，香气四溢。据兰州海关11日最新统计，今年1至8月，临夏鲜切花出口277万支，同比增长超过三成，产品远销日本、俄罗斯和哈萨克斯坦等国家，成为拉动当地特色农产品出口的新增长点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694844.shtml",
+      "publishedAt": "2026-09-11T10:17:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694852.shtml",
+      "title": "《数字乡村高质量发展行动计划（2026—2030年）》答记者问",
+      "category": "综合",
+      "summary": "近日，中央网信办、农业农村部、工业和信息化部三部门印发《数字乡村高质量发展行动计划(2026—2030年)》(以下简称《行动计划》)。中央网信办有关负责人就《行动计划》有关问题回答了记者提问。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694852.shtml",
+      "publishedAt": "2026-09-11T10:14:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694814.shtml",
+      "title": "孚尔科全球高级副总裁：中国已成为重要的价值创造阵地",
+      "category": "综合",
+      "summary": "中新网北京9月11日电 (记者 吕少威 谢龙飞)“中国市场的转型，推动跨国企业在华定位发生明显变化：过去更多把中国当作销售市场、成本中心，现在中国已成为重要的创新策源地、价值创造阵地。”孚尔科全球高级副总裁、挪威商会董事会副主席吴海锋在2026年服贸会期间接受中新网记者专访时如是说。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694814.shtml",
+      "publishedAt": "2026-09-11T10:09:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694822.shtml",
+      "title": "（经济观察）外资在华以服务贸易叩开市场机遇",
+      "category": "综合",
+      "summary": "中新社北京9月11日电 (陶思阅)2026年中国国际服务贸易交易会(服贸会)正在北京举行。此次服贸会有90个国家(地区)和国际组织设展办会，1830余家企业线下参展，其中473家为世界500强或行业龙头企业。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694822.shtml",
+      "publishedAt": "2026-09-11T10:09:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad#0",
+      "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+      "category": "国际",
+      "summary": "這次訪問的時機耐人尋味。金磚機制被視為美國主導的世界格局之外的另一種選擇，美國總統特朗普（Donald Trump）已多次對其發出威脅；與此同時，中印兩國在貿易、直航和邊界對話上悄然回溫。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T10:06:48.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694832.shtml",
+      "title": "三部门联合印发《数字乡村高质量发展行动计划（2026—2030年）》",
+      "category": "综合",
+      "summary": "中新网9月11日电 据“网信中国”微信公众号消息，近日，中央网信办、农业农村部、工业和信息化部联合印发《数字乡村高质量发展行动计划(2026—2030年)》(以下简称《行动计划》)，明确了“十五五”时期推进数字乡村高质量发展的思路目标、重点任务和政策举措。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694832.shtml",
+      "publishedAt": "2026-09-11T10:04:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694828.shtml",
+      "title": "新疆生产建设兵团原党委常委、副司令员李旭被“双开”",
+      "category": "综合",
+      "summary": "中新网9月11日电 据中央纪委国家监委网站消息，经中共中央批准，中央纪委国家监委对新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法问题进行了立案审查调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694828.shtml",
+      "publishedAt": "2026-09-11T10:02:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694827.shtml",
+      "title": "甘肃省委原常委、省政府原副省长雷思维被“双开”",
+      "category": "综合",
+      "summary": "中新网9月11日电 据中央纪委国家监委网站消息，经中共中央批准，中央纪委国家监委对甘肃省委原常委、省政府原副省长雷思维严重违纪违法问题进行了立案审查调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694827.shtml",
+      "publishedAt": "2026-09-11T10:01:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694815.shtml",
+      "title": "乌兰察布秋收一线观察：田间连车间，订单稳增收",
+      "category": "综合",
+      "summary": "中新网乌兰察布9月11日电 题：乌兰察布秋收一线观察：田间连车间，订单稳增收",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694815.shtml",
+      "publishedAt": "2026-09-11T09:59:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694809.shtml",
+      "title": "上海二中院一审公开宣判上实集团原总裁周军贪污、受贿案",
+      "category": "综合",
+      "summary": "中新网上海9月11日电 2026年9月11日，上海市第二中级人民法院一审公开宣判上海实业(集团)有限公司原总裁周军贪污、受贿一案，对被告人周军以贪污罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；以受贿罪判处有期徒刑十二年，并处罚金人民币二百万元，决定执行死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；违法所得及收益予以追缴，分",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694809.shtml",
+      "publishedAt": "2026-09-11T09:59:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694817.shtml",
+      "title": "多项自研装备上阵 狮子洋通道衔接段南中大桥拓宽提速",
+      "category": "综合",
+      "summary": "中新网中山9月11日电 (记者 蔡敏婕)11日，广东交通集团狮子洋通道与广中江高速公路衔接段项目(简称：狮子洋通道衔接段)南中大桥施工现场，八台C型智能安装台车如“钢铁龙门”般骑跨桥面，高压水力切割机器人正在进行精准作业......",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694817.shtml",
+      "publishedAt": "2026-09-11T09:58:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694818.shtml",
+      "title": "2026年第十届“919”邮政农品节在北京启动",
+      "category": "综合",
+      "summary": "中新网北京9月11日电 (记者 王梦瑶)9月11日上午，2026年第十届“919”邮政农品节启动仪式在北京举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694818.shtml",
+      "publishedAt": "2026-09-11T09:58:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694807.shtml",
+      "title": "新技术新成果云集第27届中国国际光电博览会",
+      "category": "综合",
+      "summary": "中新网深圳9月11日电 (记者 索有为)为期三天的第27届中国国际光电博览会(CIOE 2026)11日在深圳收官，本届展会以“AI+光电融合”为主线，展览面积达26万平方米，覆盖信息通信、精密光学、激光及智能制造、智能传感、新型显示、光电子创新等领域。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694807.shtml",
+      "publishedAt": "2026-09-11T09:55:56.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-11/10694816.shtml",
+      "title": "报告：直播、短剧和网文成文化新消费重要载体",
+      "category": "综合",
+      "summary": "中新网北京9月11日电 (记者 尹倩芸)《新大众文艺：直播、短剧与网文的文化新消费图景》报告日前在京发布。其中提出，直播、短剧和网文已成为文化新消费的重要载体。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-11/10694816.shtml",
+      "publishedAt": "2026-09-11T09:50:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694805.shtml",
+      "title": "沪市公募REITs完成中报披露：底层资产运营质量保持稳健",
+      "category": "综合",
+      "summary": "中新网上海9月11日电 (高志苗)记者11日从上海证券交易所获悉，截至8月末，沪市应披露中期报告的54只公募REITs(不动产投资信托基金)均已完成中期报告披露，在运营质效与投资者回报方面交出了一份扎实的“期中答卷”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694805.shtml",
+      "publishedAt": "2026-09-11T09:50:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694826.shtml",
+      "title": "王沪宁会见安哥拉国民议会议长德阿尔梅达",
+      "category": "综合",
+      "summary": "新华社北京9月11日电 全国政协主席王沪宁11日在京会见安哥拉国民议会议长德阿尔梅达。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694826.shtml",
+      "publishedAt": "2026-09-11T09:49:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-11/10694802.shtml",
+      "title": "2026南山科普大会在穗启幕 发布多套科普读物",
+      "category": "综合",
+      "summary": "中新网广州9月11日电 (记者 蔡敏婕)南山学术季·2026南山科普大会11日在广州开幕。大会集结院士专家、临床骨干、科研与科普工作者，集中发布多项科普成果与公益项目，搭建起科研、临床与大众沟通的桥梁，助力全民科学素养与健康素养双向提升。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694802.shtml",
+      "publishedAt": "2026-09-11T09:49:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694812.shtml",
+      "title": "新疆石河子推进全域绿色转型",
+      "category": "综合",
+      "summary": "中新网新疆石河子9月11日电 (史玉江)新疆生产建设兵团(下称“兵团”)第八师石河子市10日召开“低碳转型·新质驱动”绿色发展实践路径新闻发布会，该师市党委副书记、师长杨国勇表示，石河子立足重化工产业基底和兵团区域中心城市定位，以新质生产力驱动绿色低碳高质量发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694812.shtml",
+      "publishedAt": "2026-09-11T09:47:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694811.shtml",
+      "title": "AI赋能半导体产业 中国探索工业智能化落地",
+      "category": "综合",
+      "summary": "中新网武汉9月11日电 (记者 张芹)以“智能向芯 链动未来”为主题的2026AI生产力大会11日在武汉东湖高新区举行。来自政府主管部门、科研院所、半导体与工业软件产业链的代表，共同探索人工智能从技术能力走向工业生产力的实践路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694811.shtml",
+      "publishedAt": "2026-09-11T09:47:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694810.shtml",
+      "title": "首艘经平陆运河集装箱江船在钦州港顺利完成作业",
+      "category": "综合",
+      "summary": "中新网南宁9月11日电(陈涛 梁代嵩 潘耀艳)9月10日，首艘经平陆运河驶抵北部湾沿海港口的集装箱船舶“汇海5688”轮，在北部湾港钦州港区大榄坪南作业区1号泊位完成装船作业后驶离钦州港，这是北部湾港首次作业来自西江内河流域的集装箱船舶，标志着平陆运河江海联运全程贯通正式进入实航阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694810.shtml",
+      "publishedAt": "2026-09-11T09:47:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-11/10694801.shtml",
+      "title": "世界摩托车越野锦标赛上海站全部赛事物资通关 首批世界技能大赛物资运抵会场",
+      "category": "综合",
+      "summary": "中新网上海9月11日电 (记者 姜煜)9月10日晚，2026世界摩托车越野锦标赛中国上海站的51辆专业越野摩托赛车、35个配套高性能引擎、252条专用轮胎等全部赛事物资，在上海海关的监管下，顺利通关并运抵上海国际越野赛车场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-11/10694801.shtml",
+      "publishedAt": "2026-09-11T09:40:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-11/10694800.shtml",
+      "title": "河南集中销毁货值超7295万元侵权假冒伪劣商品",
+      "category": "综合",
+      "summary": "中新网郑州9月11日电 (记者 王宇)据河南省市场监督管理局消息，2026年侵权假冒伪劣商品全国统一销毁行动河南会场活动启动仪式10日在河南周口举行，集中销毁货值超7295万元的侵权假冒伪劣商品。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694800.shtml",
+      "publishedAt": "2026-09-11T09:37:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-11/10694803.shtml",
+      "title": "从后厨颠勺到指尖造艺 新疆兵团青年用面团捏出非遗新韵",
+      "category": "综合",
+      "summary": "中新网新疆新星9月11日电 (史玉江)在新疆生产建设兵团(下称“兵团”)第十三师新星市火箭农场一间不大的研学工作室里，彩色面团在35岁匠人张永正的指间揉搓、塑形、点染，片刻之间，关公威仪凛然、悟空灵动传神，栩栩如生。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10694803.shtml",
+      "publishedAt": "2026-09-11T09:36:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-11/10694798.shtml",
+      "title": "光彩事业高质量发展的理论实践",
+      "category": "综合",
+      "summary": "光彩事业是为配合国家八七扶贫攻坚计划，1994年发起，以民营经济人士为参与主体，秉持“义利兼顾、以义为先”理念，依托“光彩事业行”“万企兴万村”等载体，通过产业投资、公益帮扶双轮驱动，在欠发达地区发展产业、促进就业、改善民生，兼具政治性、社会性、公益性的特色社会事业。面对新形势、新任务，推动光彩事业高质量发展需要把握五对关系。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-11/10694798.shtml",
+      "publishedAt": "2026-09-11T09:33:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-11/10694797.shtml",
+      "title": "工商兴城 实业救国——重庆工商界历史名人②|李耀廷：商道维新 票号翘楚",
+      "category": "综合",
+      "summary": "一根扁担，挑起川滇茶盐；十万白银，破解朝廷饷荒。他是茶马古道的马帮少年，挑着扁担踏遍川滇险途；也是孙中山亲题“高瞻远瞩”的革命推手。他以卓越的商业智慧与深厚的家国情怀，在时代变迁中走出了一条以实业回馈社会、以金融推动变革的探索之路。他就是从云南昭通走出的实业家——李耀廷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-11/10694797.shtml",
+      "publishedAt": "2026-09-11T09:32:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-11/10694804.shtml",
+      "title": "【外链】通栏图：习近平赴印度出席金砖国家领导人第十八次会晤",
       "category": "综合",
       "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1204018.shtml",
-      "publishedAt": "2026-09-11T08:18:22.000Z",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-11/10694804.shtml",
+      "publishedAt": "2026-09-11T09:29:37.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +553,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694711.shtml",
-      "title": "两部门曝光6起地方政府隐性债务追责问责典型案例",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694793.shtml",
+      "title": "受权发布丨中华人民共和国国务院令 第846号",
       "category": "综合",
-      "summary": "新华社北京9月11日电 题：两部门曝光6起地方政府隐性债务追责问责典型案例",
+      "summary": "新华社北京9月11日电",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694711.shtml",
-      "publishedAt": "2026-09-11T08:05:52.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694793.shtml",
+      "publishedAt": "2026-09-11T09:18:46.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +571,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10694708.shtml",
-      "title": "涉帮助前防长潜逃案 尹锡悦一审被判无罪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694790.shtml",
+      "title": "受权发布丨市场监督管理所条例",
       "category": "综合",
-      "summary": "中新网9月11日电 据韩联社报道，韩国法院11日对前总统尹锡悦涉嫌帮助前国防部长官李钟燮潜逃海外案进行一审宣判，判定尹锡悦无罪。首尔中央地方法院刑事审判第22合议庭当天作出如上判决。",
+      "summary": "新华社北京9月11日电",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694708.shtml",
-      "publishedAt": "2026-09-11T08:05:10.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694790.shtml",
+      "publishedAt": "2026-09-11T09:17:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,92 +589,20 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694694.shtml",
-      "title": "（长征胜利90周年）420余件档案文献昆明展出 再现红军长征过云南历程",
-      "category": "综合",
-      "summary": "9月11日，观众在展厅内参观。中新社记者 李嘉娴 摄 9月11日，观众拍摄“1935年5月2日，朱德关于中央红军拟分别于龙街、洪门口、皎平渡渡金沙江给红三、红五军团的电”。中新社记者 李嘉娴 摄 9月11日，观众观看老船工照片。中新社记者 李嘉娴 摄 9月11日，观众观看“中央红军一渡赤水敌我形势图”。中新社记者 李嘉娴 摄 9月11日，观众观看“中央红军长",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694694.shtml",
-      "publishedAt": "2026-09-11T08:02:30.000Z",
+      "id": "sspai-https://sspai.com/post/114449",
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+      "category": "科技",
+      "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/114449",
+      "publishedAt": "2026-09-11T08:30:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694635.shtml",
-      "title": "航拍千年古村落福建政和杨源村 独具地方特色",
-      "category": "综合",
-      "summary": "图为9月10日，航拍村中一角，景色如画。(无人机照片)中新社记者 张斌 摄 图为9月10日，村中黑瓦土墙的老房子一幢挨着一幢。(无人机照片)中新社记者 张斌 摄 图为9月10日，村中黑瓦土墙的老房子一幢挨着一幢。(无人机照片)中新社记者 张斌 摄 图为9月10日，村中黑瓦土墙的老房子一幢挨着一幢。(无人机照片)中新社记者 张斌 摄 图为9月10日，村中一角。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694635.shtml",
-      "publishedAt": "2026-09-11T07:59:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-11/10694707.shtml",
-      "title": "河南平顶山市鲁山县聚焦为侨服务与作用发挥提升工作实效",
-      "category": "综合",
-      "summary": "近年来，鲁山县深入学习贯彻习近平总书记关于侨务工作的重要论述，认真履行侨务工作职能，最大限度凝聚海内外侨胞爱国爱家乡的磅礴力量，为推动地方经济社会高质量发展作出积极贡献。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-11/10694707.shtml",
-      "publishedAt": "2026-09-11T07:59:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-11/10694695.shtml",
-      "title": "民革河南周口市委会开展“博爱·牵手”关爱园林工人活动",
-      "category": "综合",
-      "summary": "9月4日，民革周口市委会七支部和民革周口中山艺术团在周口市植物园联合开展“博爱·牵手”关爱园林工人活动。民革周口市委会秘书长武新新，民革周口中山艺术团团长刘秋红，七支部主委李珍、副主委吕莉、党员周晓堂和爱心人士参加活动。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-11/10694695.shtml",
-      "publishedAt": "2026-09-11T07:58:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694709.shtml",
-      "title": "中印正在安排习近平主席同印度总理莫迪举行双边会晤",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (记者 张素)中国外交部发言人毛宁11日主持例行记者会。会上，有记者就中印领导人会晤一事提问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694709.shtml",
-      "publishedAt": "2026-09-11T07:58:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
       ],
       "hot": false
     },
@@ -229,348 +624,6 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694700.shtml",
-      "title": "中国稀土、钨等14种矿产储量居世界第一位",
-      "category": "综合",
-      "summary": "9月11日，自然资源部发布《中国矿产资源报告2026》，截至“十四五”末，中国稀土、钨、锡、钼等14种矿产储量居世界第一位；煤、铁、锰、钛等9种矿产储量居世界前四位。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694700.shtml",
-      "publishedAt": "2026-09-11T07:58:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694699.shtml",
-      "title": "洪秀柱：和平统一是实现两岸长治久安、推进民族复兴的康庄大道",
-      "category": "综合",
-      "summary": "中新社乌鲁木齐9月11日电 (李百加 李明非)中国国民党前主席、中华青雁和平教育基金会董事长洪秀柱11日在新疆乌鲁木齐表示，和平发展是两岸共同福祉，和平统一是实现两岸长治久安、推进民族复兴的康庄大道。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694699.shtml",
-      "publishedAt": "2026-09-11T07:57:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694691.shtml",
-      "title": "全国工商联社会服务委员会在北京成立",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 全国工商联社会服务委员会成立会议10日在北京召开。全国工商联副主席方光华，全国工商联社会服务委员会主任、牧原食品集团股份有限公司终身荣誉董事长秦英林出席会议并讲话。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694691.shtml",
-      "publishedAt": "2026-09-11T07:57:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694688.shtml",
-      "title": "中国农业银行安徽省分行原行长张春林被查",
-      "category": "综合",
-      "summary": "中新网9月11日电 据中央纪委国家监委驻中国农业银行纪检监察组、湖南省纪委监委消息：中国农业银行安徽省分行原党委书记、行长张春林涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国农业银行纪检监察组纪律审查和湖南省常德市监委监察调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694688.shtml",
-      "publishedAt": "2026-09-11T07:56:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-11/10694698.shtml",
-      "title": "中国男篮大胜哈萨克斯坦队 为中国代表团收获亚运会“开门红”",
-      "category": "综合",
-      "summary": "中新社日本名古屋9月11日电 当地时间11日，第二十届亚洲运动会男篮项目在日本爱知县名古屋市继续小组赛的较量，中国男篮首战以99:61大胜哈萨克斯坦队，为中国体育代表团收获“开门红”。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-11/10694698.shtml",
-      "publishedAt": "2026-09-11T07:56:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694706.shtml",
-      "title": "中方：始终坚持人工智能向善发展，坚决反对歪曲事实",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (记者 张素)中国外交部发言人毛宁11日主持例行记者会。会上，有记者就美国人工智能公司发布报告涉华内容提问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694706.shtml",
-      "publishedAt": "2026-09-11T07:55:57.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694686.shtml",
-      "title": "市场监管总局公布一批打击劣质低价典型案例",
-      "category": "综合",
-      "summary": "中新网9月11日电 据“市说新语”微信公众号消息，为深入整治“内卷式”竞争，规范价格竞争秩序，守牢产品质量安全底线，2026年，市场监管总局部署开展打击劣质低价专项行动。各级市场监管部门聚焦重点领域，依法查处一批典型案件，有力遏制劣质低价竞争。现选取部分典型案例予以公布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694686.shtml",
-      "publishedAt": "2026-09-11T07:55:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-11/10694683.shtml",
-      "title": "舞剧《栋梁》杭州首演 再现林徽因梁思成一代学人风骨",
-      "category": "综合",
-      "summary": "中新网杭州9月11日电(曹丹)9月10日晚，原创舞剧《栋梁》在浙江杭州运河大剧院首演。该剧以中国第一位女建筑师林徽因的人生经历为主线，塑造出林徽因、梁思成及中国营造学社同仁踏遍山河、守护文脉的知识分子群像。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-11/10694683.shtml",
-      "publishedAt": "2026-09-11T07:55:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694682.shtml",
-      "title": "佳木斯至同江铁路扩能改造工程佳富线实现双线开通运营",
-      "category": "综合",
-      "summary": "中新网哈尔滨9月11日电 (张学鹏)9月10日，佳木斯至同江铁路扩能改造工程控制性区段——佳富线双线开通运营，有力提升中欧班列“东通道”运输效率。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694682.shtml",
-      "publishedAt": "2026-09-11T07:55:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694680.shtml",
-      "title": "大庆钻探自研简易多功能控压系统川渝首试成功",
-      "category": "综合",
-      "summary": "中新网大庆9月11日电 (余虹娜 杨晓丹)11日，大庆钻探对外发布，大庆钻探工程技术研究院自主研发的简易多功能控压系统，在川渝地区潼深50井圆满完成首次现场工业应用，标志着川渝深层油气钻井技术装备取得新突破。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694680.shtml",
-      "publishedAt": "2026-09-11T07:55:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694679.shtml",
-      "title": "《浙江美妆好礼通用规范》团体标准发布",
-      "category": "综合",
-      "summary": "中新网杭州9月11日电 (潘沁文)2026CBE杭州国际美容博览会10日在浙江杭州启幕，当晚，《浙江美妆好礼通用规范》团体标准(以下简称“标准”)正式发布，为美妆产品作为城市特色礼品的评价提供技术依据。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694679.shtml",
-      "publishedAt": "2026-09-11T07:55:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694697.shtml",
-      "title": "中国提出到2030年人工智能与软件和信息技术服务业融合发展实现新跃升",
-      "category": "综合",
-      "summary": "中新社北京9月11日电 (记者 刘亮)中国工信部11日公布的一份文件提出，到2030年，人工智能与软件和信息技术服务业融合发展实现新跃升。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694697.shtml",
-      "publishedAt": "2026-09-11T07:54:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694705.shtml",
-      "title": "中国外交部：各国都应当保障企业正常的投资经营活动",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (记者 张素)中国外交部发言人毛宁11日主持例行记者会。会上，有记者就韩国修订防范工业间谍相关法律一事提问。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694705.shtml",
-      "publishedAt": "2026-09-11T07:54:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694704.shtml",
-      "title": "时习之｜国之利器赖以强",
-      "category": "综合",
-      "summary": "科技兴则民族兴，科技强则国家强。新时代以来，习近平总书记始终把科技创新摆在国家发展全局的核心位置，亲自谋划、大力推动高水平科技自立自强。大党大国领袖的远见卓识，引领着中华民族在攀登科技高峰的征程中阔步前行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694704.shtml",
-      "publishedAt": "2026-09-11T07:53:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694703.shtml",
-      "title": "外交部：中国的创新从不谋求垄断，愿与世界共享创新红利",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (记者 张素 李京泽)中国外交部发言人毛宁11日主持例行记者会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694703.shtml",
-      "publishedAt": "2026-09-11T07:53:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694702.shtml",
-      "title": "中方：有关方面应停止就香港特区司法案件审理发表不负责任的言论",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (记者 张素)中国外交部发言人毛宁11日主持例行记者会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694702.shtml",
-      "publishedAt": "2026-09-11T07:52:39.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10694696.shtml",
-      "title": "临时调控再出手！油价少涨了",
-      "category": "综合",
-      "summary": "中新网北京9月11日电(记者 张尼)油价将迎来新一轮调整。据国家发改委消息，根据现行价格机制计算，9月11日国内汽、柴油(标准品)价格每吨分别应上调435元、420元，调控后实际上调260元、250元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694696.shtml",
-      "publishedAt": "2026-09-11T07:51:51.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694685.shtml",
-      "title": "厦门集美面向两岸启动短剧作品征集",
-      "category": "综合",
-      "summary": "中新网厦门9月11日电 (吴冠标)11日，2026海峡两岸(厦门)短剧交流汇新闻发布会在厦门集美举行。发布会现场，集美区面向两岸启动短剧作品征集、企业参会邀约及两岸AI短剧培训交流营招募计划。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694685.shtml",
-      "publishedAt": "2026-09-11T07:50:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-11/10694689.shtml",
-      "title": "上海金山农民画亮相布鲁塞尔",
-      "category": "综合",
-      "summary": "中新网布鲁塞尔9月11日电 (记者 德永健)以“沃野芬芳”为主题，独具特色的上海金山农民画10日亮相布鲁塞尔，一展中国现代民间绘画的风采。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/hr/2026/09-11/10694689.shtml",
-      "publishedAt": "2026-09-11T07:48:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq63868gq5qo/trad#0",
       "title": "香港支聯會「煽動顛覆」案：被告們的伴侶與戰友",
       "category": "国际",
@@ -584,24 +637,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10694701.shtml",
-      "title": "微视频｜总书记心中的好老师",
-      "category": "综合",
-      "summary": "视频：微视频｜总书记心中的好老师来源：新华社",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10694701.shtml",
-      "publishedAt": "2026-09-11T07:46:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
       ],
       "hot": false
     },
@@ -710,7 +745,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgwygp9nero/trad#1",
       "title": "「無時無刻都在想」：911事件25年後審訊仍未了，遇難者家屬傷痛難癒",
       "category": "国际",
       "summary": "四分之一個世紀過去了，被指策劃這場襲擊的主謀審訊仍未展開，遇難者家屬擔心，等待正義的時間已經所剩不多。",
@@ -1117,7 +1152,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad#5",
       "title": "董建華逝世：從船王富二代到香港首任特首，中共的「親密朋友」",
       "category": "国际",
       "summary": "中國全國政協前副主席，香港首任特首董建華逝世，享年89歲。他的前半生見證主權移交前香港的東方之珠年代，後半生更走入最高行政當局左右香港的前途。",
@@ -1159,24 +1194,6 @@
       "sourceId": "sspai",
       "url": "https://sspai.com/post/113842",
       "publishedAt": "2026-09-09T07:03:35.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
-      "id": "sspai-https://sspai.com/post/113668",
-      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
-      "category": "科技",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/113668",
-      "publishedAt": "2026-09-09T03:00:48.000Z",
       "tags": [
         "科技",
         "效率",
@@ -1662,23 +1679,6 @@
         "教育",
         "健康",
         "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad#5",
-      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-      "category": "国际",
-      "summary": "例如，同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T00:24:43.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
       ],
       "hot": false
     },
