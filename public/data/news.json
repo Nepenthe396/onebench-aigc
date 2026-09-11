@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T14:29:37.827Z",
-  "expiresAt": "2026-09-11T20:29:37.827Z",
+  "generatedAt": "2026-09-11T16:29:40.903Z",
+  "expiresAt": "2026-09-11T22:29:40.903Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,312 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml",
+      "title": "菲律宾海警：巴拉望省近海起火客船发现30具遗体",
+      "category": "综合",
+      "summary": "中新社马尼拉9月11日电 (记者 周璟)菲律宾海岸警卫队11日表示，在巴拉望省附近海域起火的“June Aster”号客船上发现30具遗体，使事故确认死亡人数增至35人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml",
+      "publishedAt": "2026-09-11T15:53:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml",
+      "title": "百公里11.5度电！2030年新能源汽车什么样？",
+      "category": "综合",
+      "summary": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶”、国内市场新能源乘用车新车总销量占比达到70%……可以说目标相当明确。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml",
+      "publishedAt": "2026-09-11T15:21:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695083.shtml",
+      "title": "“9·11”事件25周年：“他们为什么恨我们？”美国至今答不上来",
+      "category": "综合",
+      "summary": "中新网9月11日电 题： “9·11”事件25周年：“他们为什么恨我们？”美国至今答不上来",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695083.shtml",
+      "publishedAt": "2026-09-11T14:54:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695012.shtml",
+      "title": "泰国清迈府代表团一行考察青海光伏产业及生态旅游发展",
+      "category": "综合",
+      "summary": "图为泰国清迈府副府尹西瓦功·布蓬(左二)在塔拉滩光伏产业园区了解当地“板上发电、板间种草、板下放牧”绿色发展模式。中新社记者 马铭言 摄 图为由泰国清迈府副府尹西瓦功·布蓬(左一)率领的代表团一行在塔拉滩光伏产业园区了解当地发展光伏产业带动农牧民就业增收情况。中新社记者 马铭言 摄 图为泰国清迈府代表团成员在塔拉滩光伏产业园区内参观。中新社记者 马铭言 摄 ",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695012.shtml",
+      "publishedAt": "2026-09-11T14:53:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695082.shtml",
+      "title": "话剧《寻味》：两岸戏剧人共述“回家”故事",
+      "category": "综合",
+      "summary": "中新社北京9月11日电 (记者 张杨彬)上海话、温州话、四川话、广东话……话剧《寻味》11日在北京上演。舞台上各地方言交织，台湾演员李志希对此并不陌生——他幼时曾到二伯居住的眷村玩耍，他说，真实的眷村就是这样，方言、食物与乡愁融在一起。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695082.shtml",
+      "publishedAt": "2026-09-11T14:52:45.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695010.shtml",
+      "title": "海外华校教师探访陕西黄河文化博物馆",
+      "category": "综合",
+      "summary": "图为海外华校教师在陕西黄河文化博物馆内仔细聆听讲解员介绍。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内拍照。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内参观游览。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内仔细聆听讲解员介绍。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内，通过互动装置了解黄河文化。 胡捷 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695010.shtml",
+      "publishedAt": "2026-09-11T14:52:35.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695006.shtml",
+      "title": "“自然之序——程一峰雕塑作品展”开幕式在广州举行",
+      "category": "综合",
+      "summary": "9月11日，“自然之序——程一峰雕塑作品展”开幕式在广州市广东美术馆新馆举行。本次展览展出雕塑家程一峰30余件作品。图为作品《畛域 No.2》吸引参观者拍照。中新社记者 陈楚红 摄 9月11日，“自然之序——程一峰雕塑作品展”开幕式在广州市广东美术馆新馆举行。本次展览展出雕塑家程一峰30余件作品。图为作品《2024年NO.1》。中新社记者 陈楚红 摄 9月1",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695006.shtml",
+      "publishedAt": "2026-09-11T14:51:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695002.shtml",
+      "title": "巴丹吉林沙漠上演非遗那达慕",
+      "category": "综合",
+      "summary": "图为射箭赛场上，选手拉满长弓，凝神瞄准靶心。中新社记者 陈峰 摄 图为在驼球比赛中，选手们驾驭骆驼在沙地上奋力奔跑。中新社记者 陈峰 摄 图为蒙古族象棋比赛中，棋手们切磋棋艺。中新社记者 陈峰 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695002.shtml",
+      "publishedAt": "2026-09-11T14:50:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695001.shtml",
+      "title": "内地及港澳11支消防队伍齐聚华山练兵",
+      "category": "综合",
+      "summary": "图为消防人员在华山东峰下棋亭进行峡谷模拟救援。 陕西消防供图 图为消防人员在复杂崖壁救援项目中对模拟伤员进行转移。 陕西消防供图 图为消防人员在山野失联事故救援项目中转运模拟受伤人员。 陕西消防供图 图为消防人员开展缆车事故模拟救援。 陕西消防供图 图为消防人员在华山东峰前坡开展复杂崖壁模拟救援。 陕西消防供图 图为消防人员在垂直崖壁救援项目中进行下放作业。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695001.shtml",
+      "publishedAt": "2026-09-11T14:49:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695000.shtml",
+      "title": "漫山层叠！海外华媒沉醉紫鹊界梯田美景",
+      "category": "综合",
+      "summary": "9月11日，海外华文媒体代表走进湖南娄底新化紫鹊界梯田，漫山梯田层层叠叠，风光如画。图为游客观赏梯田。中新社记者 杨华峰 摄 9月11日，海外华文媒体代表走进湖南娄底新化紫鹊界梯田，漫山梯田层层叠叠，风光如画。图为梯田上的蚩尤图案。(无人机照片)中新社记者 杨华峰 摄 9月11日，海外华文媒体代表走进湖南娄底新化紫鹊界梯田，漫山梯田层层叠叠，风光如画。图为梯",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695000.shtml",
+      "publishedAt": "2026-09-11T14:48:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695081.shtml",
+      "title": "金砖国家工商论坛在新德里举行",
+      "category": "综合",
+      "summary": "金砖国家工商论坛11日在印度首都新德里举行，重点讨论增强供应链韧性、农产品与农业科技创新、服务贸易、数字经济等议题。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695081.shtml",
+      "publishedAt": "2026-09-11T14:48:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694987.shtml",
+      "title": "张国荣纪念展香港开幕 珍贵照片重现流行文化经典",
+      "category": "综合",
+      "summary": "图为展览重现冲洗照片的过程。中新网记者 陈永诺 摄 图为展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士观看展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士拍摄展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士与展出的张国荣照片合影。中新网记者 陈永诺 摄 图为展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士拍摄展出的张国荣照片。中新网",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694987.shtml",
+      "publishedAt": "2026-09-11T14:47:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694985.shtml",
+      "title": "第十六届智慧城市与智能经济博览会在浙江宁波开幕",
+      "category": "综合",
+      "summary": "9月11日，开幕活动现场。当日，第十六届智慧城市与智能经济博览会在浙江宁波开幕。本届博览会以“AI智变，慧聚未来”为主题，设置数智科创、AI+制造、智能产品、数字产业、智慧城市五大主题展馆。中新社记者 刘子琳 摄 9月11日，第十六届智慧城市与智能经济博览会现场。当日，第十六届智慧城市与智能经济博览会在浙江宁波开幕。本届博览会以“AI智变，慧聚未来”为主题，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694985.shtml",
+      "publishedAt": "2026-09-11T14:45:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694960.shtml",
+      "title": "（活力中国调研行）河南安阳：实景演出再现红旗渠开凿场景",
+      "category": "综合",
+      "summary": "9月11日，河南省安阳林州市红旗渠风景区，演员以实景演出《红旗渠之歌》，再现20世纪60年代林县(今安阳林州市)人民在太行山上开凿红旗渠的场景。中新社记者 范晓恒 摄 9月11日，河南省安阳林州市红旗渠风景区，演员以实景演出《红旗渠之歌》，再现20世纪60年代林县(今安阳林州市)人民在太行山上开凿红旗渠的场景。中新社记者 范晓恒 摄 9月11日，河南省安阳林",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694960.shtml",
+      "publishedAt": "2026-09-11T14:45:01.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
+      "title": "2026中国（广西）—东盟青少年无人机足球邀请赛开赛",
+      "category": "综合",
+      "summary": "图为比赛现场。潘信安 摄 图为比赛现场。潘信安 摄 图为比赛现场。杨滔 摄 图为比赛现场。杨滔 摄 图为开幕式文艺表演现场。农佳菁 摄 图为比赛开幕式现场。杨滔 摄 图为东盟国家的参赛队伍。农佳菁 摄 图为参赛选手合影。农佳菁 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694950.shtml",
+      "publishedAt": "2026-09-11T14:37:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694940.shtml",
+      "title": "135件（组）新疆文物精品亮相浙江嘉兴",
+      "category": "综合",
+      "summary": "9月11日，游人在拍摄新疆维吾尔自治区博物馆藏唐代文物《彩绘骑马武士俑》。中新社记者 孙琳茹 摄 9月11日，游人在欣赏新疆维吾尔自治区博物馆藏唐代文物《彩绘骑马武士俑》。中新社记者 孙琳茹 摄 9月11日，游人正在拍摄汉代文物《“五星出东方利中国”锦护臂》(复制品)。中新社记者 孙琳茹 摄 9月11日，游人在观看《丝绸之路物产交流一览表》。中新社记者 孙琳",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694940.shtml",
+      "publishedAt": "2026-09-11T14:34:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
+      "title": "服务消费如何高质量发展？多方共探新路径",
+      "category": "综合",
+      "summary": "中新网北京9月11日电 (钟余)2026年中国国际服务贸易交易会主题论坛——2026国际消费趋势大会暨服务消费高质量发展论坛日前在首钢园举行，本次论坛以“开放合作共赢 创新服务消费”为主题，围绕内外市场融通、服务消费创新等议题展开研讨，探寻服务消费高质量发展新路径。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695074.shtml",
+      "publishedAt": "2026-09-11T14:31:12.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695070.shtml",
       "title": "lululemon营收下滑，千元瑜伽裤不香了？",
@@ -256,312 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695047.shtml",
       "publishedAt": "2026-09-11T14:03:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-11/10695031.shtml",
-      "title": "绘梨园戏韵 电视剧《云雀叫天录》看片会举行",
-      "category": "综合",
-      "summary": "中新网北京9月11日电 (记者 高凯)“云雀声起戏韵长鸣”，以京剧为媒，用兼具底蕴与温度的影像叙事，唤醒沉淀千年的梨园文脉，年代梨园传奇大剧《云雀叫天录》看片会日前在北京举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-11/10695031.shtml",
-      "publishedAt": "2026-09-11T14:03:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/09-11/10695033.shtml",
-      "title": "“一带一路”共建国家经贸交流会暨侨助千企万品出海行动在贵阳举行",
-      "category": "综合",
-      "summary": "中新社贵阳9月11日电 (记者 张伟 杨茜)以“丝路同心聚侨力·经贸共兴向未来”为主题的2026年“一带一路”共建国家经贸交流会暨侨助千企万品出海行动在贵州省贵阳市举行，吸引共建“一带一路”沿线国家政府官员、驻华使节、国际商协会代表，50个国家和地区海外贵州侨团、友好侨团代表等参与。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ydyl/2026/09-11/10695033.shtml",
-      "publishedAt": "2026-09-11T14:02:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695045.shtml",
-      "title": "海南产经新观察：资源要素“巧”配置 产业发展添动能",
-      "category": "综合",
-      "summary": "中新网海口9月11日电(记者 王子谦)近日，记者走进位于海南昌江黎族自治县的中核海南产业合作示范区，海南海顺塑业有限公司正调试生产设备，即将投产深海养殖配套装备。“我们无需拿地新建工厂，只需承租高标准厂房。”海顺塑业技术顾问王应朋告诉中新网记者，这种“拎包入住”的方式，为企业节省大量成本。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695045.shtml",
-      "publishedAt": "2026-09-11T14:02:56.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-11/10695025.shtml",
-      "title": "第16届全国残疾人健身周天津主场活动暨京津冀残疾人体育嘉年华启幕",
-      "category": "综合",
-      "summary": "中新网天津9月11日电 (薛淳月)第16届全国残疾人健身周天津主场活动暨京津冀残疾人体育嘉年华10日在天津启幕。来自京津冀三地的残疾人代表、体育工作者和高校志愿者参加活动，体育展演、趣味比赛、科技体验等项目相继展开。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-11/10695025.shtml",
-      "publishedAt": "2026-09-11T14:02:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695037.shtml",
-      "title": "第十六次亚太经合组织能源部长会议发布核心共识成果",
-      "category": "综合",
-      "summary": "中新社北京9月11日电 (记者 王梦瑶)第十六次亚太经合组织能源部长会议11日在北京闭幕，《2026年APEC能源部长会议联合声明》同日发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695037.shtml",
-      "publishedAt": "2026-09-11T14:02:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695026.shtml",
-      "title": "国铁广州局今年中秋国庆假期运输预计送客3860万人次",
-      "category": "综合",
-      "summary": "中新网广州9月11日电 (郭军 资明兴 黄瑜楚)据国铁广州局11日获悉，2026年铁路中秋国庆假期运输自9月23日启动，至10月8日结束。9月25日中秋节当日火车票11日起售。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695026.shtml",
-      "publishedAt": "2026-09-11T14:02:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695038.shtml",
-      "title": "专家：中国下一代碳卫星将有能力区分碳汇和碳排放",
-      "category": "综合",
-      "summary": "中新社北京9月11日电 中国科学院大气物理研究所(大气所)11日披露，中国科学家团队提出并研制的面向中国下一代碳卫星(TanSat-2)碳监测、核算的新方法、新系统，在仿真观测中，成功实现碳汇和人为碳排放的区分核算。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695038.shtml",
-      "publishedAt": "2026-09-11T14:01:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695023.shtml",
-      "title": "河南农大玉米新品种连续三年推广面积居全国第一",
-      "category": "综合",
-      "summary": "中新网郑州9月11日电 (记者 李超庆)记者11日从河南农业大学获悉，正在安徽合肥举行的第二十三届全国种子信息交流与产品交易会上，全国农业技术推广服务中心发布了“2025年度全国玉米推广面积前十大品种”。其中，河南农业大学汤继华教授团队选育的耐密高产玉米新品种MY73以2894万亩推广面积位居榜首，这也是该品种连续三年推广面积居全国第一。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695023.shtml",
-      "publishedAt": "2026-09-11T14:01:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-11/10695029.shtml",
-      "title": "云南元江成功引种矮种椰子 干热河谷结出“海岸特产”",
-      "category": "综合",
-      "summary": "中新网云南玉溪9月11日电 (陈卓 何磊)中共元江县委宣传部11日消息，位于该县的中国萨王纳植物园种植示范基地的12亩椰子试验田于近日结束今年的采摘季。依托得天独厚的干热河谷光热水土资源，元江县成功引种矮种椰子“文椰2号”“文椰3号”，让“海岸特产”在河谷热土落地结果，填补云南干热河谷椰子产业种植的空白。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10695029.shtml",
-      "publishedAt": "2026-09-11T14:01:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695035.shtml",
-      "title": "长三角两岸青年龙舟友谊赛在沪举行",
-      "category": "综合",
-      "summary": "中新社上海9月11日电 (范宇斌)第二届“青龙同舟”长三角两岸青年龙舟友谊赛11日在上海市青浦区水城门水域开赛。本次赛事吸引台湾地区，和长江三角洲地区上海青浦、江苏吴江、浙江嘉善共9支青年队伍参赛，设置12人混合龙舟400米直道竞速项目，旨在以传统龙舟文化为纽带，深化两岸青年交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695035.shtml",
-      "publishedAt": "2026-09-11T14:01:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695036.shtml",
-      "title": "中国官方加强期货公司监管",
-      "category": "综合",
-      "summary": "中新社北京9月11日电 (记者 陈康亮)据中国证监会11日消息，证监会已修订《期货公司监督管理办法》(下称《办法》)，并制定了《关于实施〈期货公司监督管理办法〉有关事项的公告》(下称《实施公告》)。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695036.shtml",
-      "publishedAt": "2026-09-11T14:00:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695039.shtml",
-      "title": "前8月广州南沙汽车口岸外贸汽车出口同比增近五成",
-      "category": "综合",
-      "summary": "中新社广州9月11日电 (记者 蔡敏婕)广州港集团11日发布消息称，今年以来，广州港南沙汽车口岸外贸业务增长动能强劲，1月至8月外贸汽车出口量同比增长近50%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695039.shtml",
-      "publishedAt": "2026-09-11T14:00:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-11/10695040.shtml",
-      "title": "欧洲9国旅行商与媒体考察团走进宁夏",
-      "category": "综合",
-      "summary": "中新社银川9月11日电 (记者 于晶)由中国文化和旅游部国际交流与合作局组织的欧洲旅行商及旅游媒体考察团11日抵达银川，开启为期五天四晚的深度踩线考察。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-11/10695040.shtml",
-      "publishedAt": "2026-09-11T14:00:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1204038.shtml",
-      "title": "北京永定河水上巴士通航试运营",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1204038.shtml",
-      "publishedAt": "2026-09-11T13:56:31.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695017.shtml",
-      "title": "内蒙古自治区阿拉善盟原副盟长刘德被开除公职",
-      "category": "综合",
-      "summary": "中新网9月11日电 据内蒙古自治区纪委监委消息：经内蒙古自治区党委批准，内蒙古自治区监委对阿拉善盟原副盟长、九三学社内蒙古自治区委员会副主委刘德严重违法问题进行了立案调查。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695017.shtml",
-      "publishedAt": "2026-09-11T13:48:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695022.shtml",
-      "title": "甘肃省委：坚决拥护党中央对雷思维开除党籍、开除公职的决定",
-      "category": "综合",
-      "summary": "省委常委会召开会议 省委书记胡昌升主持",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695022.shtml",
-      "publishedAt": "2026-09-11T13:46:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1204033.shtml",
-      "title": "2026服贸会：健康养生受关注",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-11/1204033.shtml",
-      "publishedAt": "2026-09-11T13:45:33.000Z",
       "tags": [
         "国内",
         "社会",
@@ -871,7 +871,7 @@
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142770",
       "title": "“9·11”事件25周年：联合国重申反恐与维护人权共同责任",
       "category": "国际",
-      "summary": "值此“9·11”恐怖袭击事件25周年之际，联合国秘书长发言人和联合国人权事务高级专员办事处分别发表声明，缅怀遇难者，向幸存者和首批救援人员致敬，并强调打击恐怖主义与维护人权是共同责任。",
+      "summary": "在周五“9·11”恐怖袭击事件25周年之际，联合国秘书长发言人和联合国人权事务高级专员办事处分别发表声明，缅怀遇难者，向幸存者和首批救援人员致敬，并强调打击恐怖主义与维护人权是共同责任。",
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142770",
