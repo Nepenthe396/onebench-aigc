@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T14:27:42.251Z",
-  "expiresAt": "2026-09-12T20:27:42.251Z",
+  "generatedAt": "2026-09-12T16:27:39.553Z",
+  "expiresAt": "2026-09-12T22:27:39.553Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,150 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695496.shtml",
+      "title": "习近平会见印度总理莫迪",
+      "category": "综合",
+      "summary": "中新社新德里9月12日电 （记者 郭金超 黄钰钦）当地时间9月12日下午，中国国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695496.shtml",
+      "publishedAt": "2026-09-12T15:54:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
+      "title": "中国男篮大胜巴林队 提前晋级亚运会八强",
+      "category": "综合",
+      "summary": "中新社名古屋9月12日电 当地时间12日，在日本爱知县名古屋市进行的第二十届亚洲运动会男篮项目C组小组赛中，中国男篮以105:59大胜巴林队，收获小组赛两连胜，提前锁定八强席位。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695494.shtml",
+      "publishedAt": "2026-09-12T15:23:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
+      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+      "category": "综合",
+      "summary": "新华社莫斯科9月12日电(记者侯鸣)9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
+      "publishedAt": "2026-09-12T14:52:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695490.shtml",
+      "title": "习近平会见印度总理莫迪",
+      "category": "综合",
+      "summary": "新华社新德里9月12日电(记者郝薇薇#8195;刘锴)当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695490.shtml",
+      "publishedAt": "2026-09-12T14:49:09.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
+      "title": "中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅",
+      "category": "综合",
+      "summary": "中新网北京9月12日电(记者 高萌)当开学典礼遇上大雨，作为校长是选择念完准备好的发言稿，还是让同学们先避雨？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
+      "publishedAt": "2026-09-12T14:31:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
+      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+      "category": "综合",
+      "summary": "中新社上海9月12日电 (范宇斌)距离9月22日启幕的第48届世界技能大赛(简称“世赛”)仅剩10天，各项筹备工作已进入收官冲刺阶段。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
+      "publishedAt": "2026-09-12T14:28:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
+      "title": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+      "category": "综合",
+      "summary": "中新社上海9月12日电 (范宇斌)由上海中华职业教育社主办的2026职业教育海上对话创享会12日至13日在上海举行。来自德国等国家驻华机构代表，以及长三角、粤港澳等地区教育界、科技界、产业界代表共500余人参会。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
+      "publishedAt": "2026-09-12T14:28:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
+      "title": "两岸资深电影人热议闽南语电影创作",
+      "category": "综合",
+      "summary": "中新社福建平潭9月12日电 (记者 闫旭)“闽台有共同的信仰，也有深厚的情感联结。”台湾资深电影人叶如芬12日在平潭表示，从宗族、祖籍地、下南洋这些历史叙事，到如今的青年逐梦等，这些作为题材，用闽台共同熟悉的语言合拍闽南语电影，可以成为联结起两岸甚至东南亚的情感纽带。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
+      "publishedAt": "2026-09-12T14:25:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695481.shtml",
       "title": "详讯：习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
@@ -418,150 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695474.shtml",
       "publishedAt": "2026-09-12T13:16:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695476.shtml",
-      "title": "习近平在金砖国家领导人第十八次会晤第一阶段会议的讲话（全文）",
-      "category": "综合",
-      "summary": "新华社新德里9月12日电",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695476.shtml",
-      "publishedAt": "2026-09-12T13:16:18.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695470.shtml",
-      "title": "西藏印社在拉萨成立",
-      "category": "综合",
-      "summary": "中新网拉萨9月12日电(记者 赵延)9月12日上午，西藏印社成立大会暨第一次会员代表大会在西藏美术馆学术报告厅举行。经西藏自治区民政厅、西藏自治区文联批准，西藏印社正式挂牌成立。当日，“印镌雪域——庆祝中国共产党成立105周年、西藏和平解放75周年暨西藏印社成立篆刻展”(以下简称：“印镌雪域”)同步开展。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695470.shtml",
-      "publishedAt": "2026-09-12T13:15:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695450.shtml",
-      "title": "服贸会期间多项法商服务成果在北京发布",
-      "category": "综合",
-      "summary": "中新网北京9月12日电 (记者 陈杭)2026年中国国际服务贸易交易会期间，第一届“一带一路”法商服务保障发布会11日在北京举办，集中发布《全球数据跨境流动治理实践》等法商服务成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695450.shtml",
-      "publishedAt": "2026-09-12T13:15:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204109.shtml",
-      "title": "媒体记者关注金砖国家领导人第十八次会晤",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204109.shtml",
-      "publishedAt": "2026-09-12T13:14:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695436.shtml",
-      "title": "服贸会期间北京石景山具身智能训练中心升级亮相",
-      "category": "综合",
-      "summary": "中新网北京9月12日电 (记者 陈杭)记者12日从北京市石景山区获悉，2026年服贸会期间，北京市石景山区人形机器人数据训练中心一期正式升级，以石景山具身智能训练中心的全新身份亮相。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695436.shtml",
-      "publishedAt": "2026-09-12T13:14:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695456.shtml",
-      "title": "（乡村行·看振兴）黑龙江勃利：近20万亩红松丰收 小松塔成“致富果”",
-      "category": "综合",
-      "summary": "中新网七台河9月12日电 题：黑龙江勃利：近20万亩红松丰收 小松塔成“致富果”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695456.shtml",
-      "publishedAt": "2026-09-12T13:14:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695423.shtml",
-      "title": "张雪：期待中国用5年至10年培养出自己的摩托车世界冠军",
-      "category": "综合",
-      "summary": "中新社上海9月12日电 (记者 缪璐)2026年世界摩托车越野锦标赛(MXGP)中国上海站12日举行。中国摩托车制造商“张雪机车”创始人张雪现身赛场。他表示，车队已经开始资助一些少年车手到欧洲训练，明年会加大资助比重，期待用5年至10年培养出一位中国自己的世界冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695423.shtml",
-      "publishedAt": "2026-09-12T13:12:06.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695420.shtml",
-      "title": "全球航标业者浙江温州感触古今“中外交流”",
-      "category": "综合",
-      "summary": "中新社浙江温州9月12日电 (周健)参加2026年国际海上导助航高级管理人员培训班的近20名全球航标管理机构代表12日来到温州，参观游览温州朔门古港遗址、江心屿双塔、温州肯恩大学等地，感触古今“中外交流”，增进中外友谊。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695420.shtml",
-      "publishedAt": "2026-09-12T13:11:44.000Z",
       "tags": [
         "国内",
         "社会",
