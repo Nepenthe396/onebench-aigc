@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T04:27:51.274Z",
-  "expiresAt": "2026-09-12T10:27:51.274Z",
+  "generatedAt": "2026-09-12T06:32:23.021Z",
+  "expiresAt": "2026-09-12T12:32:23.021Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,258 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204067.shtml",
+      "title": "2026年服贸会迎公众开放日",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204067.shtml",
+      "publishedAt": "2026-09-12T06:11:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695227.shtml",
+      "title": "习近平抵达新德里，出席金砖国家领导人第十八次会晤",
+      "category": "综合",
+      "summary": "新华社快讯：当地时间12日中午，国家主席习近平抵达印度新德里，出席金砖国家领导人第十八次会晤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695227.shtml",
+      "publishedAt": "2026-09-12T06:10:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695225.shtml",
+      "title": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位”",
+      "category": "综合",
+      "summary": "AI开始能够解决越来越难的数学问题之后，一批世界顶尖数学家却发出了警告：如果AI越来越快地给出答案，数学可能失去一些比答案更重要的东西。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695225.shtml",
+      "publishedAt": "2026-09-12T06:00:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695224.shtml",
+      "title": "“圈养雪豹博流量” ？ 救护中心用科普回应谣言",
+      "category": "综合",
+      "summary": "真相来了丨“圈养雪豹博流量” ？ 救护中心用科普回应谣言",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695224.shtml",
+      "publishedAt": "2026-09-12T05:56:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695174.shtml",
+      "title": "2026巴黎设计周中国创新馆开馆仪式举行",
+      "category": "综合",
+      "summary": "中新网巴黎9月12日电 2026巴黎设计周中国创新馆开馆仪式当地时间10日举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695174.shtml",
+      "publishedAt": "2026-09-12T05:55:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695173.shtml",
+      "title": "莫桑比克商界：外汇短缺和燃油危机制约营商环境",
+      "category": "综合",
+      "summary": "中新网约翰内斯堡9月12日电 莫桑比克商业协会联合会(CTA)主席阿尔瓦罗·马辛格近日在马普托举行的2026年第二季度企业经营表现及私营部门展望经济吹风会上表示，外汇短缺，尤其是美元供应不足，以及燃油危机，是2026年第二季度影响该国营商环境的主要制约因素。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695173.shtml",
+      "publishedAt": "2026-09-12T05:55:02.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695171.shtml",
+      "title": "巴黎国际空间峰会举行 致力于加强航天合作",
+      "category": "综合",
+      "summary": "中新网巴黎9月12日电 巴黎国际空间峰会9月9日至10日在巴黎大皇宫举行。本届峰会由法国与德国共同主办，在国际空间合作方面取得一系列成果。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695171.shtml",
+      "publishedAt": "2026-09-12T05:54:46.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695223.shtml",
+      "title": "菲律宾客船起火事故致35人死亡、54人失联",
+      "category": "综合",
+      "summary": "中新网9月12日电 综合外媒报道，菲律宾客船起火事故已造成35人遇难，54人失联。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695223.shtml",
+      "publishedAt": "2026-09-12T05:53:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695222.shtml",
+      "title": "特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场",
+      "category": "综合",
+      "summary": "中新网9月12日电 综合美媒报道，美国多地11日举行活动，纪念“9·11”恐怖袭击事件25周年，悼念事件遇难者。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695222.shtml",
+      "publishedAt": "2026-09-12T05:49:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695221.shtml",
+      "title": "视频画报｜重温习近平主席在金砖峰会的精彩时刻",
+      "category": "综合",
+      "summary": "视频：视频画报｜重温习近平主席在金砖峰会的精彩时刻来源：新华社",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695221.shtml",
+      "publishedAt": "2026-09-12T05:44:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695219.shtml",
+      "title": "学习新语｜习近平主席深刻阐述“金砖合作”",
+      "category": "综合",
+      "summary": "应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695219.shtml",
+      "publishedAt": "2026-09-12T05:34:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695217.shtml",
+      "title": "一个“查无此人”的皇帝，为何让台湾老百姓念念不忘？——微短剧《嘉庆君游台湾》首映侧记",
+      "category": "综合",
+      "summary": "中新网9月12日电 (记者 朱延静 实习生 郑亦青 陈颖烯)嘉庆皇帝一生从未踏足台湾，却在台湾民间传说中“游历”了上百年。一个“查无此人”的皇帝，何以成为台湾老百姓口中锄强扶弱的“嘉庆君”？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695217.shtml",
+      "publishedAt": "2026-09-12T05:11:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695216.shtml",
+      "title": "京雄快线开启全线贯通试运行",
+      "category": "综合",
+      "summary": "9月12日，京雄快线正式启动全线贯通试运行。作为京雄一小时都市圈标志性工程，本次全线贯通试运行，标志着京雄快线与北京地铁大兴机场线贯通运营迈出关键性一步，“轨道上的京津冀”正从蓝图加速变为现实。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695216.shtml",
+      "publishedAt": "2026-09-12T04:52:16.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695215.shtml",
+      "title": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
+      "category": "综合",
+      "summary": "9月12日，记者从河北廊坊举办的2026中国算力大会了解到，中国算力平台实现全国算力一体化统筹监测，我国算力“一张网、一盘棋、一体化”发展格局基本形成。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695215.shtml",
+      "publishedAt": "2026-09-12T04:45:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695206.shtml",
       "title": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
@@ -310,258 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695182.shtml",
       "publishedAt": "2026-09-12T04:12:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695190.shtml",
-      "title": "解锁夜间科普新玩法 重庆办“科技馆之夜”点燃科学好奇心",
-      "category": "综合",
-      "summary": "中新网重庆9月12日电 (记者 钟旖)9月11日晚，重庆科技馆2026年“科技馆之夜”特色科普活动在场馆内举行。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695190.shtml",
-      "publishedAt": "2026-09-12T04:12:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-12/10695188.shtml",
-      "title": "考察粤北韶关红色热土 广东新阶层人士深度感悟长征伟力",
-      "category": "综合",
-      "summary": "中新网韶关9月12日电 (记者 郭军)9月8日至10日，“寻美广东·点赞南粤”暨“新的长征——新阶层走好新时代长征路”主题服务考察活动在韶关举办。60余名来自全省各地的网络大V、寻美团队负责人等新的社会阶层代表人士走进粤北韶关，通过实地研学、红色课堂、故事宣讲、融媒创作、文旅推介等多元形式，感悟革命精神，为革命老区高质量发展注入新阶层力量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/09-12/10695188.shtml",
-      "publishedAt": "2026-09-12T04:11:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695187.shtml",
-      "title": "“中国预防出生缺陷日”：上海以科技赋能出生缺陷防治",
-      "category": "综合",
-      "summary": "中新网上海9月12日电 (记者 陈静)9月12日是“中国预防出生缺陷日”，11日“科技预见无‘陷’未来 用爱助力生育友好”2026年预防出生缺陷日主题活动在上海奉贤举办。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695187.shtml",
-      "publishedAt": "2026-09-12T04:10:44.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695181.shtml",
-      "title": "千年古城藏烟火 百味人间暖椒陵",
-      "category": "综合",
-      "summary": "图为全椒县儒林龙门战队参赛菜品《管坝老卤节节香》。刘鸿鹤 摄 图为参赛选手现场烹饪菜肴。刘鸿鹤 摄 评委对各参赛队伍烹饪的菜品进行现场评审。刘鸿鹤 摄 图为观看烹饪比赛的民众进行菜品试吃。刘鸿鹤 摄 现场观看烹饪比赛的小朋友品尝菜品。刘鸿鹤 摄 图为大众评审团成员品尝菜品。刘鸿鹤 摄 图为大众评审团成员品尝菜品。刘鸿鹤 摄 大众评审团成员为参赛菜品点赞。刘鸿",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695181.shtml",
-      "publishedAt": "2026-09-12T04:10:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695186.shtml",
-      "title": "（乡村行·看振兴）广东黄塘镇：榴莲蜜薯铺就富民路",
-      "category": "综合",
-      "summary": "中新网河源9月12日电 (张璐 余冰冰 甘建楼)近年来，广东河源市紫金县黄塘镇立足镇域农业基础，精准布局高端榴莲蜜薯特色产业，依托驻镇帮镇扶村工作队和粤新资产有限公司(简称“公司”)集聚资源要素，联动仲恺农业工程学院强化技术支撑，推动产业从零散试点迈向规模集群、从粗放栽培转向精品种养，培育乡村增收新增长极。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695186.shtml",
-      "publishedAt": "2026-09-12T04:09:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695180.shtml",
-      "title": "河南洛阳：塑编企业赶制海内外订单生产忙",
-      "category": "综合",
-      "summary": "图为工人展示塑编材料。张楠 摄 图为自动化塑编生产车间。张楠 摄 图为塑编生产车间一角。张楠 摄 图为工人操作塑编生产设备。马骏 摄 图为塑编生产车间繁忙的生产场景。马骏 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695180.shtml",
-      "publishedAt": "2026-09-12T04:09:00.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/09-12/10695185.shtml",
-      "title": "中国算力基础设施与人工智能服务能力加快走向东盟",
-      "category": "综合",
-      "summary": "中新网广州9月12日电 (记者 许青青)由国家工业信息安全发展研究中心主办的2026中国—东盟人工智能+制造合作交流会议11日在广州举行。期间，多方签署系列协议与备忘录，标志着中国算力基础设施与人工智能服务能力加快走向东盟，助力降低东盟中小企业和开发者人工智能应用门槛，加速区域制造业智能化转型进程。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/aseaninfo/2026/09-12/10695185.shtml",
-      "publishedAt": "2026-09-12T04:07:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695204.shtml",
-      "title": "中国泾河博物馆落地泾源",
-      "category": "综合",
-      "summary": "中新网宁夏泾源9月12日电 (记者 李佩珊)记者12日从宁夏固原市泾源县获悉，当地引入社会资本全额出资3000万元，对长期闲置的泾河源游客服务中心进行升级改造，新建中国泾河博物馆，打造县域文旅新地标。项目预计2027年上半年建成投运。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695204.shtml",
-      "publishedAt": "2026-09-12T04:07:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695183.shtml",
-      "title": "追梦中华·侨见自贸港：天涯底蕴，旅游小镇",
-      "category": "综合",
-      "summary": "中新网三亚9月12日电 题：追梦中华·侨见自贸港：天涯底蕴，旅游小镇",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695183.shtml",
-      "publishedAt": "2026-09-12T04:07:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695203.shtml",
-      "title": "宁夏泾源：书香不打烊 农家书屋陪伴少年课余时光",
-      "category": "综合",
-      "summary": "中新网固原9月12日电 (记者 李佩珊)9月12日正值周末，宁夏固原市泾源县各村农家书屋早早开门迎客。褪去暑期集中活动的热闹，书屋依旧暖意满满。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695203.shtml",
-      "publishedAt": "2026-09-12T04:06:59.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695200.shtml",
-      "title": "2026京津冀体育旅游精品案例在京发布",
-      "category": "综合",
-      "summary": "中新网北京9月12日电 (记者 贾天勇)11日下午，2026年中国国际服务贸易交易会配套活动——体育休闲与户外运动高质量发展论坛在北京首钢园举行。论坛期间，2026京津冀体育旅游精品案例正式发布，共20个案例入选。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695200.shtml",
-      "publishedAt": "2026-09-12T04:06:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-12/10695177.shtml",
-      "title": "肇庆搭建“认知健康防护网” 为老年认知障碍防治提供数字化支撑",
-      "category": "综合",
-      "summary": "中新网肇庆9月12日电 (孙秋霞 黎颖欣)在广东肇庆市怀集县诗洞镇云田村，卫生院家庭医生借助手机端的“肇忆康”小程序，几分钟内便为老年人完成认知测评，结果实时回传并自动生成电子脑健康档案。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-12/10695177.shtml",
-      "publishedAt": "2026-09-12T04:05:47.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695150.shtml",
-      "title": "菲华中学生交流日在马尼拉举行 近60名学子体验中华文化",
-      "category": "综合",
-      "summary": "中新社马尼拉9月12日电(记者 周璟)首届“KUMUSTA！你好”菲华中学生交流日11日在菲律宾马尼拉举行。来自马尼拉公立中学和菲律宾侨中学院的近60名学生参加活动，通过语言交流和文化体验促进理解、增进友谊。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695150.shtml",
-      "publishedAt": "2026-09-12T04:05:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695175.shtml",
-      "title": "从“门票经济”到“产业经济” 湖南新化千年梯田“上新”引客来",
-      "category": "综合",
-      "summary": "中新网娄底9月12日电 (张雪盈 李盈)车轮碾过雪峰山深处一道急弯，位于湖南娄底新化县水车镇的紫鹊界万亩梯田豁然撞入眼帘。云雾浮动间，500余级梯田如绸带般自山巅垂落，田埂曲线蜿蜒，农家小屋与潺潺溪水点缀其间，铺陈开一幅秋日写意山水图。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695175.shtml",
-      "publishedAt": "2026-09-12T04:05:03.000Z",
       "tags": [
         "国内",
         "社会",
