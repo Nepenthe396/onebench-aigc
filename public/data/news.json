@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T00:34:23.446Z",
-  "expiresAt": "2026-09-12T06:34:23.446Z",
+  "generatedAt": "2026-09-12T02:28:29.236Z",
+  "expiresAt": "2026-09-12T08:28:29.236Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,402 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695132.shtml",
+      "title": "麻精药品“出院带药”新规将实施 会带来哪些影响？",
+      "category": "综合",
+      "summary": "麻醉药品和精神药品(以下简称麻精药品)具有很强的镇痛镇静等作用，是临床诊疗必不可少的药品；但同时，其可能产生依赖性、成瘾性，若流入非法渠道则会造成严重社会危害，需要予以严格管理。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695132.shtml",
+      "publishedAt": "2026-09-12T02:19:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695131.shtml",
+      "title": "哈马斯下属卡桑旅证实：高级成员被以军打死",
+      "category": "综合",
+      "summary": "中新网9月12日电 综合外媒报道， 巴勒斯坦伊斯兰抵抗运动(哈马斯)下属武装派别卡桑旅11日发表声明说，卡桑旅总军事委员会成员兼汗尤尼斯旅高级指挥官穆罕默德·亚祖里10日在以色列“暗杀行动”中身亡。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695131.shtml",
+      "publishedAt": "2026-09-12T02:10:30.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695130.shtml",
+      "title": "为构建人类命运共同体贡献“大金砖”力量",
+      "category": "综合",
+      "summary": "为构建人类命运共同体贡献“大金砖”力量(大使随笔)",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695130.shtml",
+      "publishedAt": "2026-09-12T02:02:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/09-12/10695129.shtml",
+      "title": "“不求毫无生气的一致，但求活生生的团结”，泰戈尔曾三次访华，对当下有何启示？",
+      "category": "综合",
+      "summary": "中新社记者 曾玥 马帅莎",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dxw/2026/09-12/10695129.shtml",
+      "publishedAt": "2026-09-12T01:55:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/09-12/10695125.shtml",
+      "title": "宁夏兴庆：沉浸式民族团结活动点亮商圈烟火同心景",
+      "category": "综合",
+      "summary": "中新网银川9月12日电 (记者 李佩珊)9月11日晚，宁夏银川市兴庆区砂之船(银川)奥特莱斯内的江南水街灯火璀璨、人流涌动，“商圈聚同心·石榴耀兴庆”民族团结进步月主题活动温情启幕。本次活动依托商圈市井场景，以“一街七景”沉浸式实景演绎，让民族团结宣传走出讲堂、走进烟火市井，点亮群众身边的同心画卷。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/txy/2026/09-12/10695125.shtml",
+      "publishedAt": "2026-09-12T01:54:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695124.shtml",
+      "title": "地中海航运“信天翁”航线首航广州南沙港",
+      "category": "综合",
+      "summary": "中新网广州9月12日电 (郭军 陈秀慧 黄大贤)9月10日，“地中海约瑟菲娜”轮(MSC JOSEFINA)在拖轮协助下，平稳驶离广州港南沙三期码头，标志着地中海航运(MSC)旗下核心亚欧干线——“信天翁”(Albatros)航线成功首航广州南沙港。该航线将为广州南沙港远洋干线布局注入全新动能，也为粤港澳大湾区及周边腹地外贸企业打通了一条直达欧洲核心港口的高",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695124.shtml",
+      "publishedAt": "2026-09-12T01:52:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695126.shtml",
+      "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+      "category": "综合",
+      "summary": "中新社北京9月12日电 9月12日上午，中国国家主席习近平乘专机赴新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695126.shtml",
+      "publishedAt": "2026-09-12T01:47:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695128.shtml",
+      "title": "延缓衰老、调节血糖血脂 适当饿一点好处竟然这么多",
+      "category": "综合",
+      "summary": "吃饭时这一个小改变，竟能延缓衰老、调节血糖、血脂！真的超简单",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695128.shtml",
+      "publishedAt": "2026-09-12T01:47:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695123.shtml",
+      "title": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
+      "category": "综合",
+      "summary": "中新网宁波9月12日电 (张斌)每8支笔只需1.4秒即可完成15类缺陷检测，产品不良率从3.2%降至0.5%，质检效率较以往提升42倍……在浙江宁波的文具生产企业，AI视觉笔检系统正在延伸效率的边界。这折射AI加速赋能当地制造业的生动图景。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695123.shtml",
+      "publishedAt": "2026-09-12T01:36:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695122.shtml",
+      "title": "这个国际日，为全球南方合作而设",
+      "category": "综合",
+      "summary": "新华社北京9月11日电#8195;9月12日是联合国南南合作日。在当前世界变乱交织、全球南方卓然壮大的时代背景下，这一国际纪念日的意义进一步凸显。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695122.shtml",
+      "publishedAt": "2026-09-12T01:35:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695121.shtml",
+      "title": "携手推动“大金砖合作”高质量发展",
+      "category": "综合",
+      "summary": "今年是金砖合作机制成立20周年。20年来，从促进贸易和投资自由化便利化，到逐步深入数字经济、绿色低碳、人工智能等新领域，金砖国家及伙伴国坚持开放共赢，发挥各自优势，深化务实合作，“大金砖合作”枝繁叶茂，不断取得丰硕成果，更多更好惠及各国人民。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695121.shtml",
+      "publishedAt": "2026-09-12T01:29:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204052.shtml",
+      "title": "话剧《寻味》在北京上演 两岸戏剧人联合演绎寻亲寻根故事",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204052.shtml",
+      "publishedAt": "2026-09-12T01:27:24.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695108.shtml",
+      "title": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨",
+      "category": "综合",
+      "summary": "中新网9月12日电 据中央气象台网站消息，昨日，海南、云南、西藏等地出现较强降雨。预计未来三天，华南南部及我国南部海域有风雨天气，海南局地降雨较强，需防范暴雨次生灾害；华西地区及西藏等地多阴雨，关注持续降雨对农业生产、交通等的影响；内蒙古东部、黑龙江、吉林等地需防范局地风雹等强对流天气危害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695108.shtml",
+      "publishedAt": "2026-09-12T01:17:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695119.shtml",
+      "title": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
+      "category": "综合",
+      "summary": "【本期导读】",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695119.shtml",
+      "publishedAt": "2026-09-12T01:07:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204041.shtml",
+      "title": "舞剧《傲雪长白》在北京上演 重现抗联风骨",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-12/1204041.shtml",
+      "publishedAt": "2026-09-12T01:02:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695118.shtml",
+      "title": "习近平离京赴新德里出席金砖国家领导人第十八次会晤",
+      "category": "综合",
+      "summary": "新华社北京9月12日电 9月12日上午，国家主席习近平乘专机赴新德里，应印度总理莫迪邀请，出席金砖国家领导人第十八次会晤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695118.shtml",
+      "publishedAt": "2026-09-12T01:02:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695116.shtml",
+      "title": "学习新语｜推动金砖大船行稳致远",
+      "category": "综合",
+      "summary": "视频：学习新语｜推动金砖大船行稳致远来源：新华社",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695116.shtml",
+      "publishedAt": "2026-09-12T00:57:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695115.shtml",
+      "title": "学习笔记丨习近平纵论金砖合作之道",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695115.shtml",
+      "publishedAt": "2026-09-12T00:55:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695111.shtml",
+      "title": "尼日利亚国民议会暂停对南非官方访问",
+      "category": "综合",
+      "summary": "中新社约翰内斯堡9月11日电 尼日利亚国民议会11日宣布，暂停议会层面对南非的官方访问，并要求议员停止参加由南非机构主办或组织的相关会议与活动，直至另行通知。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695111.shtml",
+      "publishedAt": "2026-09-12T00:51:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695112.shtml",
+      "title": "一见·“大金砖合作”，何以成其大？",
+      "category": "综合",
+      "summary": "金秋时节，中国元首外交再启繁忙时刻。中亚、中东之行圆满结束后不久，习近平主席应印度共和国总理莫迪邀请，将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695112.shtml",
+      "publishedAt": "2026-09-12T00:48:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695109.shtml",
+      "title": "习言道｜金砖国家集聚“大富矿”、“大工厂”、“大市场”",
+      "category": "综合",
+      "summary": "应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695109.shtml",
+      "publishedAt": "2026-09-12T00:39:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/09-12/10695110.shtml",
+      "title": "“水光针”不是万能美容针，你真的需要吗？",
+      "category": "综合",
+      "summary": "你真的需要打水光针吗",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/life/2026/09-12/10695110.shtml",
+      "publishedAt": "2026-09-12T00:36:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695107.shtml",
       "title": "“男子称停止资助遭女生威胁”事件反转，姚某某已涉嫌寻衅滋事罪丨法律顾问在身边",
@@ -166,402 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml",
       "publishedAt": "2026-09-11T23:09:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-12/10695099.shtml",
-      "title": "9月12日新闻早报",
-      "category": "综合",
-      "summary": "",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/iframe/2026/09-12/10695099.shtml",
-      "publishedAt": "2026-09-11T23:00:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695098.shtml",
-      "title": "WTT澳门冠军赛：中国队三人晋级单打八强",
-      "category": "综合",
-      "summary": "世界乒乓球职业大联盟(WTT)澳门冠军赛11日展开八分之一决赛，中国队选手陈幸同、陈熠、周启豪晋级。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695098.shtml",
-      "publishedAt": "2026-09-11T22:55:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
-      "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
-      "category": "综合",
-      "summary": "当地时间9月11日，胡塞武装发表声明，公布其近日军事行动成果；当天晚些时候，沙特能源部发表声明称，该国东西输油管道遭袭后预防性关闭。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
-      "publishedAt": "2026-09-11T22:45:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-12/10695090.shtml",
-      "title": "2026年攀岩世界杯贵阳站开赛 邓丽娟为中国队拿下首金",
-      "category": "综合",
-      "summary": "中新社贵阳9月12日电 (记者 张伟)2026年攀岩世界杯贵阳站开赛仪式11日在贵州·彩湖国际攀岩中心举行。中国选手邓丽娟夺得女子速度赛金牌，零勇志、储守宏分别斩获男子速度赛银牌和铜牌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/09-12/10695090.shtml",
-      "publishedAt": "2026-09-11T22:43:11.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
-      "title": "纽约纪念“9·11”事件25周年",
-      "category": "综合",
-      "summary": "中新社纽约9月11日电 (记者 王帆)当地时间11日，数千人聚集在美国纽约世贸中心遗址广场，悼念25年前“9·11”恐怖袭击事件中的遇难者。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
-      "publishedAt": "2026-09-11T22:42:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
-      "title": "美国8月CPI同比上涨3.4%",
-      "category": "综合",
-      "summary": "中新社华盛顿9月11日电 (记者 陈孟统)美国劳工部11日发布数据显示，美国8月消费者价格指数(CPI)同比上涨3.4%，环比上涨0.4%。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
-      "publishedAt": "2026-09-11T22:42:05.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/09-12/10695096.shtml",
-      "title": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
-      "category": "综合",
-      "summary": "很多人都知道熬夜伤身，却忽略了熬夜也有可能引发心源性猝死。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/09-12/10695096.shtml",
-      "publishedAt": "2026-09-11T22:39:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695093.shtml",
-      "title": "英国议会否决“安乐死”合法化法案",
-      "category": "综合",
-      "summary": "中新社伦敦9月11日电 (记者 欧阳开宇)英国议会下议院当地时间11日经激烈辩论，投票否决《成年绝症患者(生命终结)法案》，这项在民间俗称“安乐死”法案的立法提案宣告受挫。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695093.shtml",
-      "publishedAt": "2026-09-11T22:34:36.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
-      "title": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
-      "category": "综合",
-      "summary": "当地时间9月11日晚，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明，谴责针对沙特发起的袭击，并表示反对任何危及沙特安全与稳定或损害两国兄弟关系的行为。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695095.shtml",
-      "publishedAt": "2026-09-11T22:33:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-12/10695094.shtml",
-      "title": "胡塞武装称除沙特外其余国家船只红海航行安全",
-      "category": "综合",
-      "summary": "当地时间9月11日，也门胡塞武装发表声明称，胡塞武装9月3日起从多个方向发起大规模军事行动，目标是驱逐在也门西部沿海部分地区集结的沙特方面武装力量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-12/10695094.shtml",
-      "publishedAt": "2026-09-11T22:32:16.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml",
-      "title": "菲律宾海警：巴拉望省近海起火客船发现30具遗体",
-      "category": "综合",
-      "summary": "中新社马尼拉9月11日电 (记者 周璟)菲律宾海岸警卫队11日表示，在巴拉望省附近海域起火的“June Aster”号客船上发现30具遗体，使事故确认死亡人数增至35人。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml",
-      "publishedAt": "2026-09-11T15:53:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml",
-      "title": "百公里11.5度电！2030年新能源汽车什么样？",
-      "category": "综合",
-      "summary": "工业和信息化部等九部门今天(11日)发布了《智能网联新能源汽车产业发展“十五五”规划》。规划中提到“纯电动乘用车平均电能消耗量达到每百公里11.5千瓦时左右”、“高速公路、城市快速路、部分城市道路等场景实现高度自动驾驶”、国内市场新能源乘用车新车总销量占比达到70%……可以说目标相当明确。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10695088.shtml",
-      "publishedAt": "2026-09-11T15:21:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695083.shtml",
-      "title": "“9·11”事件25周年：“他们为什么恨我们？”美国至今答不上来",
-      "category": "综合",
-      "summary": "中新网9月11日电 题： “9·11”事件25周年：“他们为什么恨我们？”美国至今答不上来",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695083.shtml",
-      "publishedAt": "2026-09-11T14:54:23.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695012.shtml",
-      "title": "泰国清迈府代表团一行考察青海光伏产业及生态旅游发展",
-      "category": "综合",
-      "summary": "图为泰国清迈府副府尹西瓦功·布蓬(左二)在塔拉滩光伏产业园区了解当地“板上发电、板间种草、板下放牧”绿色发展模式。中新社记者 马铭言 摄 图为由泰国清迈府副府尹西瓦功·布蓬(左一)率领的代表团一行在塔拉滩光伏产业园区了解当地发展光伏产业带动农牧民就业增收情况。中新社记者 马铭言 摄 图为泰国清迈府代表团成员在塔拉滩光伏产业园区内参观。中新社记者 马铭言 摄 ",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695012.shtml",
-      "publishedAt": "2026-09-11T14:53:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-11/10695082.shtml",
-      "title": "话剧《寻味》：两岸戏剧人共述“回家”故事",
-      "category": "综合",
-      "summary": "中新社北京9月11日电 (记者 张杨彬)上海话、温州话、四川话、广东话……话剧《寻味》11日在北京上演。舞台上各地方言交织，台湾演员李志希对此并不陌生——他幼时曾到二伯居住的眷村玩耍，他说，真实的眷村就是这样，方言、食物与乡愁融在一起。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-11/10695082.shtml",
-      "publishedAt": "2026-09-11T14:52:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695010.shtml",
-      "title": "海外华校教师探访陕西黄河文化博物馆",
-      "category": "综合",
-      "summary": "图为海外华校教师在陕西黄河文化博物馆内仔细聆听讲解员介绍。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内拍照。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内参观游览。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内仔细聆听讲解员介绍。胡捷 摄 图为海外华校教师在陕西黄河文化博物馆内，通过互动装置了解黄河文化。 胡捷 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695010.shtml",
-      "publishedAt": "2026-09-11T14:52:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695006.shtml",
-      "title": "“自然之序——程一峰雕塑作品展”开幕式在广州举行",
-      "category": "综合",
-      "summary": "9月11日，“自然之序——程一峰雕塑作品展”开幕式在广州市广东美术馆新馆举行。本次展览展出雕塑家程一峰30余件作品。图为作品《畛域 No.2》吸引参观者拍照。中新社记者 陈楚红 摄 9月11日，“自然之序——程一峰雕塑作品展”开幕式在广州市广东美术馆新馆举行。本次展览展出雕塑家程一峰30余件作品。图为作品《2024年NO.1》。中新社记者 陈楚红 摄 9月1",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695006.shtml",
-      "publishedAt": "2026-09-11T14:51:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695002.shtml",
-      "title": "巴丹吉林沙漠上演非遗那达慕",
-      "category": "综合",
-      "summary": "图为射箭赛场上，选手拉满长弓，凝神瞄准靶心。中新社记者 陈峰 摄 图为在驼球比赛中，选手们驾驭骆驼在沙地上奋力奔跑。中新社记者 陈峰 摄 图为蒙古族象棋比赛中，棋手们切磋棋艺。中新社记者 陈峰 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695002.shtml",
-      "publishedAt": "2026-09-11T14:50:55.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695001.shtml",
-      "title": "内地及港澳11支消防队伍齐聚华山练兵",
-      "category": "综合",
-      "summary": "图为消防人员在华山东峰下棋亭进行峡谷模拟救援。 陕西消防供图 图为消防人员在复杂崖壁救援项目中对模拟伤员进行转移。 陕西消防供图 图为消防人员在山野失联事故救援项目中转运模拟受伤人员。 陕西消防供图 图为消防人员开展缆车事故模拟救援。 陕西消防供图 图为消防人员在华山东峰前坡开展复杂崖壁模拟救援。 陕西消防供图 图为消防人员在垂直崖壁救援项目中进行下放作业。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695001.shtml",
-      "publishedAt": "2026-09-11T14:49:27.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10695000.shtml",
-      "title": "漫山层叠！海外华媒沉醉紫鹊界梯田美景",
-      "category": "综合",
-      "summary": "9月11日，海外华文媒体代表走进湖南娄底新化紫鹊界梯田，漫山梯田层层叠叠，风光如画。图为游客观赏梯田。中新社记者 杨华峰 摄 9月11日，海外华文媒体代表走进湖南娄底新化紫鹊界梯田，漫山梯田层层叠叠，风光如画。图为梯田上的蚩尤图案。(无人机照片)中新社记者 杨华峰 摄 9月11日，海外华文媒体代表走进湖南娄底新化紫鹊界梯田，漫山梯田层层叠叠，风光如画。图为梯",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10695000.shtml",
-      "publishedAt": "2026-09-11T14:48:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-11/10695081.shtml",
-      "title": "金砖国家工商论坛在新德里举行",
-      "category": "综合",
-      "summary": "金砖国家工商论坛11日在印度首都新德里举行，重点讨论增强供应链韧性、农产品与农业科技创新、服务贸易、数字经济等议题。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/09-11/10695081.shtml",
-      "publishedAt": "2026-09-11T14:48:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-11/10694987.shtml",
-      "title": "张国荣纪念展香港开幕 珍贵照片重现流行文化经典",
-      "category": "综合",
-      "summary": "图为展览重现冲洗照片的过程。中新网记者 陈永诺 摄 图为展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士观看展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士拍摄展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士与展出的张国荣照片合影。中新网记者 陈永诺 摄 图为展出的张国荣照片。中新网记者 陈永诺 摄 图为一名女士拍摄展出的张国荣照片。中新网",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-11/10694987.shtml",
-      "publishedAt": "2026-09-11T14:47:51.000Z",
       "tags": [
         "国内",
         "社会",
