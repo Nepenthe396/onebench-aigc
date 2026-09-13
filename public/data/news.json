@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T00:36:11.954Z",
-  "expiresAt": "2026-09-13T06:36:11.954Z",
+  "generatedAt": "2026-09-13T02:28:00.410Z",
+  "expiresAt": "2026-09-13T08:28:00.410Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,222 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695527.shtml",
+      "title": "知名主持人敬一丹去世",
+      "category": "综合",
+      "summary": "中新社北京9月13日电 (记者 高凯)9月13日，知名主持人敬一丹的女儿王尔晴发布讣告，证实敬一丹于当日去世。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695527.shtml",
+      "publishedAt": "2026-09-13T02:16:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695526.shtml",
+      "title": "华南多地风雨持续局地有大暴雨 北方昼夜温差较大",
+      "category": "综合",
+      "summary": "中国天气网讯 未来三天(9月13日至15日)，受热带低压影响，海南岛、广东沿海等地风雨持续，局地有大暴雨，同时华西地区阴雨频繁，需防范连续降雨可能引发的次生灾害。北方大部降水较少，昼夜温差较大，白天体验秋高气爽的感觉，早晚凉意明显，需适时调整着装。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695526.shtml",
+      "publishedAt": "2026-09-13T02:05:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-13/1204126.shtml",
+      "title": "习近平会见印度总理莫迪",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-13/1204126.shtml",
+      "publishedAt": "2026-09-13T02:04:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/09-13/1204124.shtml",
+      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/09-13/1204124.shtml",
+      "publishedAt": "2026-09-13T01:55:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695523.shtml",
+      "title": "习近平：开启金砖合作第三个“金色十年”",
+      "category": "综合",
+      "summary": "当地时间9月12日下午，中国国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议，并发表题为《共担时代责任 勇做先锋力量》的重要讲话。他指出——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695523.shtml",
+      "publishedAt": "2026-09-13T01:48:47.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695513.shtml",
+      "title": "敬一丹去世",
+      "category": "综合",
+      "summary": "中新网9月13日电 据“敬一丹”微信公众号消息，9月13日，主持人敬一丹的女儿王尔晴发布讣告：敬一丹于2026年6月在家乡哈尔滨突发急性脑出血，后在北京住院治疗，于9月13日离世。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695513.shtml",
+      "publishedAt": "2026-09-13T01:44:05.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695514.shtml",
+      "title": "热带低压影响华南沿海和南海 西南地区等地多阴雨",
+      "category": "综合",
+      "summary": "中新网9月13日电 据中央气象台网站消息，昨日，海南岛出现较强风雨。预计未来三天，华南南部及我国南部海域有明显风雨天气，海南岛累计雨量大、致灾风险高，需防范暴雨次生灾害；华西地区及西藏等地多阴雨，关注持续降雨对农业生产、交通、工程建设等的影响；东北地区需防范局地风雹等强对流天气危害。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695514.shtml",
+      "publishedAt": "2026-09-13T01:40:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695520.shtml",
+      "title": "习言道｜中印两国是合作伙伴而不是对手，互为发展机遇而不是威胁",
+      "category": "综合",
+      "summary": "当地时间9月12日，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。习近平指出——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695520.shtml",
+      "publishedAt": "2026-09-13T01:39:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695518.shtml",
+      "title": "想关广告却被反复跳转 手机里的“退出键”去哪了？",
+      "category": "综合",
+      "summary": "近日，一条“手机锁屏画报影响拨打120”的帖子引发热议。发帖人表示，母亲突发心梗后，因锁屏画报影响手机使用，导致父亲无法解锁手机拨打抢救电话，错过了最佳抢救时间。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695518.shtml",
+      "publishedAt": "2026-09-13T01:33:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695519.shtml",
+      "title": "金砖国家领导人第十八次会晤新德里宣言（摘要）",
+      "category": "综合",
+      "summary": "新华社新德里9月12日电",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695519.shtml",
+      "publishedAt": "2026-09-13T01:33:10.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695516.shtml",
+      "title": "特朗普：胡塞武装致电美方称“不愿与美国冲突”",
+      "category": "综合",
+      "summary": "中新网9月13日电 综合外媒报道，当地时间12日，美国总统特朗普在访问爱尔兰期间表示，也门胡塞武装主动致电美方，表达不愿与美军作战、不希望美军卷入冲突的态度。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695516.shtml",
+      "publishedAt": "2026-09-13T01:19:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695515.shtml",
+      "title": "（近观中国）风雨兼程二十载，习近平谈到金砖“力量之源”",
+      "category": "综合",
+      "summary": "中新社北京9月12日电 (记者 张素)“二十年风雨兼程，团结合作始终是金砖事业发展的力量之源。”",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695515.shtml",
+      "publishedAt": "2026-09-13T01:13:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-13/10695512.shtml",
       "title": "中国华文教育“名师巡讲”南非开讲",
@@ -346,222 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml",
       "publishedAt": "2026-09-12T14:52:34.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695490.shtml",
-      "title": "习近平会见印度总理莫迪",
-      "category": "综合",
-      "summary": "新华社新德里9月12日电(记者郝薇薇#8195;刘锴)当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695490.shtml",
-      "publishedAt": "2026-09-12T14:49:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
-      "title": "中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅",
-      "category": "综合",
-      "summary": "中新网北京9月12日电(记者 高萌)当开学典礼遇上大雨，作为校长是选择念完准备好的发言稿，还是让同学们先避雨？",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695488.shtml",
-      "publishedAt": "2026-09-12T14:31:48.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
-      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
-      "category": "综合",
-      "summary": "中新社上海9月12日电 (范宇斌)距离9月22日启幕的第48届世界技能大赛(简称“世赛”)仅剩10天，各项筹备工作已进入收官冲刺阶段。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
-      "publishedAt": "2026-09-12T14:28:24.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
-      "title": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
-      "category": "综合",
-      "summary": "中新社上海9月12日电 (范宇斌)由上海中华职业教育社主办的2026职业教育海上对话创享会12日至13日在上海举行。来自德国等国家驻华机构代表，以及长三角、粤港澳等地区教育界、科技界、产业界代表共500余人参会。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
-      "publishedAt": "2026-09-12T14:28:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
-      "title": "两岸资深电影人热议闽南语电影创作",
-      "category": "综合",
-      "summary": "中新社福建平潭9月12日电 (记者 闫旭)“闽台有共同的信仰，也有深厚的情感联结。”台湾资深电影人叶如芬12日在平潭表示，从宗族、祖籍地、下南洋这些历史叙事，到如今的青年逐梦等，这些作为题材，用闽台共同熟悉的语言合拍闽南语电影，可以成为联结起两岸甚至东南亚的情感纽带。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695485.shtml",
-      "publishedAt": "2026-09-12T14:25:58.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695481.shtml",
-      "title": "详讯：习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-      "category": "综合",
-      "summary": "中新社新德里9月12日电 (记者 郭金超 黄钰钦)当地时间9月12日下午，中国国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695481.shtml",
-      "publishedAt": "2026-09-12T14:17:02.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-12/10695483.shtml",
-      "title": "中国内地单跨跨径最大的双层钢桁梁桥实现合龙",
-      "category": "综合",
-      "summary": "中新社广州9月12日电 (记者 蔡敏婕)粤港澳大湾区核心枢纽工程——狮子洋通道跨西樵水道钢桁梁桥12日完成11个节段拼装，实现精准合龙。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-12/10695483.shtml",
-      "publishedAt": "2026-09-12T14:16:12.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695480.shtml",
-      "title": "习言道｜开启金砖合作第三个“金色十年”",
-      "category": "综合",
-      "summary": "当地时间9月12日，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤第一阶段会议，发表题为《共担时代责任 勇做先锋力量》的重要讲话。习近平指出——",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695480.shtml",
-      "publishedAt": "2026-09-12T14:09:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695479.shtml",
-      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-      "category": "综合",
-      "summary": "新华社新德里9月12日电(记者孙承斌 杨依军)当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695479.shtml",
-      "publishedAt": "2026-09-12T13:46:41.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695463.shtml",
-      "title": "第十四届环太湖国际公路自行车赛开赛 国内外超百位车手竞速南京",
-      "category": "综合",
-      "summary": "图为车手冲过终点后庆祝。中新社记者 泱波 摄 图为参赛车手从起点集中出发。中新社记者 泱波 摄 图为参赛车手从起点集中出发。中新社记者 泱波 摄 图为参赛车手在比赛中。(无人机照片)中新社记者 泱波 摄 图为参赛车手在比赛中。中新社记者 泱波 摄 图为参赛车手在比赛中。中新社记者 泱波 摄 图为参赛车手在比赛中。(无人机照片)中新社记者 泱波 摄 图为参赛车",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695463.shtml",
-      "publishedAt": "2026-09-12T13:43:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695461.shtml",
-      "title": "紧邻首批疏解高校 探访雄安新区学府城项目",
-      "category": "综合",
-      "summary": "9月12日，航拍位于雄安新区起步区的学府城项目建设现场。(无人机照片)中新社记者 谌诗雨 摄 9月12日，航拍位于雄安新区起步区的学府城项目建设现场。(无人机照片)中新社记者 谌诗雨 摄 9月12日，位于雄安新区起步区的学府城项目样板间内，疏解到雄安的工作人员正在参观。中新社记者 韩冰 摄 9月12日，位于雄安新区起步区的学府城项目展厅内，疏解到雄安的工作人",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695461.shtml",
-      "publishedAt": "2026-09-12T13:42:03.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695460.shtml",
-      "title": "四川成都：民众沉浸式体验天文艺术展",
-      "category": "综合",
-      "summary": "图为观众正在参观拍摄。韩金雨 摄 图为观众正在观展。韩金雨 摄 图为艺术装置吸引观众拍摄。韩金雨 摄 图为展出的陨石标本。韩金雨 摄 图为光影艺术装置吸引观众体验拍摄。韩金雨 摄 图为观众互动体验光影艺术装置。韩金雨 摄 图为观众参观艺术装置。韩金雨 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695460.shtml",
-      "publishedAt": "2026-09-12T13:40:45.000Z",
       "tags": [
         "国内",
         "社会",
