@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T22:26:32.574Z",
-  "expiresAt": "2026-09-13T04:26:32.574Z",
+  "generatedAt": "2026-09-13T00:36:11.954Z",
+  "expiresAt": "2026-09-13T06:36:11.954Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,204 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/09-13/10695512.shtml",
+      "title": "中国华文教育“名师巡讲”南非开讲",
+      "category": "综合",
+      "summary": "中新社约翰内斯堡9月12日电 (记者 孙翔)2026年“名师巡讲”南非团活动12日在约翰内斯堡启动。来自中国的专家和教师围绕中华传统文化、青少年心理健康和汉语基础知识等内容，为当地华裔青少年及华文教师授课。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/hr/2026/09-13/10695512.shtml",
+      "publishedAt": "2026-09-12T23:41:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-13/10695511.shtml",
+      "title": "让书“找到”人：大学图书馆如何破圈",
+      "category": "综合",
+      "summary": "开学季，各大高校图书馆人头攒动。一排排座位上，电脑、习题册占据桌面，而在自习区之外，层层书架静静伫立，不少大学生穿行其间，在取书、翻书、借书的过程中，完成一场相遇。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-13/10695511.shtml",
+      "publishedAt": "2026-09-12T23:35:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml",
+      "title": "新大众文艺，如何走进“猜你喜欢”",
+      "category": "综合",
+      "summary": "算法推荐、观众反馈与创作者的选择，共同参与作品传播",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml",
+      "publishedAt": "2026-09-12T23:24:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-13/10695503.shtml",
+      "title": "第6届平潭IM两岸青年影展奖项揭晓 多部台湾青年作品获奖",
+      "category": "综合",
+      "summary": "中新社平潭9月13日电 (记者 闫旭)第6届IM两岸青年影展于12日晚在福建平潭揭晓各项荣誉奖项，多部台湾青年创作作品斩获佳绩。其中，台湾艺术大学创作者王浩泰凭借作品《青春的回击杀球》获得“麒麟最佳导演”荣誉，《意外》《临时牌》等台湾作品获评“麒麟优秀短片”。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-13/10695503.shtml",
+      "publishedAt": "2026-09-12T23:09:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/iframe/2026/09-13/10695509.shtml",
+      "title": "9月13日新闻早报",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/iframe/2026/09-13/10695509.shtml",
+      "publishedAt": "2026-09-12T23:04:43.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml",
+      "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+      "category": "综合",
+      "summary": "近期，也门胡塞武装夺取了多个红海地区的关键战略要地并与沙特持续发生激烈冲突，曼德海峡局势骤然趋紧。在12日胡塞武装称将就沙特在过去48小时对也门多地发动的129次袭击进行报复后，胡塞武装于13日凌晨发声称打击沙特的多处军事设施。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml",
+      "publishedAt": "2026-09-12T22:51:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml",
+      "title": "李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州",
+      "category": "综合",
+      "summary": "中新社莫斯科9月12日电 9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-13/10695502.shtml",
+      "publishedAt": "2026-09-12T22:47:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml",
+      "title": "英国朴茨茅斯现两阵营对峙示威",
+      "category": "综合",
+      "summary": "中新社伦敦9月12日电 (记者 欧阳开宇)当地时间9月12日，英国南部港口城市朴茨茅斯市中心爆发大规模对立示威游行，反移民集会与反种族主义游行同期上演。当地警方启用新警务管控权力，实施示威蒙面禁令，当日共拘捕三人。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml",
+      "publishedAt": "2026-09-12T22:47:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695505.shtml",
+      "title": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
+      "category": "综合",
+      "summary": "中新社柏林9月12日电 中国园林“多景园”建成25周年庆祝活动12日在德国曼海姆市路易森公园举行，中德各界代表100余人参加。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695505.shtml",
+      "publishedAt": "2026-09-12T22:46:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695506.shtml",
+      "title": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+      "category": "综合",
+      "summary": "中新社华盛顿9月12日电 (记者 沙晗汀)旅居华盛顿美国国家动物园的大熊猫“青宝”当地时间12日迎来五周岁生日。这是“青宝”在美国度过的第二个生日。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695506.shtml",
+      "publishedAt": "2026-09-12T22:45:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml",
+      "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "category": "综合",
+      "summary": "表演功底深厚、满足游客“追星打卡”需求，但成本更高，热度周期有限",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml",
+      "publishedAt": "2026-09-12T22:44:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml",
       "title": "菲律宾客船起火事故死亡人数升至76人",
@@ -364,204 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695460.shtml",
       "publishedAt": "2026-09-12T13:40:45.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695459.shtml",
-      "title": "（长征胜利90周年）走进“红色小镇”——贵州习水土城古镇",
-      "category": "综合",
-      "summary": "9月12日，航拍土城古镇内的青杠坡战斗遗址。(无人机照片)中新社记者 瞿宏伦 摄 9月12日，土城古镇居民骑车经过四渡赤水·土城渡口雕塑。中新社记者 瞿宏伦 摄 9月12日，游客在土城古镇内拍摄。中新社记者 瞿宏伦 摄 9月12日，游客经过土城古镇内的土城朱德住居。中新社记者 瞿宏伦 摄 9月12日，土城古镇内的四渡赤水纪念馆。(无人机照片)中新社记者 瞿宏",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695459.shtml",
-      "publishedAt": "2026-09-12T13:38:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695411.shtml",
-      "title": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
-      "category": "综合",
-      "summary": "9月12日，观众正在拍摄大英博物馆藏玉琮。中新社记者 孙琳茹 摄 9月12日，观众正在欣赏大英博物馆藏的四件玉琮。中新社记者 孙琳茹 摄 9月12日，观众在龙山时代的玉琮与石琮前驻足细看。中新社记者 孙琳茹 摄 9月12日，观众正探讨龙山时代的玉琮与石琮。中新社记者 孙琳茹 摄 9月12日，观众在展厅内观赏玉琮。中新社记者 孙琳茹 摄 9月12日，观众在吴大",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695411.shtml",
-      "publishedAt": "2026-09-12T13:36:09.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695396.shtml",
-      "title": "全球顶尖越野摩托车手齐聚上海一争高下",
-      "category": "综合",
-      "summary": "图为选手驾车腾空飞跃。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手在MX2组别排位赛展开泥地竞逐。中新社记者 汤彦俊 摄 图为选手驾车腾空飞跃。中新社记者 汤彦俊 摄 图为精彩的赛",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695396.shtml",
-      "publishedAt": "2026-09-12T13:32:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-http://www.chinanews.com.cn/sh/shipin/2026/09-12/news1068703.shtml",
-      "title": "宁波大学校长34秒发言火了，比仪式更重要的是体谅",
-      "category": "综合",
-      "summary": "9月11日晚，宁波大学2026级新生开学典礼在断断续续的秋雨中进行。轮到校长、中国科学院院士蔡荣根发言时，雨势变大了，于是他没有照着稿子念，而是只说了三句话，整个过程仅用时34秒。这段特殊的校长致辞，让许多网友觉得很暖心：仪式虽重要，但师生们的健康要排在前面。(记者 高萌 制作 蒋豪文)",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "http://www.chinanews.com.cn/sh/shipin/2026/09-12/news1068703.shtml",
-      "publishedAt": "2026-09-12T13:31:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695368.shtml",
-      "title": "2026中国沿黄河九省（区）自行车巡回赛（洛阳-济源站）开赛",
-      "category": "综合",
-      "summary": "图为自行车巡回赛开赛现场。石智卫 摄 图为参赛选手在赛前鼓劲加油。石智卫 摄 图为自行车巡回赛开赛现场。石智卫 摄 图为参赛选手经过洛阳应天门。石智卫 摄 图为自行车巡回赛比赛现场。石智卫 摄 图为自行车巡回赛比赛现场。石智卫 摄 图为参赛选手经过洛阳应天门。石智卫 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695368.shtml",
-      "publishedAt": "2026-09-12T13:27:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-12/10695364.shtml",
-      "title": "2026年WDSF世界青年霹雳舞锦标赛在成都开赛",
-      "category": "综合",
-      "summary": "图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新社记者 安源 摄 图为资格赛比赛现场。中新",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-12/10695364.shtml",
-      "publishedAt": "2026-09-12T13:26:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-12/10695441.shtml",
-      "title": "“琮谱”特展杭州启幕 展出124件（组）琮及琮式器",
-      "category": "综合",
-      "summary": "中新社杭州9月12日电 (曹丹 孙琳茹)“琮谱——良渚遗址发现九十周年特展”12日在浙江杭州良渚博物院启幕，汇集海内外39家文博单位的124件(组)琮及琮式器，展期至11月29日。如此大规模地完整呈现玉琮发展脉络的展览，在中国尚属首次。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-12/10695441.shtml",
-      "publishedAt": "2026-09-12T13:22:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695443.shtml",
-      "title": "嘉兴平湖办浙台棒垒球交流 选手大半是台青",
-      "category": "综合",
-      "summary": "中新社浙江嘉兴9月12日电 (黄彦君)“之前就来过平湖参赛，这次再来有全新感受。徐家埭村的乡村棒球场按照国际专业标准打造，配套设施完善，平整的草皮、规范的场地，跑动和竞技体验都特别好。”9月12日，在浙江省嘉兴市平湖市徐家埭村，台湾慢速垒球选手庄佳钧说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695443.shtml",
-      "publishedAt": "2026-09-12T13:22:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695444.shtml",
-      "title": "“中国北极”漠河：提前13天开栓供暖 开启超长供暖季",
-      "category": "综合",
-      "summary": "中新社黑龙江漠河9月12日电 (记者 田德雨)黑龙江漠河气温日渐走低，当地供热部门于9月12日正式开栓供暖，比计划时间提前13天，保障当地市民和中外游客取暖需求。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695444.shtml",
-      "publishedAt": "2026-09-12T13:22:28.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
-      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
-      "category": "综合",
-      "summary": "中新社北京9月12日电 (记者 周兆军 陈杭)埃塞俄比亚咖啡、斯里兰卡红茶、叙利亚阿勒颇古皂……正在北京举行的2026年中国国际服务贸易交易会上，第十一届“炫彩世界”文化展示交流活动集中展示环球风物，将不同国家的风味、工艺与文化带到前来参观的各国观众身边。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
-      "publishedAt": "2026-09-12T13:22:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
-      "title": "宗教界及学界在沪共探我国佛教中国化新实践",
-      "category": "综合",
-      "summary": "中新网上海9月12日电(范宇斌)“海上论道·觉群论坛”暨第三届“人间佛教的理论与实践”论坛12日在上海玉佛禅寺举行，探索佛教如何在奉法守规、礼仪戒律、日常行持、道德建设等方面同中华优秀传统文化相融合、与社会主义社会相适应。论坛现场发布新一辑《觉群佛学译丛》。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-12/10695438.shtml",
-      "publishedAt": "2026-09-12T13:20:22.000Z",
       "tags": [
         "国内",
         "社会",
