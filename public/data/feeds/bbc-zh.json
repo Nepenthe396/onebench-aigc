@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad#0",
+      "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+      "meta": "BBC 中文 · 2026/9/18",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T00:19:45.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad#0",
       "title": "領英高層分享6個人脈竅門，幫你更快找到工作",
       "meta": "BBC 中文 · 2026/9/17",
@@ -17,13 +24,6 @@
       "meta": "BBC 中文 · 2026/9/17",
       "url": "https://www.bbc.com/zhongwen/articles/cm1j4kl4d21lo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T06:54:49.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad#0",
-      "title": "美中峰會前，蕭美琴訪歐背後的「利基」外交",
-      "meta": "BBC 中文 · 2026/9/17",
-      "url": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T00:17:16.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad#0",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-08-04T00:01:45.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T21:29:51.296Z",
+  "updatedAt": "2026-09-18T00:22:14.915Z",
   "provider": "OneBench 公共资讯快照"
 }
