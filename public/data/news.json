@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T16:26:34.038Z",
-  "expiresAt": "2026-09-26T22:26:34.038Z",
+  "generatedAt": "2026-09-26T21:13:15.572Z",
+  "expiresAt": "2026-09-27T03:13:15.572Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,96 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704308.shtml",
+      "title": "柬埔寨设立首个暹罗鳄遗传保护区",
+      "category": "综合",
+      "summary": "中新社金边9月26日电 (杨强 张堰林)柬埔寨官方当地时间26日在一份联合新闻稿中宣布，该国在豆蔻山脉的奥索姆地区正式设立了首个暹罗鳄遗传保护区。这是一个旨在保护世界上最稀有爬行动物之一、极度濒危的暹罗鳄自然遗传多样性的指定区域。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704308.shtml",
+      "publishedAt": "2026-09-26T17:34:53.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704305.shtml",
+      "title": "（爱知·名古屋亚运会）综合消息：中国代表团破“百金” 中国男足时隔28年再进亚运四强",
+      "category": "综合",
+      "summary": "中新社日本名古屋9月26日电 当地时间26日，爱知·名古屋亚运会共决出25枚金牌。中国体育代表团在射击项目中收获本届亚运会第100金。中国男足以3:0战胜泰国男足，时隔28年重返亚运男足四强。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704305.shtml",
+      "publishedAt": "2026-09-26T17:17:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-27/10704306.shtml",
+      "title": "中国儿艺原创舞台剧《十二生肖》亮相悉尼",
+      "category": "综合",
+      "summary": "中新社悉尼9月26日电 (记者 薄雯雯)中国儿童艺术剧院原创视觉舞台剧《十二生肖》(The Dragon Child)26日在澳大利亚悉尼连演两场，吸引2000多名观众。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/09-27/10704306.shtml",
+      "publishedAt": "2026-09-26T17:16:44.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/09-27/10704307.shtml",
+      "title": "比利·简·金杯深圳总决赛：乌克兰队战胜意大利队晋级决赛",
+      "category": "综合",
+      "summary": "中新社深圳9月26日电 (记者 张璐)2026比利·简·金杯深圳总决赛半决赛26日举行，乌克兰队以2:0战胜意大利队，成功晋级决赛。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-27/10704307.shtml",
+      "publishedAt": "2026-09-26T17:16:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/09-27/10704304.shtml",
+      "title": "（爱知·名古屋亚运会）林诗栋/蒯曼击败王楚钦/孙颖莎 夺得亚运会乒乓球混双冠军",
+      "category": "综合",
+      "summary": "中新社日本名古屋9月26日电 (记者 国璇)当地时间26日晚举行的爱知·名古屋亚运会乒乓球混双决赛中，林诗栋/蒯曼以大比分4:0击败卫冕冠军王楚钦/孙颖莎，夺得冠军，中国队实现亚运会乒乓球混双项目三连冠。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/09-27/10704304.shtml",
+      "publishedAt": "2026-09-26T16:27:59.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/09-27/10704303.shtml",
       "title": "驻泰国使馆提醒在泰中国公民防范强降雨及洪涝灾害",
@@ -482,92 +572,164 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/09-26/10704264.shtml",
-      "title": "福建省第九届“正谊杯”古诗文大会在福州落下帷幕",
-      "category": "综合",
-      "summary": "中新网福州9月26日电 (叶秋云)福建省第九届“正谊杯”古诗文大会第二阶段26日在福建福州落下帷幕，来自浙江、广东、福建等地的诗文爱好者相聚正谊书院，在诗文问答、专家分享和文化体验中共赏经典、交流诗意。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/09-26/10704264.shtml",
-      "publishedAt": "2026-09-26T13:23:59.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142895",
+      "title": "【专题报道】以合作应变革，以法治护未来——预防犯罪和刑事司法大会通过《阿布扎比宣言》",
+      "category": "国际",
+      "summary": "当人工智能、加密货币、大数据等新兴技术深刻改变人类社会的同时，犯罪形态也正以前所未有的速度演变。从网络诈骗、勒索软件攻击到跨国有组织犯罪与“犯罪服务化”趋势，数字时代正在重塑全球安全格局。在这一背景下，以“在数字时代保护人民与地球（Protecting People and Planet in the Digital Age）”为主题的第十五届联合国预防犯罪",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142895",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-26/10704265.shtml",
-      "title": "古祠过中秋 晋祠博物馆沉浸式活动让传统节日焕新",
-      "category": "综合",
-      "summary": "中新网太原9月26日电 (记者 胡健)9月25日至27日，“秋光正好·月满晋祠”2026年晋祠博物馆中秋系列文化活动举行。活动以中秋传统节日为契机，依托晋祠古建园林与三晋文脉，通过舞台剧、沉浸式互动、社教课堂、线上直播等形式，让传统节日在古祠中焕发新韵。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-26/10704265.shtml",
-      "publishedAt": "2026-09-26T13:22:33.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142894",
+      "title": "德国外长瓦德富尔：国际法受到侵蚀 一些大国无视《联合国宪章》所载规则",
+      "category": "国际",
+      "summary": "德国外长瓦德富尔周六在联合国大会第八十一届会议一般性辩论上发表讲话说，国际法受到侵蚀，一些大国无视《联合国宪章》所载规则。联合国需要弥合对自身的期望与赋予其的能力之间的差距，并通过改革提升应对冲突和全球性挑战的能力。他同时呼吁建立人工智能安全规则。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142894",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-26/10704263.shtml",
-      "title": "厦金大桥关键工程合龙",
-      "category": "综合",
-      "summary": "中新网厦门9月26日电 (记者 闫旭)记者26日从福建省交通运输厅获悉，厦金大桥(厦门段)项目24日迎来关键节点，刘五店悬索桥顺利合龙。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704263.shtml",
-      "publishedAt": "2026-09-26T13:20:43.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142893",
+      "title": "印度外长苏杰生：和平本身就是道路",
+      "category": "国际",
+      "summary": "印度外交部长苏杰生周六在联合国大会第八十一届会议一般性辩论上发表讲话说，冲突与对抗仍是当前国际社会最主要的关切，印度呼吁各方保持克制、缓和紧张局势，保障平民安全和能源、贸易畅通，并通过对话和外交推动和平。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142893",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/09-26/10704268.shtml",
-      "title": "“金贸全球”助浙江五金产业出海 达成意向订单超1亿元",
-      "category": "综合",
-      "summary": "中新网金华9月26日电(蓝伊旎)“不用辗转出海、不用等待线上询盘，在家门口就能一次性对接到这么多有明确采购意向的外商，这样面对面洽谈的实效远超预期。”9月26日，2026“金贸全球”供采对接会(五金专场)在浙江金华永康举办，一位企业家如是感慨。据悉，该洽谈会上签订了3项正式合作协议，合同金额超1900万元；达成意向合作3项，合同金额超1亿元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704268.shtml",
-      "publishedAt": "2026-09-26T13:20:03.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142892",
+      "title": "新加坡外长维文：多边主义符合所有国家的共同利益",
+      "category": "国际",
+      "summary": "新加坡外交部长维文周六在联合国大会第八十一届会议一般性辩论上发表讲话说，世界正经历大国博弈、地缘政治竞争、战争、贸易壁垒、供应链中断和气候变化，多边主义日益受到挑战。他说，共同规则能够提高可预测性，约束权力任性行使，维护各国自主权，多边主义符合所有国家的共同利益。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142892",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-26/10704267.shtml",
-      "title": "20世纪60年代林野云南边陲写生作品展为民族“三交”留影",
-      "category": "综合",
-      "summary": "中新网上饶9月26日电 作为文化和旅游部2026年全国美术馆青年策展项目扶持计划提名项目，“情感的共生——20世纪60年代林野云南边陲写生作品展”日前亮相江西上饶美术馆。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/09-26/10704267.shtml",
-      "publishedAt": "2026-09-26T13:19:51.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142891",
+      "title": "沙特外交大臣费萨尔：必须确保霍尔木兹海峡等国际水道航行自由",
+      "category": "国际",
+      "summary": "沙特外交大臣费萨尔周六在联合国大会第八十一届会议一般性辩论上发表讲话说，沙特阿拉伯王国及本地区各国遭受伊朗袭击，安全资源以及民用和经济设施成为目标。沙特王国重申有权保护自身安全与主权、公民和居民以及国家资源，并强调必须确保所有国际水道，尤其是霍尔木兹海峡、曼德海峡、红海和亚丁湾的航行自由。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142891",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142890",
+      "title": "俄罗斯外长拉夫罗夫：维护联合国中心地位 建立更加多极化的世界秩序",
+      "category": "国际",
+      "summary": "俄罗斯外长拉夫罗夫周六在联合国大会第八十一届会议一般性辩论上发表讲话说，全球政治格局正在发生剧变，一个更加公平、多极化的世界秩序正在形成，全球南方和东方国家正作为主权发展中心崭露头角。他说，俄罗斯外交政策以这一理念为基础，主张维护《联合国宪章》和国际法，推动建立多极化世界秩序。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142890",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142889",
+      "title": "古巴外长罗德里格斯：古巴不是威胁 封锁才是真正的威胁",
+      "category": "国际",
+      "summary": "古巴外长罗德里格斯周六在联合国大会第八十一届会议一般性辩论上发表讲话说，美国政府对古巴的多维度侵略自2026年1月以来不断升级，包括实施能源封锁、阻止其他国家向古巴出口燃料、限制产品和服务出口，并对各国企业和政府施加压力。他说，美国对古巴的政策违反国际法，古巴不是威胁，“封锁，才是真正的威胁”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142888",
+      "title": "菲律宾外长拉扎罗：南海争端应通过外交和法律途径解决",
+      "category": "国际",
+      "summary": "菲律宾外交部长拉扎罗周六在联合国大会第八十一届会议一般性辩论上发表讲话说，国际法必须作为解决海洋争端的指引，菲律宾坚定认为，争端必须通过外交和法律途径解决，而非诉诸暴力和武力。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142888",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142887",
+      "title": "柬埔寨副首相布拉索昆：重建泰柬信任 通过和平与国际法解决争端",
+      "category": "国际",
+      "summary": "柬埔寨副首相布拉索昆周六在联合国大会第八十一届会议一般性辩论上发表讲话说，柬埔寨将继续寻求与泰国建立基于和平、合作和相互尊重的关系，全面、有效落实双方已达成的协议，重建信任，解决边界争端。他说，应尽快恢复联合边界委员会的勘测和划界工作，根据国际法以及两国现有条约和协议确立清晰且相互承认的边界。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142887",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1173,42 +1335,6 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142863",
-      "title": "阿巴斯：我们绝不离开我们的故土，也绝不允许任何人代替我们决定未来",
-      "category": "国际",
-      "summary": "巴勒斯坦国总统阿巴斯周四在联合国大会第八十一届会议一般性辩论上通过预先录制的视频发表讲话说，巴勒斯坦人民正面临历史上最危险的时刻之一。他呼吁国际社会保护巴勒斯坦人民、结束占领，并在国际合法性的基础上落实“两国方案”。他誓言：“我们绝不离开我们的故土。我们绝不接受流离失所，也绝不允许任何人代替我们决定我们的未来。”",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142863",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142861",
-      "title": "联大高级别周特别报道丨2026年9月24日",
-      "category": "国际",
-      "summary": "欢迎收看联合国大会第81届会议高级别周特别报道。本期节目您将看到，一般性辩论进入第二天，伊朗、乌克兰等战乱国家领导人登上联大讲坛；全球人工智能巨头安理会齐发声：AI发展不能只追求速度，安全必须跟上。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142861",
-      "publishedAt": "2026-09-24T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad#4",
       "title": "特朗普為何親赴機場，超規格接待習近平？",
       "category": "国际",
@@ -1448,132 +1574,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142860",
-      "title": "西班牙首相桑切斯：呼吁捍卫多边主义 支持拉丁美洲女性出任秘书长",
-      "category": "国际",
-      "summary": "西班牙政府首相佩德罗·桑切斯周三在联合国大会第八十一届会议一般性辩论上发表讲话说，和平、可持续发展和机会平等是人类未来不可或缺的一部分，面对对多边主义和联合国的挑战，必须改革并强化联合国，使其继续发挥核心作用。他同时明确表示支持拉丁美洲女性出任秘书长。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142860",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142859",
-      "title": "委内瑞拉代总统罗德里格斯：已启动旨在实现“重生”的民主转型进程",
-      "category": "国际",
-      "summary": "委内瑞拉代总统德尔西·罗德里格斯周三在联合国大会第八十一届会议一般性辩论上发表讲话说，委内瑞拉已启动一项旨在实现“重生”的民主转型进程，这是一个有序、制度化且可核查的进程，旨在建设一个更加自由、更加繁荣、更加和解的国家。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142859",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142858",
-      "title": "【高级别周特别报道】安理会高级别会议聚焦人工智能与国际安全",
-      "category": "国际",
-      "summary": "当地时间9月23日下午，安理会围绕“人工智能与国际安全”问题举行高级别会议。随着生成式人工智能和自主智能体技术快速发展，人工智能治理正成为国际社会关注的新议题。本次会议聚焦先进人工智能系统可能引发的安全风险、治理挑战以及国际合作路径。多位全球人工智能领域的主要科学家和领军企业的负责人在会上发出警示：在技术能力加速提升的同时，人类社会亟需建立与之相适应的全球治",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142858",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142857",
-      "title": "【高级别周特别报道】气候峰会：古特雷斯呼吁各国为摆脱化石燃料制定明确的时间表",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周三表示，“我们是第一代拥有终结化石燃料时代工具的人——也是最后一代能够避免气候灾难的人”。他呼吁各国制定具有可信度的路线图，并设定明确的时间表，以实现摆脱化石燃料的转型。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142857",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142856",
-      "title": "塞尔维亚总统武契奇：国际秩序已发生变化 必须恢复对《联合国宪章》的尊重",
-      "category": "国际",
-      "summary": "塞尔维亚总统武契奇周三在联合国大会第八十一届会议一般性辩论上表示，当前国际体系已经发生根本变化，世界正进入一个权力格局更加复杂、冲突风险更高的时期。他说，必须重建对联合国的信任，但首先需要恢复对《联合国宪章》和国际法原则的尊重。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142856",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142855",
-      "title": "波兰总统纳夫罗茨基：必须恢复国际法至高地位 反对以强权取代法律",
-      "category": "国际",
-      "summary": "波兰总统纳夫罗茨基周三在联合国大会第八十一届会议一般性辩论上表示，联合国成立之初的体系存在“原始缺陷”，即未能充分落实对违法行为追究责任的原则。他说，恢复问责原则、维护国际法至高地位，是实现持久和平的重要基础。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142855",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142854",
-      "title": "泽连斯基：必须限制俄罗斯的行动空间、资金和战争",
-      "category": "国际",
-      "summary": "乌克兰总统泽连斯基周三在联合国大会第八十一届会议一般性辩论上表示，这场与乌克兰之间的战争必须结束，并呼吁限制俄罗斯的行动空间、资金和战争能力。他说，乌克兰正在发展自身防御能力，同时推动外交努力，目标是在战争进一步升级、人工智能开始影响战场之前实现和平。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142854",
-      "publishedAt": "2026-09-23T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
