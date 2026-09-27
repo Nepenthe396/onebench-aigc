@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142896",
+      "title": "【联大高级别周特别报道】高级别会议聚焦海地危机，呼吁加快部署打击黑帮部队",
+      "meta": "联合国新闻 · 2026/9/26",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142896",
+      "publishedAt": "2026-09-26T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142895",
       "title": "【专题报道】以合作应变革，以法治护未来——预防犯罪和刑事司法大会通过《阿布扎比宣言》",
       "meta": "联合国新闻 · 2026/9/26",
@@ -48,7 +55,7 @@
     },
     {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142889",
-      "title": "古巴外长罗德里格斯：古巴不是威胁 封锁才是真正的威胁",
+      "title": "古巴外长罗德里格斯：美国对古巴动用军事力量的威胁依然存在",
       "meta": "联合国新闻 · 2026/9/26",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142889",
       "publishedAt": "2026-09-26T12:00:00.000Z"
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/9/24",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142865",
       "publishedAt": "2026-09-24T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142864",
-      "title": "匈牙利总统鲍卡：权力只有在服从法律时才能赢得信任",
-      "meta": "联合国新闻 · 2026/9/24",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142864",
-      "publishedAt": "2026-09-24T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-26T21:13:15.572Z",
+  "updatedAt": "2026-09-27T00:39:21.066Z",
   "provider": "OneBench 公共资讯快照"
 }
