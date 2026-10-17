@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T18:31:33.601Z",
-  "expiresAt": "2026-10-18T00:31:33.601Z",
+  "generatedAt": "2026-10-17T22:22:30.778Z",
+  "expiresAt": "2026-10-18T04:22:30.778Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -11,8 +11,9 @@
     },
     {
       "id": "sspai",
-      "ok": true,
-      "itemCount": 10
+      "ok": false,
+      "itemCount": 0,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "un-news-zh",
