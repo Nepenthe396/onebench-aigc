@@ -5,6 +5,13 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143064",
+      "title": "【子午播报】2026年10月24日",
+      "meta": "联合国新闻 · 2026/10/24",
+      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143064",
+      "publishedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143062",
       "title": "【世界进行时】2026年10月23日",
       "meta": "联合国新闻 · 2026/10/23",
@@ -206,15 +213,8 @@
       "meta": "联合国新闻 · 2026/10/20",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143032",
       "publishedAt": "2026-10-20T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143034",
-      "title": "秘书长特别代表：中非共和国和平进程取得进展，东北部安全形势仍面临挑战",
-      "meta": "联合国新闻 · 2026/10/20",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143034",
-      "publishedAt": "2026-10-20T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-10-24T04:40:59.866Z",
+  "updatedAt": "2026-10-24T11:06:38.269Z",
   "provider": "OneBench 公共资讯快照"
 }
