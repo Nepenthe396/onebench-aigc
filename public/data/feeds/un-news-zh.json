@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143139",
+      "title": "“教育不能等待”基金6亿美元筹资目标近在咫尺",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143139",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143138",
+      "title": "儿基会：冲突中袭击供水和环境卫生设施事件增加三倍",
+      "meta": "联合国新闻 · 2026/11/5",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143138",
+      "publishedAt": "2026-11-05T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143137",
       "title": "联合国阿卜耶伊安全部队继续发挥稳定作用 无人机袭击凸显地区安全风险",
       "meta": "联合国新闻 · 2026/11/5",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/10/31",
       "url": "https://news.un.org/feed/view/zh/story/2026/10/1143110",
       "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143105",
-      "title": "联合国驻索马里政治特派团结束任务，双方合作开启新篇章",
-      "meta": "联合国新闻 · 2026/10/31",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143105",
-      "publishedAt": "2026-10-31T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/10/1143108",
-      "title": "【世界进行时】2026年10月30日",
-      "meta": "联合国新闻 · 2026/10/30",
-      "url": "https://news.un.org/feed/view/zh/story/2026/10/1143108",
-      "publishedAt": "2026-10-30T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-05T18:02:36.833Z",
+  "updatedAt": "2026-11-05T23:39:50.245Z",
   "provider": "OneBench 公共资讯快照"
 }
