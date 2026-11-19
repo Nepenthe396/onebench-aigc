@@ -26,6 +26,13 @@
       "publishedAt": "2026-11-16T10:11:30.000Z"
     },
     {
+      "id": "who-zh-urn:uuid:6ceb428d-b0d7-474e-ab0e-2c10a7290e6d",
+      "title": "世卫组织发布首份成人1型糖尿病指南",
+      "meta": "世界卫生组织 · 2026/11/14",
+      "url": "https://www.who.int/zh/news-room/14-11-2026-who-issues-first-guidelines-on-type-1-diabetes-for-adults",
+      "publishedAt": "2026-11-14T14:19:04.000Z"
+    },
+    {
       "id": "who-zh-urn:uuid:0450fd9a-f66f-40bc-9b61-31c703ea34af",
       "title": "会员国重申致力于在2027年5月前完成《大流行协定》病原体获取和惠益分享系统附件",
       "meta": "世界卫生组织 · 2026/11/13",
@@ -136,15 +143,8 @@
       "meta": "世界卫生组织 · 2026/10/12",
       "url": "https://www.who.int/zh/news-room/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
       "publishedAt": "2026-10-12T16:01:00.000Z"
-    },
-    {
-      "id": "who-zh-urn:uuid:06c1c1c3-7c92-42f0-b07d-f908bf1c5727",
-      "title": "世卫组织大流行病和流行病情报中心确定宏伟目标：在24小时内发现新发疫情",
-      "meta": "世界卫生组织 · 2026/10/12",
-      "url": "https://www.who.int/zh/news-room/12-10-2026-who-pandemic-hub-sets-ambitious-goal-to-detect-new-outbreaks-within-24-hours",
-      "publishedAt": "2026-10-12T09:04:55.000Z"
     }
   ],
-  "updatedAt": "2026-11-19T10:24:52.391Z",
+  "updatedAt": "2026-11-19T20:41:15.870Z",
   "provider": "OneBench 公共资讯快照"
 }
